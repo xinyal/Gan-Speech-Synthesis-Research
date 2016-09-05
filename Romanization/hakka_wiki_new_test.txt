@@ -1,0 +1,5 @@
+
+( data_00006 "chung5koet hau yu3miang3 go2 faka5 、 sii5ngin3 、 chokka5 、 su5fapka5 hochhiin5 「 chung5koet vun3fa go2 koetzai3 pun5cha2 」" )
+( data_00001 "lim3cyun1 vito kong5si5 go2 tung5theu3 ， yi3kim5 he fu2zau1 go2 siihotkhi5 yi5 honngin3 vichu2" )
+( data_00088 "chiapto ngien3 koetlip8 nam3chhong5thaihok8 sii5famhok8yen koi2 chu5sang3 kong5si5 sii5famhok8yen （ heuloi3 go2 kong5si5sii5famthaihok8 ）" )
+( data_00

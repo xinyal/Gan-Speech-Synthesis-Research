@@ -1,0 +1,336 @@
+/ 1/ ./ 	/ jin3li1jin3/ ，/ daan6/ gan1sin3/ 
+/ 2/ ./ 	/ daan6/ dou3/ gwok3gaa1dim3/ 
+/ 3/ ./ 	/ daa2pun4seoi2/ ，/ sai2/ go2/ min6/ 
+/ 4/ ./ 	/ saam1zek3/ baau1zi2/ zyu2/ jau4min6/ 
+/ 
+/ 5/ ./ 	/ dim2dim2/ dim2dim2/ fei1/ ！/ 
+/ 6/ ./ 	/ zau2li1/ jau4tin4/ zau2baan2/ bui3/ 
+/ 
+/ 7/ ./ 	/ co1jat1/ 、/  / sap6ng5/ 
+/ 8/ ./ 	/ maau1ngai4/ 、/ lou5syu2/ 
+/ 9/ ./ 	/ zyun3dou3/ dung6leoi5/ ，/ dou1/ ！/ 
+/ 
+/ 10/ ./ 	/ gwo3lou6/ gwo3lou6haak3/ 
+/ 
+/ 11/ ./ 	/ nei5bit6/ tau1/ bat1/ ngo5/ go2/ dung1gwaa1/ sai1gwaa1/ 
+/ 12/ ./ 	/ nei5/ go2/ dung1gwaa1/ sai1gwaa1/ jau5/ gei2daai6li1/ ？/ 
+/ 13/ ./ 	/ ngo5/ go2/ dung1gwaa1/ sai1gwaa1/ jau5bui1zaan2/ daai6li1/ 
+/ 
+/ 14/ ./ 	/ nei5bit6/ tau1/ bat1/ ngo5/ go2/ dung1gwaa1/ sai1gwaa1/ 
+/ 15/ ./ 	/ nei5/ go2/ dung1gwaa1/ sai1gwaa1/ jau5/ gei2daai6li1/ ？/ 
+/ 16/ ./ 	/ ngo5/ go2/ dung1gwaa1/ sai1gwaa1/ jau5hoeng1wun2/ daai6li1/ 
+/ 
+/ 17/ ./ 	/ nei5bit6/ tau1/ bat1/ ngo5/ go2/ dung1gwaa1/ sai1gwaa1/ 
+/ 18/ ./ 	/ nei5/ go2/ dung1gwaa1/ sai1gwaa1/ jau5/ gei2daai6li1/ ？/ 
+/ 19/ ./ 	/ ngo5/ go2/ dung1gwaa1/ sai1gwaa1/ jau5ci4/ pun4daai6li1/ 
+/ 20/ ./ 	/ gwo3lou6/ gwo3lou6haak3/ haak3/ 
+/ 21/ ./ 	/ nei5bit6/ tau1/ bat1/ ngo5/ go2/ dung1gwaa1/ sai1gwaa1/ 
+/ 22/ ./ 	/ nei5/ go2/ dung1gwaa1/ sai1gwaa1/ jau5/ gei2daai6li1/ ？/ 
+/ 23/ ./ 	/ ngo5/ go2/ dung1gwaa1/ sai1gwaa1/ jau5zau2/ pun4daai6li1/ 
+/ 
+/ 
+/ 24/ ./ 	/ maa4zoek3/ mai1/ ，/ sek6soeng6/ kei4/ ，/ noeng4/ zou6/ faa1haai4/ neoi5heoi3/ gwai1/ 。/ 
+/ 25/ ./ 	/ bat1jiu3/ noeng4/ dik1/ faa1haai4/ zyu3/ ，/ zi2jiu3/ je4dik1/ faa1giu2/ zo6/ ；/ 
+/ 26/ ./ 	/ jat1/ zo6zo6/ dou3/ lung4gwat1/ dou6/ ，/ daa2hoi1/ giu2mun4/ hon3/ san1noeng4/ ；/ 
+/ 27/ ./ 	/ san1noeng4/ bat1jung6/ hon3/ ，/ goek3jau5/ baat3cyun3/ bun3/ 。/ 
+/ 
+/ 28/ ./ 	/ maa4zoek3/ mai1/ ，/ sek6soeng6/ gwan2/ ，/ giu3/ ngo5/ go1go1/ heoi3/ maai5fan2/ ；/ 
+/ 29/ ./ 	/ maai5dou3/ fan2loi4/ bat1wui6/ caa4/ ，/ giu3/ ngo5/ go1go1/ heoi3/ maai5/ maa4/ ；/ 
+/ 30/ ./ 	/ maai5dou3/ maa4loi4/ bat1wui6/ zik1/ ，/ giu3/ ngo5/ go1go1/ heoi3/ maai5bat1/ ；/ 
+/ 31/ ./ 	/ maai5dou3/ bat1loi4/ bat1wui6/ se2/ ，/ giu3/ ngo5/ go1go1/ heoi3/ maai5maa5/ ；/ 
+/ 32/ ./ 	/ maai5/ dou3/ maa5loi4/ bat1wui6/ ke4/ ，/ giu3/ ngo5/ go1go1/ heoi3/ maai5/ lai4/ ；/ 
+/ 33/ ./ 	/ maai5dou3/ lai4loi4/ bat1wui6/ caau3/ ，/ giu3/ ngo5/ go1go1/ heoi3/ maai5/ dou1/ ；/ 
+/ 34/ ./ 	/ maai5dou3/ dou1loi4/ waang4zoek3zik6/ zoek3/ ，/ zoek3/ dou3/ zi6gei2/ dik1/ goek3/ 。/ 
+/ 
+/ 35/ ./ 	/ maa4zoek3/ mei5/ ，/ jiu4/ fung1syu6/ ，/ 
+/ 36/ ./ 	/ jiu4jau6jiu4bat1dung6/ ，/ jyun4lou6/ haam3/ aa3gung1/ ，/ 
+/ 37/ ./ 	/ aa3gung1/ man6ngo5/ caa4/ ，/ sap6mo1/ caa4/ ？/ sin1caa4/ ；/ 
+/ 38/ ./ 	/ sap6/ go2/ sin1/ ？/ seoi2sin1/ ；/ 
+/ 39/ ./ 	/ sap6/ go2/ seoi2/ ？/ ngau4ce1/ zeng2seoi2/ ；/ 
+/ 40/ ./ 	/ sap6/ go2/ ngau4/ ？/ gaang1tin4/ ngau4/ ；/ 
+/ 41/ ./ 	/ sap6/ go2/ gaang1/ ？/ no6mai5/ gaau2/ hei1gang1/ ；/ 
+/ 42/ ./ 	/ sap6/ go2/ no6/ ？/ hung4hok3/ no6/ ；/ 
+/ 43/ ./ 	/ sap6/ go2/ hung4/ ？/ gwaa1zi2/ hung4/ ；/ 
+/ 44/ ./ 	/ sap6/ go2/ gwaa1/ ？/ naam4gwaa1/ bak1gwaa1/ 。/ 
+/ 45/ ./ 	/ jat1/ gwan2gwan2/ dou3/ kiu4dai2haa6/ 。/ 
+/ 46/ ./ 	/ je4tek3/ jat1goek3/ ，/ zai2/ tek3/ jat1goek3/ ，/ 
+/ 47/ ./ 	/ jat1/ tek3tek3/ soeng6/ uk1gok3/ 。/ 
+/ 48/ ./ 	/ uk1gok3/ bat1/ zyun2tau4/ ，/ ling6/ sai3bin3/ wong4ngau4/ ；/ 
+/ 49/ ./ 	/ wong4ngau4/ bat1dau1ce1/ ，/ ling6/ sai3bin3/ fu2gwaa1/ ；/ 
+/ 50/ ./ 	/ fu2gwaa1/ bat1zyu3zi2/ ，/ ling6/ sai3bin3/ ke2zi2/ ；/ 
+/ 51/ ./ 	/ ke2zi2/ bat1zyu3/ baa2/ ，/ ling6sai3hou2/ gou3faa3/ ；/ 
+/ 52/ ./ 	/ gou3faa3/ mou6/ jau5/ lou6/ ，/ ling6sai3hou2/ soeng6/ syu6/ ；/ 
+/ 53/ ./ 	/ bou2wo1/ jau6/ paa3/ gau2/ ，/ 
+/ 54/ ./ 	/ daam1hei2/ lo4zai2/ gwan2hei2/ zau2/ 。/ 
+/ 
+/ 55/ ./ 	/ maa4zoek3/ mai1/ ，/ sek6soeng6cai1/ ，/ noeng4/ zou6/ faa1haai4/ sung3/ gaa3ji1/ 。/ 
+/ 56/ ./ 	/ bat1jiu3/ noeng4/ go2/ faa1haai4/ zyu3/ ，/ zi2jiu3/ je4/ go2/ faa1giu2/ zo6/ ，/ 
+/ 57/ ./ 	/ jat1/ zo6zo6/ dou3/ cung4syu6/ ting4/ ，/ daa2hoi1/ faa1giu2/ hon3/ san1jan4/ ，/ 
+/ 58/ ./ 	/ san1jan4/ bat1jung6/ hon3/ ，/ goek3jau5/ baat3cyun3/ bun3/ ，/ 
+/ 59/ ./ 	/ san1jan4/ bat1jung6/ ciu4/ ，/ paai4paai4/ coeng4coeng4/ jau5jan4/ mau4/ 。/ 
+/ 
+/ 60/ ./ 	/ dim2dim2/ zyu1zyu1/ ，/ hoi1mun4/ se2syu1/ 。/ 
+/ 61/ ./ 	/ mong4gei3/ bat1mak6/ ，/ zuk1/ dou3/ lou5caak3/ 。/ 
+/ 62/ ./ 	/ lou5caak3/ tau1caai4/ ，/ zuk1/ dou3/ wut6maai4/ 。/ 
+/ 63/ ./ 	/ maai4zyu1/ maai4/ gau2/ ，/ jat1maai4/ zau6/ zau2/ 。/ 
+/ 
+/ 64/ ./ 	/ ding2/ gong1/ ding2/ gong1/ ，/ ngau4/ hek3seoi2/ joeng1/ 。/ 
+/ 65/ ./ 	/ bun3gan1/ maa4jau4/ ，/ ziu3/ dou3/ tin1gwong1/ 。/ 
+/ 66/ ./ 	/ dou2/ liu5/ uk1zai2/ ，/ aat3sei2/ liu5/ ngaa4/ zai2/ 。/ 
+/ 67/ ./ 	/ wu1/ …/ kaak3/ 
+/ 
+/ 68/ ./ 	/ tou2dei6gung1/ ，/ tou2dei6po4/ 
+/ 69/ ./ 	/ hek3/ ngo5/ zaai1faan6/ bou2/ ngo5/ wo4/ 。/ 
+/ 70/ ./ 	/ gam1nin4/ bou2/ ngo5/ cin1cin1/ daam1/ ，/ 
+/ 71/ ./ 	/ ming4nin4/ bou2/ ngo5/ maan6maan6/ lo4/ 。/ 
+/ 
+/ 72/ ./ 	/ gai1gung1/ mei5baa1/ coeng4/ ，/ lou5po4/ can1gwo3/ noeng4/ ，/ 
+/ 73/ ./ 	/ noeng4ci5/ lou6bin1/ cou2/ ，/ bat1si6/ lou5po4/ hou2/ ，/ 
+/ 74/ ./ 	/ noeng4/ jiu3cin4/ ，/ sau2jat1saat3/ ，/ lou5po4/ jiu3cin4/ tim5/ zi2/ haa6/ ，/ 
+/ 75/ ./ 	/ jau5cin4/ bat1/ baa2/ taa1/ ，/ faat3hei3/ gaa3/ bit6gaa1/ ，/ 
+/ 76/ ./ 	/ siu1faan6/ zyu2zuk1/ mut6jan4gun2/ ，/ mou4ngai4mou4neoi5/ zou6/ gu1gwaa2/ 。/ 
+/ 
+/ 77/ ./ 	/ jyut6gwong1gwong1/ ，/ zau2/ ho4fong1/ ，/ ho4fong1/ pung3dou3/ :/ 
+/ 78/ ./ 	/ zyu1haam4/ caai4/ ，/ gau2/ siu1fo2/ ，/ maau1mai1/ zing1faan6/ hei3/ ho1ho1/ ，/ 
+/ 79/ ./ 	/ hau4zi2/ daam1seoi2/ zeng2soeng6/ zo6/ ，/ jat1tiu4/ wu1se4/ san1bin1/ gwo3/ ，/ 
+/ 80/ ./ 	/ haak3dak1/ hau4zi2/ daa2do1so1/ 。/ 
+/ 
+/ 81/ ./ 	/ jyut6gwong1gwong1/ ，/ min6pun4/ dong1/ ，/ ze2ze2/ ceot1gaa3/ ngo5/ gong1/ soeng1/ 。/ 
+/ 82/ ./ 	/ ze2ze2/ huk1/ ，/ ngo5/ jaa5/ huk1/ ，/ ze2ze2/ hek3faan6/ ngo5/ hek3/ zuk1/ 。/ 
+/ 83/ ./ 	/ ze2ze2/ waa6/ ngo5/ gwaai1gwaai1/ bou2/ ，/ ngo5waa6/ ze2ze2/ gaa3/ go2/ laai3zi2/ nou5/ 。/ 
+/ 
+/ 84/ ./ 	/ joeng4ci3po4/ ，/ fei1gwo3/ ho4/ ，/ 
+/ 85/ ./ 	/ daa2laan6/ gong1/ ，/ wai3zyu1/ maa1/ 。/ 
+/ 86/ ./ 	/ zyu1maa1/ wai3/ dak1/ ngau4joeng6/ daai6/ ，/ hin1/ dou3/ fu2ho4/ sing4leoi5/ maai6/ ；/ 
+/ 87/ ./ 	/ maai6/ jau6/ bat1zik6cin4/ ，/ hin1ce2/ heoi3/ gwai1/ gwo3nin4/ 。/ 
+/ 88/ ./ 	/ noeng4/ bat1hek3/ ，/ je4/ bat1hek3/ ，/ hin1soeng6/ bik1/ ；/ 
+/ 89/ ./ 	/ bik1mou6lou6/ ，/ hin1soeng6/ syu6/ ；/ 
+/ 90/ ./ 	/ syu6mou6aa1/ ，/ dit3/ zoi6/ po4po4/ si2/ gaau3/ haa6/ ；/ 
+/ 91/ ./ 	/ zo2jat1mo2/ ，/ jau6jat1mo2/ ，/ mo2/ dou3/ saam1zi1/ pan3hoeng1/ faa1/ ；/ 
+/ 92/ ./ 	/ daai6neoi5/ loi4/ ，/ daai3/ jat1zi1/ ；/ 
+/ 93/ ./ 	/ sai3neoi5/ loi4/ ，/ daai3/ jat1zi1/ ；/ 
+/ 94/ ./ 	/ waan4jau5/ jat1zi1/ caap3/ zoi6/ daai6mun4hau2/ ，/ 
+/ 95/ ./ 	/ faa1/ faa1niu5/ zai2/ loi4zok3/ caau4/ ；/ 
+/ 96/ ./ 	/ caau4ngai4/ zok3dak1jyun4/ jau6/ coeng4/ ，/ daa2lo4/ daa2gu2/ zip3/ san1noeng4/ ；/ 
+/ 97/ ./ 	/ san1noeng4/ ai2/ ，/ gaa3/ pong4haai5/ ；/ 
+/ 98/ ./ 	/ pong4haai5/ baat3zek3/ goek3/ ，/ gaa3/ pong5hok3/ ；/ 
+/ 99/ ./ 	/ pong5hok3/ jat1tiu4/ fung4/ ，/ gaa3/ coi4fung4/ ；/ 
+/ 100/ ./ 	/ coi4fung4/ sau2zuk1/ maan6/ ，/ gaa3/ zi2ngaan6/ ；/ 
+/ 101/ ./ 	/ ngaan6wui6/ fei1/ ，/ gaa3/ je5gai1/ ；/ 
+/ 102/ ./ 	/ je5gai1/ mun5saan1/ zau2/ ，/ gaa3/ zek3/ gau2/ ；/ 
+/ 103/ ./ 	/ gau2wui6/ hou4/ ，/ gaa3/ zek3/ maau1/ ，/ 
+/ 104/ ./ 	/ maau1ngai4/ tiu3gwo3/ coeng4/ ，/ zuk1/ dou3/ lou5syu2/ dik1/ noeng4/ ；/ 
+/ 105/ ./ 	/ lou5syu2/ heoi3/ cam4noeng4/ ，/ cam4dou3/ loeng5gan1/ faa1faa1/ coeng4/ 。/ 
+/ 106/ ./ 	/ lou5syu2/ lou5syu2/ loi4/ huk1noeng4/ ，/ jat1je6/ naau6dou3/ tin1daai6/ loeng6/ 。/ 
+/ 107/ ./ 	/ jyut6gwong1/ je4je4/ ，/ bou2wu6/ ngaa4/ ngaa4/ 。/ 
+/ 108/ ./ 	/ ngaa4/ ngaa4/ coeng4daai6/ ，/ sang1ji3/ maai5maai6/ 。/ 
+/ 109/ ./ 	/ maai5maai6/ zaan6cin4/ ，/ maai5gai1/ maai5/ juk6/ gwo3nin4/ 。/ 
+/ 110/ ./ 	/ gwo3nin4/ gwo3dak1/ hou2/ ，/ ceoi2/ go2/ daai6sou2/ 。/ 
+/ 111/ ./ 	/ daai6sou2/ wui6/ dong1gaa1/ ，/ sai3sou2wui6/ tiu1faa1/ 。/ 
+/ 112/ ./ 	/ jat6lei5/ tiu1/ go2/ tyun4tyun4zyun2/ ，/ je6leoi5/ tiu1/ go2/ maau5daan1faa1/ 。/ 
+/ 113/ ./ 	/ maau5daan1faa1/ haa6/ jat1deoi3/ ngo4/ ，/ gwo3loi4/ gwo3heoi3/ hon3/ aa3po4/ ，/ 
+/ 
+/ 114/ ./ 	/ aa3po4/ bat1/ zoi6gaa1/ ，/ 
+/ 115/ ./ 	/ loeng5/ go2/ haa1/ ji4/ dou2/ wun2/ caa4/ ，/ 
+/ 116/ ./ 	/ dou2/ wun2/ sap6li1/ caa4/ ，/ dou2/ wun2/ zi1maa4/ dau6zi2/ caa4/ ，/ 
+/ 117/ ./ 	/ ngo5/ go2/ zi1maa4/ mou5/ hoi1faa1/ ，/ nei5/ zi1maa4/ zau6/ zoi6/ haap3/ 
+/ 118/ ./ 	/ syu1liu5cin4/ ，/ bat1jing6zoeng3/ 
+/ 119/ ./ 	/ zo6fo2ce1/ ，/ dou3/ gau2gong1/ 
+/ 120/ ./ 	/ gau2gong1/ faat3liu5/ fo2/ ，/ haak3dak1/ wong5/ maau4si1lei5/ do2/ 
+/ 121/ ./ 	/ maau4si1lei5/ jat1tiu4/ se4/ ，/ haak3dik1/ wong5/ syu6soeng6/ paa4/ 
+/ 122/ ./ 	/ syu6soeng6/ jat1zek3/ wun2/ ，/ got3/ bat1liu5/ bun6zi2/ go2/ leon2/ 
+/ 
+/ 123/ ./ 	/ caak3/ dung1bik1/ ，/ bou2/ sai1bik1/ 。/ 
+/ 124/ ./ 	/ caak3naam4bik1/ ，/ bou2/ bak1bik1/ ，/ caak3bik1/ bou2bik1bik1/ bou2bik1/ 
+/ 125/ ./ 	/ wu1/ jat1cin1/ ，/ maa4/ baat3baak3/ ，/ baak6/ gai1po4/ haa6daan6/ bat1gau3/ hek3/ 。/ 
+/ 126/ ./ 	/ baak6bik1gwaa3/ baak6waak6/ ，/ waan4si6/ waak6baak6/ ci5bik1/ ，/ waan4si6/ bik1baak6/ ci5waak6/ 。/ 
+/ 127/ ./ 	/ hek3/ juk6/ mou5/ fan6/ ，/ daa2laan6/ but3zi2/ jau5/ fan6/ 
+/ 128/ ./ 	/ jat1/ zuk1gou1/ daa2dou2/ jat1syun4/ jan4/ 
+/ 129/ ./ 	/ dong1min6lo4/ ，/ deoi3min6gu2/ 
+/ 130/ ./ 	/ si2/ gap1jin6/ waat3haang1/ tau4/ 
+/ 131/ ./ 	/ laan5jan4/ si2niu6/ do1/ 
+/ 132/ ./ 	/ jin2hei3/ gok1/ si6/ din1zi2/ ，/ hon3hei3/ gok1/ si6/ ceon2zi2/ 
+/ 133/ ./ 	/ mung2mung2dung2dung2/ ，/ daam1daam1/ seoi2tung2/ ，/ dit3/ bat1/ jat1tau4/ ，/ waan4/ bat1/ hiu2dak1/ hing1cung5/ 
+/ 134/ ./ 	/ haam4jyu4/ zai2jin1/ faan6/ ，/ wo1/ dou1/ mei6/ gwaat3/ laan6/ 
+/ 135/ ./ 	/ jau5joeng6/ mou5/ joeng6/ hon3/ sai3soeng6/ 
+/ 136/ ./ 	/ cyun1/ hon3cyun1/ ，/ wu6/ hon3wu6/ ，/ kwan4zung3/ hon3/ gon1bou6/ 
+/ 137/ ./ 	/ daa2tit3/ mou5/ joeng6/ ，/ bin1/ daa2bin1/ zoeng6/ 。/ 
+/ 138/ ./ 	/ gaau2/ zau2zok3/ dau6fu6/ ，/ cung1/ bat1dak1/ lou5si1fu6/ 
+/ 139/ ./ 	/ tou2can1/ gaa3neoi5/ ，/ bat1/ bei6/ fung1jyu5/ 
+/ 140/ ./ 	/ o1/ si2/ bat1/ ceot1jyun3/ haang1tau4/ 
+/ 141/ ./ 	/ hek3li1/ ng5jyut6/ zung2/ ，/ coi4/ baa2/ bou3laam4sung3/ 
+/ 142/ ./ 	/ hek3/ zau2loeng4/ san1gaai3/ 
+/ 143/ ./ 	/ daa2si1paa3/ maang5si1/ 
+/ 144/ ./ 	/ ngaa4zak1/ seoi3/ bun3/ ，/ faan1taan4/ daa2gun3/ 
+/ 145/ ./ 	/ daa2tit3/ wun6tong4/ ，/ gok3jau5/ gok3hang4/ 
+/ 146/ ./ 	/ jat1zi2/ lo4baak6/ jat1zi2/ wo1/ 
+/ 147/ ./ 	/ jau6/ zou6hou2/ ，/ jau6/ zou6/ cau2/ 
+/ 148/ ./ 	/ waat3/ fat1lung1/ cam4se4/ daa2/ 
+/ 149/ ./ 	/ zyu1jau4/ caau2coi3/ ，/ gok3jau5so2oi3/ 。/ 
+/ 150/ ./ 	/ laat3lei6/ po4so1nou5/ －/ －/ mou5/ gei3sing3/ 
+/ 151/ ./ 	/ gau2/ hek3/ zung2zi2/ －/ －/ mou5/ gaai2/ 。/ 
+/ 152/ ./ 	/ zik6/ zuk1gun2/ dou2/ dau6zi2/ 
+/ 153/ ./ 	/ gau2/ tou5lei5/ jat1gan1/ coeng4/ 
+/ 154/ ./ 	/ naa4/ zuk1gou1/ coek3/ tin1/ 
+/ 155/ ./ 	/ zok3tin4/ bat1wun6zung2/ ，/  / leoi6dak1/ bui3/ gung2/ gung2/ 
+/ 156/ ./ 	/ jat1nin4/ zok3tin4/ ，/ loeng5nin4/ hek3faan6/ 
+/ 157/ ./ 	/ ceon1zang1/ jat6/ ，/ haa6zang1/ si4/ 。/ 
+/ 158/ ./ 	/ coi3jyun4/ coi3jyun4/ ，/ jat6jat6/ jiu3/ jyun4/ 。/ 
+/ 159/ ./ 	/ tau4dou6/ zou2/ ，/ ji6dou6/ hou2/ ，/ saam1dou6/ coi3maa5/ paau2/ 
+/ 160/ ./ 	/ hou2zung2/ ceot1/ hou2miu4/ 
+/ 161/ ./ 	/ joeng1hou2/ jat1bun3/ wo4/ 
+/ 162/ ./ 	/ mung2mung2dung2dung2/ ，/ cing1ming4/ zam3zung2/ 
+/ 163/ ./ 	/ leoi4gung1/ sin1/ coeng3go1/ ，/ jau5jyu5/ jaa5/ bat1/ do1/ 
+/ 164/ ./ 	/ fo2siu1wan4/ ，/ ming4jat6/ saai3/ sei2/ jan4/ 
+/ 165/ ./ 	/ ji6sei3/ baat3jyut6/ lyun6/ cyun1ji1/ 
+/ 166/ ./ 	/ goeng1/ waan4si6/ lou5/ go2/ laat6/ 
+/ 167/ ./ 	/ zeoi2soeng6/ mou5/ mou4/ ，/ baan6si6bat1lou4/ 
+/ 168/ ./ 	/ jan4bei2jan4/ ，/ hei3sei2jan4/ 
+/ 169/ ./ 	/ hek3zau2/ bat1paa3/ min6hung4/ 
+/ 170/ ./ 	/ dim2zau2/ bat1soeng4/ ，/ hek3/ coi3/ daai6wong4/ 
+/ 171/ ./ 	/ man6haak3/ saat3gai1/ ，/ to4zi2/ zok3jap1/ 
+/ 172/ ./ 	/ wong4faa1gwai1neoi5/ hung4faa1/ zai2/ ，/ gu1zoeng6/ bun3/ go2/ zai2/ 
+/ 173/ ./ 	/ cong4soeng6/ si6/ fu1cai1/ ，/ cong4haa6/ si6/ gwan1zi2/ 
+/ 174/ ./ 	/ bun2si6/ jau6/ mou5/ ，/ pei4hei3/ jau6ngou6/ 。/ 
+/ 175/ ./ 	/ hek3/ dak1/ zou6/ bat1dak1/ ，/ dit3dou2/ li1hei2/ bat1dak1/ 
+/ 176/ ./ 	/ dik6mai5/ sing4lo4/ ，/ dik6seoi2sing4ho4/ 
+/ 177/ ./ 	/ cyun1bat1kung4/ ，/ hek3/ bat1kung4/ ，/ tou2waai6/ li1/ lou5po4/ jat1sai3/ kung4/ 
+/ 178/ ./ 	/ hek3gwong1/ jung6gwong1/ ，/ san1tai2gin6hong1/ 
+/ 179/ ./ 	/ zoek3mok1/ gwai2/ 
+/ 180/ ./ 	/ hek3duk6sik6/ 
+/ 181/ ./ 	/ gwaan3daa2/ gwaan3haak3/  / gaau2wan6/ seoi2/ 
+/ 182/ ./ 	/ ngoi6lei5/ ngoi6hang4/ ，/ hek3/ baau1zi2/ lau6tong4/ 
+/ 183/ ./ 	/ hap6seoi6/ pung3dou3/ zam2tau4/ 
+/ 184/ ./ 	/ zou6waai6/ sang1ji3/ zau6/ jat1wui4/ ，/ tou2waai6/ lou5po4/ zau6/ jat1sang1/ sai3/ 
+/ 185/ ./ 	/ jau6/ zou6jan4/ ，/ jau6/ zou6gwai2/ 
+/ 186/ ./ 	/ jat1zek3/ dung6cong4/ bat1dak1/ loeng5zek3/ lou5fu2/ 
+/ 187/ ./ 	/ nei5/ zou6/ dak1/ co1jat1/ ，/ ngo5/ zau6/ zou6/ dak1/ sap6ng5/ 
+/ 188/ ./ 	/ hoeng1haa6/ lo4gu2/ hoeng1haa6/ daa2/ 
+/ 189/ ./ 	/ mou5/ jau4/ mou5/ jim4/ 
+/ 190/ ./ 	/ zyu2dung1/ bat1jing3/ haak3bat1soeng6/ 
+/ 191/ ./ 	/ ai2zi2/ ai2/ ，/ jat1tou5/ gwaai2/ 
+/ 192/ ./ 	/ ai2po4/ ai2/ ，/ jat1tou5/ zai2/ 
+/ 193/ ./ 	/ ce2/ sai1pei4/ 
+/ 194/ ./ 	/ pei3gu2/ soeng6diu3/ syun3pun4/ 
+/ 195/ ./ 	/ saam1sap6/ maan5soeng6/ go2/ zou3/ cin4/ -/ -/ -/ -/ jan4/ gaau2gaau2/ li1/ 
+/ 196/ ./ 	/ lou5fu2/ ze3/ zyu1tau4/ －/ －/ jau5/ ze3/ mou5/ waan4/ 
+/ 197/ ./ 	/ mou5/ ngau4/ naa4/ maa5loi4/ dong1/ 
+/ 198/ ./ 	/ jau6/ soeng2/ ngau4bit6/ coek3/ ，/ jau6/ paa3/ ngau4/ daa2goek3/ 
+/ 199/ ./ 	/ kaau3/ de1de1/ wui6/ lou5/ ，/ kaau3coeng4/ coeng4wui6/ dou2/ 
+/ 200/ ./ 	/ cin1gwai6/ maan6baai3/ jat1lou4/ hoeng1/ ，/ bat1jyu4/ sang1cin4/ jat1wun2/ tong1/ 
+/ 201/ ./ 	/ lok6/ bat1/ li1/ jyu5loi4/ sung3saan3/ ，/ daa2sei2/ gau2/ loi4gong2/ gau2gaa3/ 
+/ 202/ ./ 	/ zo2gaan2jau6/ gaan2/ ，/ gaan2dou3/ jat1zek3/ lau6/ dang1zaan2/ 
+/ 203/ ./ 	/ lo4baak6/ zyu2zuk1/ 
+/ 204/ ./ 	/ jat1jan4naan4/ mun5baak3/ jan4ji3/ 
+/ 205/ ./ 	/ jau5cin4/ zau6/ gat1on1/ fu2/ ，/ mou5/ cin4/ zau6/ gat1on1/ fu2/ 
+/ 206/ ./ 	/ ceot1mun4/ hon3/ tin1sik1/ ，/ zeon3mun4/ hon3/ min6sik1/ 
+/ 207/ ./ 	/ saat3zyu1/ mou5/ hek3/ jaa5/ jau5/ hek3/ ，/ bun1gaa1/ mou5/ syun2jaa5/ jau5syun2/ 
+/ 208/ ./ 	/ dau6fu6/ mou5/ haam4gau2/ dou1/ jim4/ 
+/ 209/ ./ 	/ cin1gwan2/ dau6fu6/ maan6gwan2jyu4/ 
+/ 210/ ./ 	/ caau2coi3/ bat1/ jung6hok6/ ，/ zau6si6/ jiu3kan4/ sai2wo1/ 
+/ 211/ ./ 	/ soeng6cong4/ go2/ lo4baak6/ haa6/ cong4/ go2/ goeng1/ 
+/ 212/ ./ 	/ ngau4/ laang5laang5/ gok3/ ，/ jan4/ laang5laang5/ goek3/ 
+/ 213/ ./ 	/ jat1je6/ gwaan3waai6/ li1/ zai2/ 
+/ 214/ ./ 	/ hok6hou2/ ，/ cin1jat6/ bat1zuk1/ ，/ hok6daai2/ ，/ jat1gung1/ jau5jyu4/ 
+/ 215/ ./ 	/ ngaa4li1/ bat1jiu3/ laan5/ ，/ daai6li1/ lou5po4/ zeon6/ nei5/ tiu1/ 
+/ 216/ ./ 	/ wui6/ zau2zau2/ jyu5bat1jing4/ ，/ wui6/ daa2/ daa2gwai2/ bat1jing4/ 
+/ 217/ ./ 	/ daa2gau2/ saan3tong4/ 
+/ 218/ ./ 	/ daa2li1/ ding1zi2/ waan1li1/ goek3/ 
+/ 219/ ./ 	/ gin3gun1/ mok6/ hoeng3cin4/ ，/ hek3faan6/ mok6hoeng3/ hau6/ 
+/ 220/ ./ 	/ hou2hek3/ bat1lau4/ zung2/ 
+/ 221/ ./ 	/ hou2hon3/ do1paa3/ cai1/ 
+/ 222/ ./ 	/ coek3soeng6/ gaau3zai2/ ，/ zam2bin1/ gou3/ cai1/ 
+/ 223/ ./ 	/ ning4jiu3/ hat1/ po4noeng4/ ，/ bat1jiu3/ soeng1gung1/ de1/ 
+/ 224/ ./ 	/ jat1joeng6/ go2/ mai5/ gung1/ ceot1/ baak3joeng6/ go2/ jan4/ 
+/ 225/ ./ 	/ gin3/ jan4/ saam1/ bin2daam1/ 
+/ 226/ ./ 	/ zi2jau5/ ceoi1gung1/ mou5/ ceoi1/ hek3/ 
+/ 227/ ./ 	/ leoi4gung1/ bat1/ daa2/ hap1faan6/ jan4/ 
+/ 228/ ./ 	/ hek3/ jin1/ hit3hei3/ ，/ lou5baan2/ bat1gam2/ fong3pei3/ 
+/ 229/ ./ 	/ coek3/ maa6jan4/ daa2/ baat3zit3/ 
+/ 230/ ./ 	/ wo4soeng6/ bat1/ gap1/ dou6si6/ gap1/ 
+/ 231/ ./ 	/ sap6joeng6/ mou5/ jat1joeng6/ 
+/ 232/ ./ 	/ co1loi4/ bou3dou3/ ，/ bat1/ hiu2dak1/ haang1tau4zeng2/ zou3/ 
+/ 233/ ./ 	/ gai1jau5/ gai1lou6/ ，/ aap3jau5/ aap3lou6/ ，/ gap3maa4/ mou6lou6/ jaa5/ tiu3/ saam1bou6/ 
+/ 234/ ./ 	/ cin4wo1/ jiu5/ dou3hau6wo1/ 
+/ 235/ ./ 	/ kyut3ngaa4siu3/ bou6ngaa4/ 
+/ 236/ ./ 	/ haa1gung1nou5/ soeng6/ daai3/ to4/ si2/ ，/ bat1/ hiu2dak1/ si2/ cau3niu6sou1/ 
+/ 237/ ./ 	/ nin4gei2/ do1do1/ ，/ bei6tai3/ suk1suk1/ 
+/ 238/ ./ 	/ lou5fu2/ jaa5/ jau5/ daa2/ hap6kwan3/ go2/ si4gaan1/ 
+/ 239/ ./ 	/ sit3tau4/ dai2haa6/ aat3sei2/ jan4/ 
+/ 240/ ./ 	/ saam1jan4/ zik6min6/ 
+/ 241/ ./ 	/ dyun1li1/ jan4gaa1/ go2/ wun2/ ，/ zau6jiu3/ sau6/ jan4gaa1/ go2/ gun2/ 
+/ 242/ ./ 	/ hek3/ jan4gaa1/ go2/ zau6/ hek3dak1ceot1/ hon6/ ，/ bit6jan4/ go2/ hek3/ zi6gei2/ go2/ zau6/ hek3dak1ceot1/ ngaan5lai6/ 
+/ 243/ ./ 	/ siu2hei3/ kwai1lak6/ 
+/ 244/ ./ 	/ zau6/ hou2zoeng6/ si6/ zik6/ li1/ keoi5/ go2/ mai5/ ，/ waan4/ li1/ keoi5/ go2/ hong1/ jat1joeng6/ 
+/ 245/ ./ 	/ pei3gu2/ soeng6sang1/ li1/ ci3/ 
+/ 246/ ./ 	/ dung1gaan2/ lo4baak6/ sai1/ gaan2/ goeng1/ 
+/ 247/ ./ 	/ seoi2/ daa2laan6/ muk6caai4/ ，/ daa2heoi3/ jau6/ daa2loi4/ ，/ jiu3/ soeng2/ heoi3/ jau6/ soeng2loi4/ 
+/ 248/ ./ 	/ dit3gu2/ jin6sai3/ 
+/ 249/ ./ 	/ baai3nin4/ baai3dou3/ co1/ cat1baat3/ ，/ gwai6/ dou3dai2/ haa6/ mou5/ jan4/ daap3/ 
+/ 250/ ./ 	/ hung1/ dak1/ ok3/ bat1dak1/ 
+/ 251/ ./ 	/ jyun5/ go2/ paa3/ ngaang6/ go2/ ，/ ngaang6/ go2/ paa3/ bat1jiu3ming6/ go2/ 
+/ 252/ ./ 	/ dau6fu6/ zim1dou3/ fui1/ ，/ ceoi1/ jau6/ ceoi1/ bat1dak1/ ，/ daa2/ jau6/ daa2/ bat1dak1/ 
+/ 253/ ./ 	/ haam3/ dak1/ lung5/ ，/ hot3dak1/ saan3/ 
+/ 254/ ./ 	/ gou3/ faa3zi2/ gaan2dou3/ jat1geoi3/ waa6/ ，/ tin1gwong1/ waa6/ dou3/ je6/ 
+/ 255/ ./ 	/ daa2laam6zoeng6/ 
+/ 256/ ./ 	/ gaan2dou3/ li1/ gaau3/ 
+/ 257/ ./ 	/ gou1/ bat1/ zoeng6/ go2/ dung1gwaa1/ ，/ ai2/ bat1/ zoeng6/ go2/ bak1gwaa1/ 
+/ 258/ ./ 	/ jan4jau5/ baat3zit3/ cou2/ ，/ bat1/ hiu2dak1/ naa5zit3/ hou2/ 
+/ 259/ ./ 	/ ceon2bat1ceon2/ ，/ gwaai1bat1gwaai1/ 
+/ 260/ ./ 	/ jat1nin4/ sei3geoi3/ ，/ zung2syun3/ waa6/ dou3/ jat1geoi3/ 
+/ 261/ ./ 	/ jin6zou3/ jin6wo1/ ，/ dim2fo2/ zau6/ zyu3/ 
+/ 262/ ./ 	/ hek3si2/ dou1/ jiu3/ caam1saa1/ 
+/ 263/ ./ 	/ nou5hok3/ zoi3/ daai6/ jaa5/ si6/ zoi6/ dau3lap1/ haa6/ 
+/ 264/ ./ 	/ hou2daai2/ bat1sik1/ ，/ caang1saan3/ daai3lap1/ 
+/ 265/ ./ 	/ sang1sei2/ jat1tiu4/ ming6/ 
+/ 266/ ./ 	/ gap3maa4/ mou5/ geng2/ ，/ ngaa4zi2/ mou5/ jiu1/ 
+/ 267/ ./ 	/ jau5/ zau6/ sau1/ ，/ mou5/ zau6/ diu1/ 
+/ 268/ ./ 	/ cung1/ dak1/ soeng6/ zau6cung1/ ，/ cung1/ bat1/ soeng6/ zau6/ soeng6/ gwong2dung1/ 
+/ 269/ ./ 	/ syu6jip6/ lak6/ dit3haa6loi4/ dou1/ paa3/ daa2/ dou3/ nou5hok3/ 
+/ 270/ ./ 	/ sang1zai2bat1ceot1/ bun1cong4/ goek3/ 
+/ 271/ ./ 	/ wong4/ gau2hek3si2/ ，/ hak1gau2/ dong1zoi1/ 
+/ 272/ ./ 	/ waang4waa6waang4/ jau5lei5/ ，/ zik6waa6/ zik6/ jau5lei5/ 
+/ 273/ ./ 	/ zeoi2baa1/ si6/ waang4sang1/ go2/ 
+/ 274/ ./ 	/ sik1sik1/ sok3sok3/ ，/ bei3bei3/ mo2mo2/ 
+/ 275/ ./ 	/ zi6cau2/ bat1gok3/ 
+/ 276/ ./ 	/ wan2dong1/ bat1paa3/ do1/ 
+/ 277/ ./ 	/ lo1/ lo1/ zyun2/ 
+/ 278/ ./ 	/ dang2/ dak1/ gau2/ ，/ zi6jin4/ jau5/ 
+/ 279/ ./ 	/ cin1si6/ maan6si6/ ，/ hek3/ si6/ daai6si6/ 
+/ 280/ ./ 	/ lok6/ jyu5tin1/ hok6/ go2/ 
+/ 281/ ./ 	/ dak1/ bat1zeon6/ go2/ jing4/ waa1/ ，/ soeng6/ bat1zeon6/ go2/ dong1/ 
+/ 282/ ./ 	/ gung1bat1lei4po4/ ，/ cing3bat1lei4to4/ 
+/ 283/ ./ 	/ zai2daai6/ bat1jau4/ de1de1/ 
+/ 284/ ./ 	/ zi2/ baau1li1/ nei5/ waa6/ lou5po4/ ，/ bat1nang4/ baau1/ nei5/ joeng5/ zai2/ 
+/ 285/ ./ 	/ tau1laang5faan6/ hek3/ 
+/ 286/ ./ 	/ si4loi4wan6loi4/ ，/ tou2/ go2/ lou5po4/ daai3tou5loi4/ 
+/ 287/ ./ 	/ gaan2/ hau6goek3/ 
+/ 288/ ./ 	/ jat1zek3/ sau2naan4/ zuk1/ loeng5zek3jyu4/ 
+/ 289/ ./ 	/ daai6hon5/ saam1nin4/ ，/ ngo6bat1sei2/ cyu4gun1/ si1fu6/ 
+/ 290/ ./ 	/ waan4/ mou5/ joeng5/ zai2/ zau6/ sin1on1ming4/ 
+/ 291/ ./ 	/ daa2pei3zyun2/ bat1dak1/ san1/ 
+/ 292/ ./ 	/ jim4pei4/ daap3/ lim5/ 
+/ 293/ ./ 	/ dong1min6lo4/ ，/ deoi3min6gu2/ ，/ jau5si6/ waa6/ cing1co2/ 
+/ 294/ ./ 	/ jau5/ zau6si6/ jat1haa6/ ，/ mut6/ zau6/ caat3/ laan6zik6/ 
+/ 295/ ./ 	/ si2/ gap1leoi5/ waat3haang1/ ，/ loi4bat1kap6/ liu5/ 
+/ 296/ ./ 	/ hou2/ gei3sing3/ bat1jyu4/ laan6/ bat1tau4/ 
+/ 297/ ./ 	/ jat1/ zuk1gou1/ daa2faan1/ jat1syun4/ jan4/ 
+/ 298/ ./ 	/ co1saam1/ lok6jyu5/ sap6saam1/ cing4/ ，/ sap6saam1/ lok6jyu5/ mou5/ lou6hang4/ 
+/ 299/ ./ 	/ bat1/ hai6/ wo4/ dau1/ bat1/ sang1/ guk1/ 
+/ 300/ ./ 	/ bin1daa2/ tung4lo4/ bin1gwai2/ giu3/ 
+/ 301/ ./ 	/ cou2/ bat1/ hek3si2/ bat1/ o1/ 
+/ 302/ ./ 	/ zou6tin4/ bat1/ fung1sau1/ ，/ cyun4kaau3/ ngau4/ hek3/ wo4/ 
+/ 303/ ./ 	/ cat1jyut6/ bat1dak1/ baat3jyut6/ dou3/ 
+/ 304/ ./ 	/ hung4ngaan5/ zyu1luk6/ bei6zi2/ 
+/ 305/ ./ 	/ pei3gu2/ soeng6diu3/ syun3pun4/ 
+/ 306/ ./ 	/ jan4ceon2/ mou5/ joek6ji1/ ，/ gau2ceon2/ hek3/ baau1/ sam1/ 
+/ 307/ ./ 	/ mou5/ zai2/ lau4/ sik1fu5/ bat1zyu6/ 
+/ 308/ ./ 	/ sei2muk6laan6/ caai4/ 
+/ 309/ ./ 	/ kiu4gwai1kiu4/ ，/ lou6gwai1lou6/ 
+/ 310/ ./ 	/ syu6soeng6/ go2/ diu1/ zai2/ dou1/ wui6/ hung1/ dak1/ haa6loi4/ 
+/ 311/ ./ 	/ zuk1dou3/ li1/ caak3/ jat1joeng6/ 
+/ 312/ ./ 	/ jat6zi2/ suk1suk1/ gwo3/ ，/ tung4cin4/ mou4/ bun3/ go2/ 
+/ 313/ ./ 	/ jat1nin4/ jat1nin4/ lou5/ ，/ lou5po4/ waan4/ mou5/ tou2/ 
+/ 314/ ./ 	/ giu3faa3zi2/ cong4/ bat1dak1/ sau1faan6/ 
+/ 315/ ./ 	/ cing4/ jaa5/ jiu3/ ，/ jyu5/ jaa5/ jiu3/ ，/ zai2/ jaa5/ jiu3/ ，/ neoi5/ jaa5/ jiu3/ 
+/ 316/ ./ 	/ caai4/ do1mai5/ do1/ ，/ sai3gaai3/ jat6zi2/ gang1/ do1/

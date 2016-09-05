@@ -1,0 +1,101 @@
+<html><head><title>粵語審音配詞字庫</title><style type="text/css">a { text-decoration: none} .text { line-height: 150% }</style><meta http-equiv="Content-Type" content="text/html; charset=big5"><script language="JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+function ref (url) {
+  rewin=window.open(url,'ref','toobar=0,status=0,scrollbars=1,resizable=1,width=600,height=300');
+  setTimeout ('rewin.focus()', 100);
+}
+//-->
+</script>
+<style type="text/css">
+.t { font-size: 13; nowrap; text-align: right; color: navy}
+.t2 { font-size: 13; nowrap; text-align: left}
+.t3 { font-size: 13; nowrap; text-align: center}
+.w { font-size: 36; font-weight: bold; color: red; text-align: center }
+</style>
+<script language="JavaScript">
+function xid_down(Xid) {
+	if (document.all[Xid].style.display == "none") {
+		document.all[Xid].style.display = "block";
+	} else {
+		document.all[Xid].style.display = "none";
+	}
+}
+</script></head><body background="/Lexis/lexi-can/img/ppbk014.jpg" ><table width="100%" border="0">
+  <tr> 
+    <td rowspan="2" class=w>雅</td>
+    <td class=t>部首:</td>
+		<td class=t2><a href="rad-str.php?rad=172"><img src="img/rad/rad172.gif" border=0 align=absmiddle> [172]</a></td>
+    <td class=t>筆畫:</td>
+		<td class=t2><a href="rad-str.php?str=12">12</a></td>
+    <td class=t>字音分類:</td>
+		<td class=t3 bgcolor=pink><a href="classified.php?st=4">異讀破音字</a></td>
+		<td align=center><a href="#" onClick="ref('http://zhongwen.com/d/182/x174.htm')"><img src="/Img/zhongpu.jpg" border=0></a> <!--a href="#" onClick="ref('http://140.111.34.46/cgi-bin/dict/newsearch.cgi?Database=dict&QueryScope=Name&QueryCommand=find&GraphicWord=yes&QueryString=%B6%AE')"-->
+		<a href="#" onClick="ref('http://140.111.34.46/cgi-bin/newDict/dict.sh?cond=%B6%AE&pieceLen=50&fld=1&cat=&ukey=-624721188&serial=3&recNo=0&op=&imgFont=1')">
+		<img src="/Img/gycd2a.gif" border=0></a></td>
+  </tr>
+  <tr> 
+    <td class=t>大五碼:</td>
+		<td class=t2>B6AE</td>
+    <td class=t>倉頡碼:</td>
+		<td class=t2>一竹人土</td>
+    <td class=t>頻序 / 頻次:</td>
+		<td class=t2>1921 / 456</td>
+    <td align=center><a href="#" onClick="ref('http://epsilon3.georgetown.edu/~petersee/cgi-bin/wordlook.cgi?searchtype=big5&where=anywhere&word=%B6%AE')"><img src="/Img/cedict2_new.gif" border=0></a> <a href="#" onClick="ref('/cgi-bin/agrep-lindict?query=%B6%AE&boolean=no&case=on&category=wholerecord')"><img src="/Img/lindict_logo.gif" border=0></a></td>
+  </tr>
+</table>
+<form><table width="100%" border="1">
+  <tr bgcolor=#fff0c2> 
+    <th nowrap width=100>音節<br><font size=-2>(香港語言學學會)</font></th>
+    <th nowrap width=30>粵<br>音</th>
+    <th nowrap width=70><font color="gray" face="Wingdings">&amp;</font> 根據</th>
+    <th nowrap width=100>同音字</th>
+    <th nowrap width=80>相關音節</th>
+    <th nowrap>詞例(<font color=maroon size=-1>解釋</font>) / <font color=forestgreen size=-1>備註</font></th>
+  </tr>
+  <tr>
+    <td nowrap align=center><font color=red size=+1></font><font color=green size=+1>aa</font><font color=blue size=+1>1</font></td>
+    <td align=center><a href="sound.php?s=aa1" target=sound><img src="img/sounder.gif" border=0></a></td>
+	<td nowrap><font size=-1>黃</font><font color=gray size=-1>(p.1)</font><br><font size=-1>李</font><font color=gray size=-1>(p.52)</font><br><font size=-1>何</font><font color=gray size=-1>(p.1)</font></td>
+    <td nowrap>
+<a href="search.php?q=%D4%EF">孲</a>, <a href="search.php?q=%EB%E2">錏</a>, <a href="search.php?q=%A7r">呀</a> <a href="pho-rel.php?s1=&s2=aa&s3=1"><font size=-1>[7..]</font></a>	</td>
+    <td><select onChange="MM_jumpMenu('self',this,0)">
+    <option selected value="#">--選擇--</option>
+    <option value="pho-rel.php?s1=&s2=aa">同聲同韻</option>
+    <option value="pho-rel.php?s2=aa&s3=1">同韻同調</option>
+    <option value="pho-rel.php?s1=&s3=1">同聲同調</option>
+  </select></td>
+    <td><div nowrap></div><font color=forestgreen size=-1>同「<a href="search.php?q=%BE%7E">鴉</a>」字</font></td>
+  </tr>
+  <tr>
+    <td nowrap align=center><font color=red size=+1>ng</font><font color=green size=+1>aa</font><font color=blue size=+1>1</font></td>
+    <td align=center><a href="sound.php?s=ngaa1" target=sound><img src="img/sounder.gif" border=0></a></td>
+	<td nowrap><font size=-1>何</font><font color=gray size=-1>(p.1)</font></td>
+    <td nowrap>
+<a href="search.php?q=%BE%7E">鴉</a>, <a href="search.php?q=%A4X">丫</a>, <a href="search.php?q=%D9%B2">椏</a>	</td>
+    <td><select onChange="MM_jumpMenu('self',this,0)">
+    <option selected value="#">--選擇--</option>
+    <option value="pho-rel.php?s1=ng&s2=aa">同聲同韻</option>
+    <option value="pho-rel.php?s2=aa&s3=1">同韻同調</option>
+    <option value="pho-rel.php?s1=ng&s3=1">同聲同調</option>
+  </select></td>
+    <td><div nowrap></div><font color=forestgreen size=-1>「雅<font color=red size=+1></font><font color=green size=+1>aa</font><font color=blue size=+1>1</font>」的異讀字</font></td>
+  </tr>
+  <tr>
+    <td nowrap align=center><font color=red size=+1>ng</font><font color=green size=+1>aa</font><font color=blue size=+1>5</font></td>
+    <td align=center><a href="sound.php?s=ngaa5" target=sound><img src="img/sounder.gif" border=0></a></td>
+	<td nowrap><font size=-1>黃</font><font color=gray size=-1>(p.2)</font><br><font size=-1>周</font><font color=gray size=-1>(p.191)</font><br><font size=-1>李</font><font color=gray size=-1>(p.52)</font><br><font size=-1>何</font><font color=gray size=-1>(p.8)</font></td>
+    <td nowrap>
+<a href="search.php?q=%CA_">佤</a>, <a href="search.php?q=%CA%CF">庌</a>, <a href="search.php?q=%EBV">蕥</a> <a href="pho-rel.php?s1=ng&s2=aa&s3=5"><font size=-1>[3..]</font></a>	</td>
+    <td><select onChange="MM_jumpMenu('self',this,0)">
+    <option selected value="#">--選擇--</option>
+    <option value="pho-rel.php?s1=ng&s2=aa">同聲同韻</option>
+    <option value="pho-rel.php?s2=aa&s3=5">同韻同調</option>
+    <option value="pho-rel.php?s1=ng&s3=5">同聲同調</option>
+  </select></td>
+    <td><div nowrap>雅致, 典雅, 風雅<a href="#1" onClick="xid_down('ngaa5_detial')"><font size="-1">[1..]</font></a></div><div id="ngaa5_detial" style="display: none">優雅</div></td>
+  </tr>
+</table><table width=100% border=0 cellspacing=0 cellpadding=0><tr><td><font size=-1 color=gray>搜索次數: 43414</font></td><td align=right><font size=-1>(<a href="admin/edit.php?new=Edit&q=%B6%AE">管理人員專用區</a>)</font></td></tr></table>配搭點:<br><a href="search.php?q=%A8q">秀</a> <a href="search.php?q=%A8%E5">典</a> <a href="search.php?q=%AB%D5">幽</a> <a href="search.php?q=%B0%AA">高</a> <a href="search.php?q=%B6%A2">閒</a> <a href="search.php?q=%B7%C5">溫</a> <a href="search.php?q=%B9%A5">馴</a> <a href="search.php?q=%BA%B8">爾</a> <a href="search.php?q=%BE%A7">儒</a> <a href="search.php?q=%C0u">優</a> </form><hr><font color=gray>Unicode: </font><a href="http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=96C5" target=_blank><img src="/Img/unicode2.gif" border=0 align=absmiddle></a> <font size=-1 color=gray>U+96C5</font><table border=0 cellspacing=5 cellpadding=5><tr><td class=t>漢語大字典:</td><td width=100><font size=-1>Pg.4094</font></td><td class=t>普通話:</td><td><font size=-1>ya3 ya1 ya2 </font></td></tr><tr><td class=t>康熙字典:</td><td width=100><font size=-1>Pg.1293.140</font></td><td class=t>英譯:</td><td><font size=-1>elegant, graceful, refined</font></td></tr><tr><td class=t>Matthews:</td><td width=100><font size=-1>No.7222</font></td><td align=right><font size=-1></font></td><td></td></tr></table></body></html>

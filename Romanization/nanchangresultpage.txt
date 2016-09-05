@@ -1,0 +1,102 @@
+<html><head>
+<title>Chinese Dialects : Query result</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<script language="Javascript">
+var divStyle;
+var refresh;
+var hframe=60;
+var hdiv=hframe+1;
+document.write("<DIV name=SlotBody id=SlotBody style='position: absolute;left: 70%;background-color:#AFEEEE;'>\
+<form action='morph.cgi' target='mpage' id='morphform' name='morphform' method=get>\
+<input type=hidden name='flags' value='undnnnnp'>\
+<input type=hidden name='root' value='config'>\
+<input type=hidden id='word' name='word' value=''>\
+<input type=hidden id='getlookup' name='getlookup' value='on'>\
+</form>\
+<div style='text-align: center;margin-top:2px;margin-left:2px;margin-right:2px;margin-bottom:2px;'>Select an English or Russian word <br>and press the button to open a window with its grammatical analysis and translation.\
+<br><input name='' value='Lookup' type='button' onmousedown='morpho()'>\
+<br></div>\
+<div style='text-align: right'><font size='-1'><a href='javascript:closeWd()'>close</a></font></div></div>");
+divStyle =document.getElementById("SlotBody").style;
+refresh=setInterval(pos_l,1);
+divAble=false;
+function pos_l(){
+divStyle.top=(document.body.scrollTop)+100;
+} 
+function morpho()
+{
+    if (window.navigator.appName == "Netscape")
+    {
+        value = window.getSelection();
+        /*if(navigator.platform.indexOf("Mac")==-1)
+        {
+            wordfield = document.all["word"];
+            submitter = document.all["morphform"];
+        }
+        else*/
+        {
+            wordfield = document.getElementById('word');
+            submitter = document.getElementById('morphform');
+        }
+    }
+    else
+    {
+        if (window.navigator.appName == "Konqueror")
+        {
+            value = document.getSelection();
+        }
+        else
+        {
+            value = document.selection.createRange().text;
+        }
+        wordfield = document.all["word"];
+        submitter = document.all["morphform"];
+    }
+    wordfield.value = value;
+    submitter.submit();
+}
+function closeWd() {document.getElementById("SlotBody").style.display="none";}
+</script>
+<link rel=stylesheet href="/style.css"><script type="text/javascript" src="/jquery.js"></script><script type="text/x-mathjax-config">MathJax.Hub.Config({asciimath2jax: {ignoreClass:'results_record', processClass: 'help-balloon'}});</script><script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=AM_HTMLorMML.js"></script><script type="text/javascript" src="/starling.js"></script><script type="text/javascript" src="/jquery.event.drag-2.2.js"></script></head>
+<body bgcolor="c2c2c2">
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-45981593-1', 'starling.rinet.ru');
+      ga('send', 'pageview');
+    </script>
+  <a href="#" onClick="param_change();">Change viewing parameters</a>
+<div id="param_change" style="display: none; background: #AAA; padding: 5px;">
+<table align=center cellpadding=0 cellspacing=0 border=0><tr><td>Use tables</td><td><input type=checkbox name="tableMode" value="tables"/></td></tr><tr><td>Multiple windows</td><td><input type=checkbox name="links" value="links"/></td></tr><tr><td>Morphology/dictionary lookup window</td><td><input type=checkbox name="lookup"/></td></tr><tr><td>Show languages in map</td><td><input type=checkbox name="showmap" value="showmap" checked/></td></tr><tr><td>Encoding</td><td><table><tr><td>Koi</td><td>Alt</td><td>Win</td><td>Utf-rus</td><td>8-bit encoding</td><td>Utf-8</td></tr><tr><td><input type=radio name="encoding" value="koi"/></td><td><input type=radio name="encoding" value="alt"/></td><td><input type=radio name="encoding" value="win"/></td><td><input type=radio name="encoding" value="utf-rus"/></td><td><input type=radio name="encoding" value="eng"/></td><td><input type=radio name="encoding" value="utf-eng" checked/></td></tr></table></td></tr><tr><td><input type=button value="Change" onClick="param_change_handle()"/></td></tr></table></div>
+<script type="text/javascript">
+
+  function param_change() {
+    document.getElementById('param_change').style.display = 'block';
+    return false;
+  }
+  function param_change_handle() {
+    var d = document;
+    var sd = '; expires=Wed, 31 Oct 2012 11:00:00 GMT; path=/cgi-bin';
+    var s = '; expires=Tue, 19 Jan 2038 03:14:07 GMT; path=/';
+    d.cookie = 'lookup=' + sd;
+    d.cookie = 'links=' + sd;
+    d.cookie = 'showmap=' + sd;
+    d.cookie = 'tableMode=' + sd;
+    d.cookie = 'encoding=' + sd;
+    d.cookie = 'lookup=' + (d.getElementsByName('lookup')[0].checked ? '' : 'no-') + 'lookup' + s;
+    d.cookie = 'links=' + (d.getElementsByName('links')[0].checked ? '' : 'no-') + 'links' + s;
+    d.cookie = 'showmap=' + (d.getElementsByName('showmap')[0].checked ? '' : 'no-') + 'showmap' + s;
+    d.cookie = 'tableMode=' + (d.getElementsByName('tableMode')[0].checked ? '' : 'no-') + 'tables' + s;
+    var encs = d.getElementsByName('encoding');
+    for (var i = 0; i < encs.length; i++) {
+      if (encs[i].checked) {
+        d.cookie = 'encoding=' + encs[i].value + s;
+      }
+    }
+    location.reload();
+  }
+</script>
+<br /><a href="response.cgi?root=config&morpho=0&basename=\data\china\doc&first=1&off=&text_character=&method_character=substring&ic_character=on&text_mcinfo=&method_mcinfo=substring&ic_mcinfo=on&text_zihui=&method_zihui=substring&ic_zihui=on&text_beijing=&method_beijing=substring&ic_beijing=on&text_jinan=&method_jinan=substring&ic_jinan=on&text_xian=&method_xian=substring&ic_xian=on&text_taiyuan=&method_taiyuan=substring&ic_taiyuan=on&text_hankou=&method_hankou=substring&ic_hankou=on&text_chengdu=&method_chengdu=substring&ic_chengdu=on&text_yangzhou=&method_yangzhou=substring&ic_yangzhou=on&text_suzhou=&method_suzhou=substring&ic_suzhou=on&text_wenzhou=&method_wenzhou=substring&ic_wenzhou=on&text_changsha=&method_changsha=substring&ic_changsha=on&text_shuangfeng=&method_shuangfeng=substring&ic_shuangfeng=on&text_nanchang=&method_nanchang=substring&ic_nanchang=on&text_meixian=&method_meixian=substring&ic_meixian=on&text_guangzhou=&method_guangzhou=substring&ic_guangzhou=on&text_xiamen=&method_xiamen=substring&ic_xiamen=on&text_chaozhou=&method_chaozhou=substring&ic_chaozhou=on&text_fuzhou=&method_fuzhou=substring&ic_fuzhou=on&text_shanghai=&method_shanghai=substring&ic_shanghai=on&text_zhongyuan=&method_zhongyuan=substring&ic_zhongyuan=on&text_any='\xe9\x87\x8d'&method_any=substring&sort=number&ic_any=on&encoding=utf-rus">Switch to Russian version</a><br /><a href="main.cgi?root=config&morpho=0" target="_top" id="main-link">Select another database</a><br /><input type="button" id="contact-link" onclick="contact();" value="Send comment or report error" /><div id="contact-form"></div><hr /><h3 align=center>Chinese Dialects :</h3><a href="query.cgi?basename=\data\china\doc&root=config&morpho=0" target="_top">Search within this database</a><br /><div class='query-info'><b>In any field:</b> "'\xe9\x87\x8d'" | <b>Query method:</b> Match substring         </div><p>No records found.</p><div class="basename">\data\china\doc</div><div class="langs"></div><div class='total'>Total of  0 records</div><br /> <a href="query.cgi?basename=\data\china\doc&root=config&morpho=0" target="_top">Search within this database</a><br /><a href="main.cgi?root=config&morpho=0" target="_top">Select another database</a><br /><br /><table align=center width=100% cellpadding=0 cellspacing=1 border=1 bordercolor=black><tr><td align=center width=70% bgcolor=cccccc><table align=center width=100% cellpadding=0 border=0 cellspacing=0><tr><td align=center><font size="-1">Total pages generated</font></td><td align=center><font size="-1">Pages generated by this script</font></td></tr><tr><td align=center><font size="-1">17047</font></td><td align=center><font size="-1">161227</font></td></tr></table></td><td align=center width=30% bgcolor=cccccc><a href="../help-utf-eng.htm" target="_top">Help</a>
+</td></tr><tr><td align=center colspan=2 bgcolor=cccccc><table align=center width=100% cellpadding=5 border=0 cellspacing=0><tr><td align=center><font size="-1">StarLing database server</font></td><td align=center><font size="-1">Powered by</font></td><td align=center><font size="-1">CGI scripts</font></td></tr><tr><td align=center><font size="-1">Copyright 1998-2003 by S. Starostin</font></td><td align=center><font size="-1"><a href="http://www.harbour-project.org"><img src="/images/harbour-button.gif"></a></font></td><td align=center><font size="-1">Copyright 1998-2003 by G. Bronnikov<br>Copyright 2005-2014 by Phil Krylov</font></td></tr></table></td></tr></table></body></html>

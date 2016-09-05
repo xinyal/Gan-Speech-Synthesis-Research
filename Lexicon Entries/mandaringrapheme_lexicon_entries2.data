@@ -1,0 +1,1649 @@
+(lex.add.entry '("dAnQMi" nn (((d A n) 1) ((QM i) 3))))
+(lex.add.entry '("dZijou" nn (((dZ i) 1) ((j o u) 3))))
+(lex.add.entry '("diwu" nn (((d i) 4) ((w u) 3))))
+(lex.add.entry '("chhuji" nn (((ch h u) 1) ((j i) 1))))
+(lex.add.entry '("jeje" nn (((j e) 2) ((j e) 2))))
+(lex.add.entry '("shAofAn" nn (((s h A o) 1) ((f A n) 4))))
+(lex.add.entry '("chhusAn" nn (((ch h u) 1) ((s A n) 1))))
+(lex.add.entry '("jijAng" nn (((j i) 1) ((j A n g) 4))))
+(lex.add.entry '("fAzhAn" nn (((f A) 1) ((z h A n) 3))))
+(lex.add.entry '("dZingdushi" nn (((dZ i n g) 1) ((d u) 1) ((s h i) 4))))
+(lex.add.entry '("hechheng" nn (((h e) 2) ((ch h e n g) 1))))
+(lex.add.entry '("he" nn (((h e) 2))))
+(lex.add.entry '("guAngzhou" nn (((g u A n g) 3) ((z h o u) 1))))
+(lex.add.entry '("dZinzhong" nn (((dZ i n) 4) ((z h o n g) 3))))
+(lex.add.entry '("fAn" nn (((f A n) 3))))
+(lex.add.entry '("juAn" nn (((j u A n) 4))))
+(lex.add.entry '("zhi" nn (((z h i) 1))))
+(lex.add.entry '("huA" nn (((h u A) 4))))
+(lex.add.entry '("ruAn" nn (((r u A n) 3))))
+(lex.add.entry '("zuibA" nn (((z u i) 3) ((b A) 1))))
+(lex.add.entry '("mAo" nn (((m A o) 1))))
+(lex.add.entry '("luguilu" nn (((l u) 4) ((g u i) 1) ((l u) 4))))
+(lex.add.entry '("zuizhAng" nn (((z u i) 4) ((z h A n g) 3))))
+(lex.add.entry '("zhongjou" nn (((z h o n g) 1) ((j o u) 2))))
+(lex.add.entry '("fudZiAn" nn (((f u) 2) ((dZ i A n) 4))))
+(lex.add.entry '("duli" nn (((d u) 4) ((l i) 3))))
+(lex.add.entry '("dZinchhAo" nn (((dZ i n) 4) ((ch h A o) 2))))
+(lex.add.entry '("wAnshAng" nn (((w A n) 3) ((s h A n g) 4))))
+(lex.add.entry '("jouju" nn (((j o u) 3) ((j u) 2))))
+(lex.add.entry '("ge" nn (((g e) 4))))
+(lex.add.entry '("disAn" nn (((d i) 4) ((s A n) 1))))
+(lex.add.entry '("wAkeng" nn (((w A) 1) ((k e n g) 1))))
+(lex.add.entry '("diu" nn (((d i u) 1))))
+(lex.add.entry '("huAdZiAo" nn (((h u A) 1) ((dZ i A o) 4))))
+(lex.add.entry '("dZiedZie" nn (((dZ i e) 3) ((dZ i e) 3))))
+(lex.add.entry '("bizi" nn (((b i) 2) ((z i) 0))))
+(lex.add.entry '("dZiAngdZindZiu" nn (((dZ i A n g) 1) ((dZ i n) 4) ((dZ i u) 3))))
+(lex.add.entry '("sAnniAn" nn (((s A n) 1) ((n i A n) 2))))
+(lex.add.entry '("shi" nn (((s h i) 4))))
+(lex.add.entry '("dZingdufu" nn (((dZ i n g) 1) ((d u) 1) ((f u) 3))))
+(lex.add.entry '("mAidZi" nn (((m A i) 3) ((dZ i) 1))))
+(lex.add.entry '("buliu" nn (((b u) 4) ((l i u) 2))))
+(lex.add.entry '("jAnk siA" nn (((j A n) 3) ((k s i A) 4))))
+(lex.add.entry '("songshu" nn (((s o n g) 1) ((s h u) 4))))
+(lex.add.entry '("zhAifAn" nn (((z h A i) 1) ((f A n) 4))))
+(lex.add.entry '("bujong" nn (((b u) 4) ((j o n g) 4))))
+(lex.add.entry '("sichhAo" nn (((s i) 4) ((ch h A o) 2))))
+(lex.add.entry '("QMingchhAo" nn (((QM i n g) 1) ((ch h A o) 2))))
+(lex.add.entry '("QMiAn" nn (((QM i A n) 2))))
+(lex.add.entry '("bujou" nn (((b u) 4) ((j o u) 2))))
+(lex.add.entry '("je" nn (((j e) 3))))
+(lex.add.entry '("hAomiAo" nn (((h A o) 3) ((m i A o) 2))))
+(lex.add.entry '("guohou" nn (((g u o) 4) ((h o u) 4))))
+(lex.add.entry '("QMingmo" nn (((QM i n g) 1) ((m o) 4))))
+(lex.add.entry '("nuomi" nn (((n u o) 4) ((m i) 3))))
+(lex.add.entry '("nAdZie" nn (((n A) 4) ((dZ i e) 2))))
+(lex.add.entry '("zupu" nn (((z u) 2) ((p u) 3))))
+(lex.add.entry '("erdAo" nn (((e r) 4) ((d A o) 4))))
+(lex.add.entry '("jouQMiAn" nn (((j o u) 3) ((QM i A n) 2))))
+(lex.add.entry '("guode" nn (((g u o) 4) ((d e) 2))))
+(lex.add.entry '("sunwen" nn (((s u n) 1) ((w e n) 2))))
+(lex.add.entry '("shAng" nn (((s h A n g) 4))))
+(lex.add.entry '("hou" nn (((h o u) 4))))
+(lex.add.entry '("chhAo" nn (((ch h A o) 4))))
+(lex.add.entry '("guoniAn" nn (((g u o) 4) ((n i A n) 2))))
+(lex.add.entry '("dongguA" nn (((d o n g) 1) ((g u A) 1))))
+(lex.add.entry '("k sinwu" nn (((k s i n) 1) ((w u) 2))))
+(lex.add.entry '("zouzou" nn (((z o u) 3) ((z o u) 3))))
+(lex.add.entry '("4" nn (((ch h h i f A n) 1))))
+(lex.add.entry '("QMi" nn (((QM i) 1))))
+(lex.add.entry '("gui" nn (((g u i) 3))))
+(lex.add.entry '("wei" nn (((w e i) 3))))
+(lex.add.entry '("QMijue" nn (((QM i) 1) ((j u e) 4))))
+(lex.add.entry '("gong" nn (((g o n g) 1))))
+(lex.add.entry '("shengdZu" nn (((s h e n g) 1) ((dZ u) 1))))
+(lex.add.entry '("dZun" nn (((dZ u n) 4))))
+(lex.add.entry '("gongbulipo" nn (((g o n g) 1) ((b u) 4) ((l i) 2) ((p o) 2))))
+(lex.add.entry '("zhujAo" nn (((z h u) 3) ((j A o) 4))))
+(lex.add.entry '("zAo" nn (((z A o) 4))))
+(lex.add.entry '("lAo" nn (((l A o) 3))))
+(lex.add.entry '("shik siAQMu" nn (((s h i) 4) ((k s i A) 2) ((QM u) 1))))
+(lex.add.entry '("bAjue" nn (((b A) 1) ((j u e) 4))))
+(lex.add.entry '("chhulAi" nn (((ch h u) 1) ((l A i) 2))))
+(lex.add.entry '("kuniAng" nn (((k u) 1) ((n i A n g) 2))))
+(lex.add.entry '("renjou" nn (((r e n) 2) ((j o u) 3))))
+(lex.add.entry '("chhAn" nn (((ch h A n) 3))))
+(lex.add.entry '("mAQMue" nn (((m A) 2) ((QM u e) 4))))
+(lex.add.entry '("chhui" nn (((ch h u i) 1))))
+(lex.add.entry '("AijuAnk siAn" nn (((A i) 4) ((j u A n) 4) ((k s i A n) 4))))
+(lex.add.entry '("QMingming" nn (((QM i n g) 1) ((m i n g) 2))))
+(lex.add.entry '("dZin" nn (((dZ i n) 1))))
+(lex.add.entry '("gAndZiAng" nn (((g A n) 4) ((dZ i A n g) 1))))
+(lex.add.entry '("guAiguAi" nn (((g u A i) 1) ((g u A i) 1))))
+(lex.add.entry '("zongsuAn" nn (((z o n g) 3) ((s u A n) 4))))
+(lex.add.entry '("buchhi" nn (((b u) 4) ((ch h i) 1))))
+(lex.add.entry '("butong" nn (((b u) 4) ((t o n g) 2))))
+(lex.add.entry '("suozAi" nn (((s u o) 3) ((z A i) 4))))
+(lex.add.entry '("QMiAnguo" nn (((QM i A n) 2) ((g u o) 1))))
+(lex.add.entry '("mAosili" nn (((m A o) 2) ((s i) 1) ((l i) 3))))
+(lex.add.entry '("fuhe" nn (((f u) 3) ((h e) 2))))
+(lex.add.entry '("4" nn (((g u o l i) 2))))
+(lex.add.entry '("k sunjAng" nn (((k s u n) 2) ((j A n g) 2))))
+(lex.add.entry '("tongchhAng" nn (((t o n g) 1) ((ch h A n g) 2))))
+(lex.add.entry '("weijou" nn (((w e i) 4) ((j o u) 3))))
+(lex.add.entry '("k siAntou" nn (((k s i A n) 1) ((t o u) 2))))
+(lex.add.entry '("jAo" nn (((j A o) 3))))
+(lex.add.entry '("zAi" nn (((z A i) 4))))
+(lex.add.entry '("fengk sin" nn (((f e n g) 4) ((k s i n) 1))))
+(lex.add.entry '("shifAnk suejuAn" nn (((s h i) 1) ((f A n) 4) ((k s u e) 2) ((j u A n) 4))))
+(lex.add.entry '("QMiAodik siA" nn (((QM i A o) 2) ((d i) 3) ((k s i A) 0))))
+(lex.add.entry '("wA" nn (((w A) 1))))
+(lex.add.entry '("dZingdZi" nn (((dZ i n g) 1) ((dZ i) 4))))
+(lex.add.entry '("zhengshu" nn (((z h e n g) 3) ((s h u) 4))))
+(lex.add.entry '("zhimA" nn (((z h i) 1) ((m A) 0))))
+(lex.add.entry '("jAnk si" nn (((j A n) 3) ((k s i) 4))))
+(lex.add.entry '("shui" nn (((s h u i) 3))))
+(lex.add.entry '("shAng" nn (((s h A n g) 1))))
+(lex.add.entry '("guAndA" nn (((g u A n) 4) ((d A) 3))))
+(lex.add.entry '("ting" nn (((t i n g) 1))))
+(lex.add.entry '("dZiAnwu" nn (((dZ i A n) 4) ((w u) 3))))
+(lex.add.entry '("k siAzheng" nn (((k s i A) 4) ((z h e n g) 1))))
+(lex.add.entry '("zhong" nn (((z h o n g) 4))))
+(lex.add.entry '("rAo" nn (((r A o) 2))))
+(lex.add.entry '("wAngmAng" nn (((w A n g) 2) ((m A n g) 3))))
+(lex.add.entry '("hAo" nn (((h A o) 2))))
+(lex.add.entry '("wushe" nn (((w u) 1) ((s h e) 2))))
+(lex.add.entry '("dongk si" nn (((d o n g) 1) ((k s i) 1))))
+(lex.add.entry '("hAnju" nn (((h A n) 4) ((j u) 3))))
+(lex.add.entry '("ningjAo" nn (((n i n g) 2) ((j A o) 4))))
+(lex.add.entry '("k siongjuAn" nn (((k s i o n g) 2) ((j u A n) 3))))
+(lex.add.entry '("chhuguo" nn (((ch h u) 3) ((g u o) 2))))
+(lex.add.entry '("huAdong1" nn (((h u A) 2) ((d o n g) 1) ((d i Q M u) 4))))
+(lex.add.entry '("joudZiu" nn (((j o u) 3) ((dZ i u) 3))))
+(lex.add.entry '("dZik sing" nn (((dZ i) 4) ((k s i n g) 4))))
+(lex.add.entry '("jitiAo" nn (((j i) 1) ((t i A o) 2))))
+(lex.add.entry '("zhuodAo" nn (((z h u o) 1) ((d A o) 4))))
+(lex.add.entry '("rAozhou" nn (((r A o) 2) ((z h o u) 1))))
+(lex.add.entry '("dAkAi" nn (((d A) 3) ((k A i) 1))))
+(lex.add.entry '("bufen" nn (((b u) 4) ((f e n) 4))))
+(lex.add.entry '("dAili" nn (((d A i) 4) ((l i) 4))))
+(lex.add.entry '("shenghui" nn (((s h e n g) 3) ((h u i) 4))))
+(lex.add.entry '("zhuAn" nn (((z h u A n) 3))))
+(lex.add.entry '("buzAi" nn (((b u) 4) ((z A i) 4))))
+(lex.add.entry '("chheng" nn (((ch h e n g) 2))))
+(lex.add.entry '("QMuAnbu" nn (((QM u A n) 2) ((b u) 4))))
+(lex.add.entry '("gAiwei" nn (((g A i) 3) ((w e i) 4))))
+(lex.add.entry '("shichheng" nn (((s h i) 2) ((ch h e n g) 2))))
+(lex.add.entry '("lingk siu" nn (((l i n g) 3) ((k s i u) 4))))
+(lex.add.entry '("bu" nn (((b u) 3))))
+(lex.add.entry '("dAng" nn (((d A n g) 3))))
+(lex.add.entry '("tou" nn (((t o u) 1))))
+(lex.add.entry '("QMunzhong" nn (((QM u n) 2) ((z h o n g) 4))))
+(lex.add.entry '("hAo" nn (((h A o) 3))))
+(lex.add.entry '("shenme" nn (((s h e n) 2) ((m e) 0))))
+(lex.add.entry '("budZin" nn (((b u) 4) ((dZ i n) 4))))
+(lex.add.entry '("wAng" nn (((w A n g) 2))))
+(lex.add.entry '("weidZibAike" nn (((w e i) 2) ((dZ i) 1) ((b A i) 3) ((k e) 1))))
+(lex.add.entry '("huo" nn (((h u o) 4))))
+(lex.add.entry '("jongk sin" nn (((j o n g) 3) ((k s i n) 1))))
+(lex.add.entry '("mo" nn (((m o) 4))))
+(lex.add.entry '("zhisuo" nn (((z h i) 4) ((s u o) 3))))
+(lex.add.entry '("dZiAfA" nn (((dZ i A) 1) ((f A) 3))))
+(lex.add.entry '("minzu" nn (((m i n) 2) ((z u) 2))))
+(lex.add.entry '("dAzhi" nn (((d A) 4) ((z h i) 4))))
+(lex.add.entry '("dAluo" nn (((d A) 3) ((l u o) 2))))
+(lex.add.entry '("luobo" nn (((l u o) 2) ((b o) 0))))
+(lex.add.entry '("zi" nn (((z i) 0))))
+(lex.add.entry '("gAng" nn (((g A n g) 1))))
+(lex.add.entry '("leide" nn (((l e i) 4) ((d e) 2))))
+(lex.add.entry '("mAo" nn (((m A o) 2))))
+(lex.add.entry '("shiQMi" nn (((s h i) 2) ((QM i) 2))))
+(lex.add.entry '("jingk siAngli" nn (((j i n g) 3) ((k s i A n g) 3) ((l i) 4))))
+(lex.add.entry '("gen" nn (((g e n) 1))))
+(lex.add.entry '("QMi" nn (((QM i) 3))))
+(lex.add.entry '("jAng" nn (((j A n g) 1))))
+(lex.add.entry '("jAnlei" nn (((j A n) 3) ((l e i) 4))))
+(lex.add.entry '("longk sing" nn (((l o n g) 2) ((k s i n g) 4))))
+(lex.add.entry '("QMibA" nn (((QM i) 1) ((b A) 1))))
+(lex.add.entry '("dZiAngzhou" nn (((dZ i A n g) 1) ((z h o u) 1))))
+(lex.add.entry '("hui" nn (((h u i) 4))))
+(lex.add.entry '("dAnren" nn (((d A n) 1) ((r e n) 4))))
+(lex.add.entry '("sAn" nn (((s A n) 1))))
+(lex.add.entry '("gong" nn (((g o n g) 1))))
+(lex.add.entry '("dZiAngk sishifAndAk sue" nn (((dZ i A n g) 1) ((k s i) 1) ((s h i) 1) ((f A n) 4) ((d A) 4) ((k s u e) 2))))
+(lex.add.entry '("tiAngongkAiwu" nn (((t i A n) 1) ((g o n g) 1) ((k A i) 1) ((w u) 4))))
+(lex.add.entry '("gouchhishi" nn (((g o u) 3) ((ch h i) 1) ((s h i) 3))))
+(lex.add.entry '("bu" nn (((b u) 4))))
+(lex.add.entry '("dA" nn (((d A) 4))))
+(lex.add.entry '("lAoshifu" nn (((l A o) 3) ((s h i) 1) ((f u) 4))))
+(lex.add.entry '("k su" nn (((k s u) 3))))
+(lex.add.entry '("k siAngshi" nn (((k s i A n g) 1) ((s h i) 4))))
+(lex.add.entry '("dZiAn" nn (((dZ i A n) 3))))
+(lex.add.entry '("nAnchhAngdAk sue" nn (((n A n) 2) ((ch h A n g) 1) ((d A) 4) ((k s u e) 2))))
+(lex.add.entry '("zei" nn (((z e i) 2))))
+(lex.add.entry '("shijAng" nn (((s h i) 2) ((j A n g) 4))))
+(lex.add.entry '("dAli" nn (((d A) 3) ((l i) 1))))
+(lex.add.entry '("chhifAn" nn (((ch h i) 1) ((f A n) 4))))
+(lex.add.entry '("huA" nn (((h u A) 4))))
+(lex.add.entry '("buchhAng" nn (((b u) 4) ((ch h A n g) 2))))
+(lex.add.entry '("k sidZin" nn (((k s i) 1) ((dZ i n) 4))))
+(lex.add.entry '("dAtie" nn (((d A) 3) ((t i e) 3))))
+(lex.add.entry '("zhijAn" nn (((z h i) 3) ((j A n) 4))))
+(lex.add.entry '("hede" nn (((h e) 1) ((d e) 2))))
+(lex.add.entry '("chhishi" nn (((ch h i) 1) ((s h i) 3))))
+(lex.add.entry '("meirenguAn" nn (((m e i) 2) ((r e n) 2) ((g u A n) 3))))
+(lex.add.entry '("nibie" nn (((n i) 3) ((b i e) 2))))
+(lex.add.entry '("kebushAng" nn (((k e) 4) ((b u) 4) ((s h A n g) 4))))
+(lex.add.entry '("jik siA" nn (((j i) 1) ((k s i A) 4))))
+(lex.add.entry '("leAn" nn (((l e) 4) ((A n) 1))))
+(lex.add.entry '("leik sing" nn (((l e i) 4) ((k s i n g) 2))))
+(lex.add.entry '("jishi" nn (((j i) 1) ((s h i) 4))))
+(lex.add.entry '("ke" nn (((k e) 4))))
+(lex.add.entry '("weijuAnhui" nn (((w e i) 3) ((j u A n) 2) ((h u i) 4))))
+(lex.add.entry '("bAzhe" nn (((b A) 1) ((z h e) 2))))
+(lex.add.entry '("ji" nn (((j i) 1))))
+(lex.add.entry '("zhouchhAo" nn (((z h o u) 1) ((ch h A o) 2))))
+(lex.add.entry '("fu" nn (((f u) 3))))
+(lex.add.entry '("k sin" nn (((k s i n) 1))))
+(lex.add.entry '("zAok siAn" nn (((z A o) 3) ((k s i A n) 1))))
+(lex.add.entry '("jongguAng" nn (((j o n g) 4) ((g u A n g) 1))))
+(lex.add.entry '("eluosi" nn (((e) 4) ((l u o) 2) ((s i) 1))))
+(lex.add.entry '("QMu" nn (((QM u) 1))))
+(lex.add.entry '("goudZiA" nn (((g o u) 3) ((dZ i A) 4))))
+(lex.add.entry '("liAngzhi" nn (((l i A n g) 3) ((z h i) 1))))
+(lex.add.entry '("dishuichhenghe" nn (((d i) 1) ((s h u i) 3) ((ch h e n g) 2) ((h e) 2))))
+(lex.add.entry '("zAidA" nn (((z A i) 3) ((d A) 4))))
+(lex.add.entry '("mAidAo" nn (((m A i) 3) ((d A o) 4))))
+(lex.add.entry '("bAo" nn (((b A o) 3))))
+(lex.add.entry '("dAodZiAo" nn (((d A o) 4) ((dZ i A o) 4))))
+(lex.add.entry '("miAn" nn (((m i A n) 4))))
+(lex.add.entry '("songjingk sing" nn (((s o n g) 4) ((j i n g) 1) ((k s i n g) 1))))
+(lex.add.entry '("dZieguo" nn (((dZ i e) 2) ((g u o) 3))))
+(lex.add.entry '("tAohuAi" nn (((t A o) 3) ((h u A i) 4))))
+(lex.add.entry '("dAng" nn (((d A n g) 1))))
+(lex.add.entry '("k sunniAng" nn (((k s u n) 2) ((n i A n g) 2))))
+(lex.add.entry '("dAQMu" nn (((d A) 3) ((QM u) 4))))
+(lex.add.entry '("shiji" nn (((s h i) 2) ((j i) 1))))
+(lex.add.entry '("shisAn" nn (((s h i) 2) ((s A n) 1))))
+(lex.add.entry '("lin" nn (((l i n) 2))))
+(lex.add.entry '("hengsheng" nn (((h e n g) 2) ((s h e n g) 1))))
+(lex.add.entry '("zuodZiA" nn (((z u o) 4) ((dZ i A) 1))))
+(lex.add.entry '("liAn" nn (((l i A n) 2))))
+(lex.add.entry '("tiAn" nn (((t i A n) 1))))
+(lex.add.entry '("genk siAn" nn (((g e n) 1) ((k s i A n) 4))))
+(lex.add.entry '("he" nn (((h e) 2))))
+(lex.add.entry '("zAidZiA" nn (((z A i) 4) ((dZ i A) 1))))
+(lex.add.entry '("shAngrAo" nn (((s h A n g) 4) ((r A o) 2))))
+(lex.add.entry '("chhuAnji" nn (((ch h u A n) 1) ((j i) 1))))
+(lex.add.entry '("buguo" nn (((b u) 3) ((g u o) 1))))
+(lex.add.entry '("shAi" nn (((s h A i) 4))))
+(lex.add.entry '("chhe" nn (((ch h e) 3))))
+(lex.add.entry '("lAibudZi" nn (((l A i) 2) ((b u) 0) ((dZ i) 2))))
+(lex.add.entry '("huAbAi" nn (((h u A) 4) ((b A i) 2))))
+(lex.add.entry '("gAige" nn (((g A i) 3) ((g e) 2))))
+(lex.add.entry '("zhuguAn" nn (((z h u) 2) ((g u A n) 3))))
+(lex.add.entry '("beidZing" nn (((b e i) 4) ((dZ i n g) 3))))
+(lex.add.entry '("nAoke" nn (((n A o) 3) ((k e) 2))))
+(lex.add.entry '("liQMi" nn (((l i) 1) ((QM i) 3))))
+(lex.add.entry '("chhuAngshAng" nn (((ch h u A n g) 2) ((s h A n g) 4))))
+(lex.add.entry '("chhuAngk siA" nn (((ch h u A n g) 2) ((k s i A) 4))))
+(lex.add.entry '("dAlAn" nn (((d A) 3) ((l A n) 4))))
+(lex.add.entry '("zhuo" nn (((z h u o) 2))))
+(lex.add.entry '("juAnsu" nn (((j u A n) 2) ((s u) 4))))
+(lex.add.entry '("ben" nn (((b e n) 3))))
+(lex.add.entry '("sAnbAo" nn (((s A n) 1) ((b A o) 3))))
+(lex.add.entry '("jouju" nn (((j o u) 3) ((j u) 3))))
+(lex.add.entry '("QMingjunpuQMu" nn (((QM i n g) 1) ((j u n) 2) ((p u) 3) ((QM u) 1))))
+(lex.add.entry '("je" nn (((j e) 2))))
+(lex.add.entry '("julAi" nn (((j u) 3) ((l A i) 2))))
+(lex.add.entry '("shi" nn (((s h i) 2))))
+(lex.add.entry '("jAndZiu" nn (((j A n) 2) ((dZ i u) 1))))
+(lex.add.entry '("guo" nn (((g u o) 4))))
+(lex.add.entry '("diedie" nn (((d i e) 1) ((d i e) 1))))
+(lex.add.entry '("k sing" nn (((k s i n g) 4))))
+(lex.add.entry '("QMuAnkAo" nn (((QM u A n) 2) ((k A o) 4))))
+(lex.add.entry '("zhumA" nn (((z h u) 1) ((m A) 1))))
+(lex.add.entry '("zirAnshu" nn (((z i) 4) ((r A n) 2) ((s h u) 4))))
+(lex.add.entry '("zhugAo" nn (((z h u) 2) ((g A o) 1))))
+(lex.add.entry '("zou" nn (((z o u) 3))))
+(lex.add.entry '("duozi" nn (((d u o) 4) ((z i) 0))))
+(lex.add.entry '("lou" nn (((l o u) 2))))
+(lex.add.entry '("bAnshibulAo" nn (((b A n) 4) ((s h i) 4) ((b u) 4) ((l A o) 2))))
+(lex.add.entry '("gAn" nn (((g A n) 4))))
+(lex.add.entry '("bie" nn (((b i e) 2))))
+(lex.add.entry '("zongzi" nn (((z o n g) 4) ((z i) 0))))
+(lex.add.entry '("shilun" nn (((s h i) 2) ((l u n) 2))))
+(lex.add.entry '("mi" nn (((m i) 3))))
+(lex.add.entry '("zhihuA" nn (((z h i) 2) ((h u A) 4))))
+(lex.add.entry '("duo" nn (((d u o) 3))))
+(lex.add.entry '("shendZiA" nn (((s h e n) 1) ((dZ i A) 4))))
+(lex.add.entry '("henghuAheng" nn (((h e n g) 2) ((h u A) 4) ((h e n g) 2))))
+(lex.add.entry '("zuotiAn" nn (((z u o) 4) ((t i A n) 2))))
+(lex.add.entry '("dongdZing" nn (((d o n g) 1) ((dZ i n g) 1))))
+(lex.add.entry '("joubeizhAn" nn (((j o u) 3) ((b e i) 1) ((z h A n) 3))))
+(lex.add.entry '("rili" nn (((r i) 4) ((l i) 3))))
+(lex.add.entry '("zuoluo" nn (((z u o) 4) ((l u o) 4))))
+(lex.add.entry '("k siAng" nn (((k s i A n g) 4))))
+(lex.add.entry '("dZink siA" nn (((dZ i n) 1) ((k s i A) 4))))
+(lex.add.entry '("mAolu" nn (((m A o) 4) ((l u) 4))))
+(lex.add.entry '("zhongk siAjou" nn (((z h o n g) 4) ((k s i A) 4) ((j o u) 2))))
+(lex.add.entry '("gu" nn (((g u) 3))))
+(lex.add.entry '("hAoduoQMiAn" nn (((h A o) 3) ((d u o) 1) ((QM i A n) 2))))
+(lex.add.entry '("ji" nn (((j i) 2))))
+(lex.add.entry '("zhongliAng" nn (((z h o n g) 4) ((l i A n g) 4))))
+(lex.add.entry '("dAgou" nn (((d A) 3) ((g o u) 3))))
+(lex.add.entry '("k sieshu" nn (((k s i e) 3) ((s h u) 1))))
+(lex.add.entry '("jAn" nn (((j A n) 2))))
+(lex.add.entry '("tong" nn (((t o n g) 2))))
+(lex.add.entry '("dongchAng" nn (((d o n g) 4) ((ch A n g) 2))))
+(lex.add.entry '("sAimA" nn (((s A i) 4) ((m A) 3))))
+(lex.add.entry '("zuogui" nn (((z u o) 4) ((g u i) 3))))
+(lex.add.entry '("tAi" nn (((t A i) 4))))
+(lex.add.entry '("dAli" nn (((d A) 4) ((l i) 1))))
+(lex.add.entry '("jAzi" nn (((j A) 2) ((z i) 0))))
+(lex.add.entry '("mA" nn (((m A) 2))))
+(lex.add.entry '("jue" nn (((j u e) 4))))
+(lex.add.entry '("dZidudZiAo" nn (((dZ i) 1) ((d u) 1) ((dZ i A o) 4))))
+(lex.add.entry '("dZiAohun" nn (((dZ i A o) 3) ((h u n) 0))))
+(lex.add.entry '("lAnren" nn (((l A n) 3) ((r e n) 2))))
+(lex.add.entry '("mimi" nn (((m i) 4) ((m i) 4))))
+(lex.add.entry '("chhAling" nn (((ch h A) 2) ((l i n g) 2))))
+(lex.add.entry '("songsAn" nn (((s o n g) 4) ((s A n) 3))))
+(lex.add.entry '("zhutou" nn (((z h u) 1) ((t o u) 2))))
+(lex.add.entry '("k siAnshi" nn (((k s i A n) 4) ((s h i) 4))))
+(lex.add.entry '("ersi" nn (((e r) 4) ((s i) 4))))
+(lex.add.entry '("lAi" nn (((l A i) 2))))
+(lex.add.entry '("he" nn (((h e) 2))))
+(lex.add.entry '("dAny:" nn (((d A) 4) ((n y:) 3))))
+(lex.add.entry '("dAngzAi" nn (((d A n g) 1) ((z A i) 1))))
+(lex.add.entry '("jAoji" nn (((j A o) 4) ((j i) 1))))
+(lex.add.entry '("dAbufen" nn (((d A) 4) ((b u) 4) ((f e n) 4))))
+(lex.add.entry '("chhunzi" nn (((ch h u n) 3) ((z i) 0))))
+(lex.add.entry '("dAodedZing" nn (((d A o) 4) ((d e) 2) ((dZ i n g) 1))))
+(lex.add.entry '("dZiuliAng" nn (((dZ i u) 3) ((l i A n g) 4))))
+(lex.add.entry '("zAi" nn (((z A i) 3))))
+(lex.add.entry '("k sunfu" nn (((k s u n) 2) ((f u) 3))))
+(lex.add.entry '("jingtAn" nn (((j i n g) 1) ((t A n) 2))))
+(lex.add.entry '("fenlei" nn (((f e n) 1) ((l e i) 4))))
+(lex.add.entry '("dZiujAo" nn (((dZ i u) 4) ((j A o) 4))))
+(lex.add.entry '("zhe" nn (((z h e) 0))))
+(lex.add.entry '("gejousuoAi" nn (((g e) 4) ((j o u) 3) ((s u o) 3) ((A i) 4))))
+(lex.add.entry '("mingniAn" nn (((m i n g) 2) ((n i A n) 2))))
+(lex.add.entry '("chuigong" nn (((ch u i) 1) ((g o n g) 1))))
+(lex.add.entry '("dZiAngk sisheng" nn (((dZ i A n g) 1) ((k s i) 1) ((s h e n g) 3))))
+(lex.add.entry '("wudZiAo" nn (((w u) 1) ((dZ i A o) 3))))
+(lex.add.entry '("gA" nn (((g A) 1))))
+(lex.add.entry '("hefAng" nn (((h e) 2) ((f A n g) 1))))
+(lex.add.entry '("chhu" nn (((ch h u) 1))))
+(lex.add.entry '("wAngchhAo" nn (((w A n g) 2) ((ch h A o) 2))))
+(lex.add.entry '("zui" nn (((z u i) 4))))
+(lex.add.entry '("kedZiAhuA" nn (((k e) 4) ((dZ i A) 1) ((h u A) 4))))
+(lex.add.entry '("bilAi" nn (((b i) 3) ((l A i) 2))))
+(lex.add.entry '("dZiuchhong" nn (((dZ i u) 4) ((ch h o n g) 1))))
+(lex.add.entry '("gAnju" nn (((g A n) 4) ((j u) 3))))
+(lex.add.entry '("shAngchhuAng" nn (((s h A n g) 4) ((ch h u A n g) 2))))
+(lex.add.entry '("liAngniAn" nn (((l i A n g) 3) ((n i A n) 2))))
+(lex.add.entry '("suosuo" nn (((s u o) 1) ((s u o) 1))))
+(lex.add.entry '("4gong" nn (((t u d i) 3) ((g o n g) 1))))
+(lex.add.entry '("dAdAo" nn (((d A) 3) ((d A o) 3))))
+(lex.add.entry '("chAnshA" nn (((ch A n) 4) ((s h A) 1))))
+(lex.add.entry '("jouchi" nn (((j o u) 3) ((ch i) 2))))
+(lex.add.entry '("kedingji" nn (((k e) 3) ((d i n g) 4) ((j i) 4))))
+(lex.add.entry '("zhongguoguomindAng" nn (((z h o n g) 1) ((g u o) 2) ((g u o) 2) ((m i n) 2) ((d A n g) 3))))
+(lex.add.entry '("lichhAolidAi" nn (((l i) 4) ((ch h A o) 2) ((l i) 4) ((d A i) 4))))
+(lex.add.entry '("zong" nn (((z o n g) 4))))
+(lex.add.entry '("chhujuAn" nn (((ch h u) 1) ((j u A n) 4))))
+(lex.add.entry '("dAhAn" nn (((d A) 4) ((h A n) 4))))
+(lex.add.entry '("huoshAojun" nn (((h u o) 3) ((s h A o) 1) ((j u n) 2))))
+(lex.add.entry '("mAi" nn (((m A i) 2))))
+(lex.add.entry '("dZie" nn (((dZ i e) 4))))
+(lex.add.entry '("wenke" nn (((w e n) 4) ((k e) 4))))
+(lex.add.entry '("dZiAohuAzi" nn (((dZ i A o) 4) ((h u A) 1) ((z i) 0))))
+(lex.add.entry '("wendAng" nn (((w e n) 3) ((d A n g) 1))))
+(lex.add.entry '("dZin" nn (((dZ i n) 3))))
+(lex.add.entry '("kAo" nn (((k A o) 4))))
+(lex.add.entry '("rizi" nn (((r i) 4) ((z i) 0))))
+(lex.add.entry '("k siAnggong" nn (((k s i A n g) 4) ((g o n g) 0))))
+(lex.add.entry '("le" nn (((l e) 0))))
+(lex.add.entry '("kAn" nn (((k A n) 4))))
+(lex.add.entry '("fAngmiAn" nn (((f A n g) 1) ((m i A n) 4))))
+(lex.add.entry '("ming" nn (((m i n g) 2))))
+(lex.add.entry '("renchhun" nn (((r e n) 2) ((ch h u n) 3))))
+(lex.add.entry '("k su" nn (((k s u) 2))))
+(lex.add.entry '("shedZi" nn (((s h e) 4) ((dZ i) 2))))
+(lex.add.entry '("QMiAnri" nn (((QM i A n) 1) ((r i) 4))))
+(lex.add.entry '("liAngzhiju" nn (((l i A n g) 3) ((z h i) 1) ((j u) 2))))
+(lex.add.entry '("shifu" nn (((s h i) 1) ((f u) 4))))
+(lex.add.entry '("k siAnglAi" nn (((k s i A n g) 3) ((l A i) 2))))
+(lex.add.entry '("ju" nn (((j u) 3))))
+(lex.add.entry '("shou" nn (((s h o u) 4))))
+(lex.add.entry '("dA" nn (((d A) 1))))
+(lex.add.entry '("bulAnsong" nn (((b u) 4) ((l A n) 2) ((s o n g) 4))))
+(lex.add.entry '("die" nn (((d i e) 1))))
+(lex.add.entry '("duwei" nn (((d u) 1) ((w e i) 4))))
+(lex.add.entry '("dAnshui" nn (((d A n) 1) ((s h u i) 3))))
+(lex.add.entry '("wuli" nn (((w u) 1) ((l i) 3))))
+(lex.add.entry '("k siAngk siA" nn (((k s i A n g) 1) ((k s i A) 4))))
+(lex.add.entry '("jouming" nn (((j o u) 3) ((m i n g) 2))))
+(lex.add.entry '("dZiAofA" nn (((dZ i A o) 4) ((f A) 3))))
+(lex.add.entry '("shengzAibuchhu" nn (((s h e n g) 1) ((z A i) 3) ((b u) 4) ((ch h u) 1))))
+(lex.add.entry '("jouli" nn (((j o u) 3) ((l i) 3))))
+(lex.add.entry '("huAhuA" nn (((h u A) 4) ((h u A) 4))))
+(lex.add.entry '("nAnkAng" nn (((n A n) 2) ((k A n g) 1))))
+(lex.add.entry '("zhAng" nn (((z h A n g) 3))))
+(lex.add.entry '("zhenbiAn" nn (((z h e n) 3) ((b i A n) 1))))
+(lex.add.entry '("dAlAn" nn (((d A) 3) ((l A n) 4))))
+(lex.add.entry '("jAo" nn (((j A o) 4))))
+(lex.add.entry '("pingjuAn" nn (((p i n g) 2) ((j u A n) 2))))
+(lex.add.entry '("wuzhi" nn (((w u) 3) ((z h i) 1))))
+(lex.add.entry '("wAili" nn (((w A i) 4) ((l i) 3))))
+(lex.add.entry '("toudAo" nn (((t o u) 2) ((d A o) 4))))
+(lex.add.entry '("juAnzihe" nn (((j u A n) 2) ((z i) 3) ((h e) 2))))
+(lex.add.entry '("k sunjAng" nn (((k s u n) 2) ((j A n g) 2))))
+(lex.add.entry '("judZiA" nn (((j u) 4) ((dZ i A) 1))))
+(lex.add.entry '("meiguo" nn (((m e i) 3) ((g u o) 2))))
+(lex.add.entry '("liAodZie" nn (((l i A o) 3) ((dZ i e) 3))))
+(lex.add.entry '("dAgu" nn (((d A) 3) ((g u) 3))))
+(lex.add.entry '("jibAn" nn (((j i) 1) ((b A n) 1))))
+(lex.add.entry '("pAngk sie" nn (((p A n g) 2) ((k s i e) 4))))
+(lex.add.entry '("guAibuguAi" nn (((g u A i) 1) ((b u) 4) ((g u A i) 1))))
+(lex.add.entry '("jichhuAn" nn (((j i) 1) ((ch h u A n) 2))))
+(lex.add.entry '("dZi" nn (((dZ i) 2))))
+(lex.add.entry '("jugong" nn (((j u) 3) ((g o n g) 4))))
+(lex.add.entry '("mohou" nn (((m o) 4) ((h o u) 4))))
+(lex.add.entry '("zuohuAi" nn (((z u o) 4) ((h u A i) 4))))
+(lex.add.entry '("k siguA" nn (((k s i) 1) ((g u A) 1))))
+(lex.add.entry '("hAoping" nn (((h A o) 3) ((p i n g) 2))))
+(lex.add.entry '("sAnzhi" nn (((s A n) 1) ((z h i) 1))))
+(lex.add.entry '("dAguAn" nn (((d A) 3) ((g u A n) 4))))
+(lex.add.entry '("zhuzhou" nn (((z h u) 3) ((z h o u) 1))))
+(lex.add.entry '("jidAli" nn (((j i) 4) ((d A) 4) ((l i) 4))))
+(lex.add.entry '("QMing" nn (((QM i n g) 2))))
+(lex.add.entry '("fAngpi" nn (((f A n g) 4) ((p i) 4))))
+(lex.add.entry '("bibAi" nn (((b i) 4) ((b A i) 2))))
+(lex.add.entry '("k siAgongnAo" nn (((k s i A) 1) ((g o n g) 1) ((n A o) 3))))
+(lex.add.entry '("diek siAlAi" nn (((d i e) 1) ((k s i A) 4) ((l A i) 2))))
+(lex.add.entry '("jAnghAo" nn (((j A n g) 1) ((h A o) 3))))
+(lex.add.entry '("zAoji" nn (((z A o) 3) ((j i) 3))))
+(lex.add.entry '("shAohuo" nn (((s h A o) 1) ((h u o) 3))))
+(lex.add.entry '("ke" nn (((k e) 4))))
+(lex.add.entry '("jAoQMin" nn (((j A o) 4) ((QM i n) 2))))
+(lex.add.entry '("shenli" nn (((s h e n) 2) ((l i) 1))))
+(lex.add.entry '("tiAo" nn (((t i A o) 4))))
+(lex.add.entry '("puQMi" nn (((p u) 2) ((QM i) 2))))
+(lex.add.entry '("mingzi" nn (((m i n g) 2) ((z i) 4))))
+(lex.add.entry '("duomi" nn (((d u o) 1) ((m i) 3))))
+(lex.add.entry '("dAfAn" nn (((d A) 3) ((f A n) 1))))
+(lex.add.entry '("zhengfAn" nn (((z h e n g) 1) ((f A n) 4))))
+(lex.add.entry '("minzhu" nn (((m i n) 2) ((z h u) 3))))
+(lex.add.entry '("lAohu" nn (((l A o) 3) ((h u) 3))))
+(lex.add.entry '("k siAn" nn (((k s i A n) 2))))
+(lex.add.entry '("dongdZiAn" nn (((d o n g) 1) ((dZ i A n) 3))))
+(lex.add.entry '("dZunzhengfu" nn (((dZ u n) 1) ((z h e n g) 4) ((f u) 3))))
+(lex.add.entry '("dZihe" nn (((dZ i) 2) ((h e) 2))))
+(lex.add.entry '("li" nn (((l i) 3))))
+(lex.add.entry '("zuchheng" nn (((z u) 3) ((ch h e n g) 2))))
+(lex.add.entry '("fenlAi" nn (((f e n) 3) ((l A i) 2))))
+(lex.add.entry '("k sinhAigeming" nn (((k s i n) 1) ((h A i) 4) ((g e) 2) ((m i n g) 4))))
+(lex.add.entry '("chhAochAi" nn (((ch h A o) 3) ((ch A i) 4))))
+(lex.add.entry '("tAng" nn (((t A n g) 1))))
+(lex.add.entry '("geng" nn (((g e n g) 4))))
+(lex.add.entry '("liAng" nn (((l i A n g) 2))))
+(lex.add.entry '("chhiguAng" nn (((ch h i) 1) ((g u A n g) 1))))
+(lex.add.entry '("dZiAnchheng" nn (((dZ i A n) 3) ((ch h e n g) 1))))
+(lex.add.entry '("chhidZiu" nn (((ch h i) 1) ((dZ i u) 3))))
+(lex.add.entry '("jAojoujAobudong" nn (((j A o) 2) ((j o u) 4) ((j A o) 2) ((b u) 4) ((d o n g) 4))))
+(lex.add.entry '("hezAnjuAn" nn (((h e) 4) ((z A n) 4) ((j u A n) 2))))
+(lex.add.entry '("gAo" nn (((g A o) 3))))
+(lex.add.entry '("hongzhou" nn (((h o n g) 2) ((z h o u) 1))))
+(lex.add.entry '("bAibiguA" nn (((b A i) 2) ((b i) 4) ((g u A) 4))))
+(lex.add.entry '("jong" nn (((j o n g) 4))))
+(lex.add.entry '("chhengsAn" nn (((ch h e n g) 1) ((s A n) 3))))
+(lex.add.entry '("k sieQMi" nn (((k s i e) 1) ((QM i) 4))))
+(lex.add.entry '("huAdZiA" nn (((h u A) 4) ((dZ i A) 1))))
+(lex.add.entry '("huAnghe" nn (((h u A n g) 2) ((h e) 2))))
+(lex.add.entry '("k siAnAnming" nn (((k s i A n) 1) ((A n) 1) ((m i n g) 2))))
+(lex.add.entry '("chhuAng" nn (((ch h u A n g) 2))))
+(lex.add.entry '("mie" nn (((m i e) 4))))
+(lex.add.entry '("QMuAnshidZie" nn (((QM u A n) 2) ((s h i) 4) ((dZ i e) 4))))
+(lex.add.entry '("QMiu" nn (((QM i u) 1))))
+(lex.add.entry '("hAodAi" nn (((h A o) 3) ((d A i) 3))))
+(lex.add.entry '("chiQMi" nn (((ch i) 2) ((QM i) 4))))
+(lex.add.entry '("diAo" nn (((d i A o) 1))))
+(lex.add.entry '("jinAn" nn (((j i) 3) ((n A n) 2))))
+(lex.add.entry '("zong" nn (((z o n g) 1))))
+(lex.add.entry '("jAoQMiAn" nn (((j A o) 4) ((QM i A n) 2))))
+(lex.add.entry '("li" nn (((l i) 1))))
+(lex.add.entry '("dAngmiAnluo" nn (((d A n g) 1) ((m i A n) 4) ((l u o) 2))))
+(lex.add.entry '("jAo" nn (((j A o) 1))))
+(lex.add.entry '("dZiAndAo" nn (((dZ i A n) 3) ((d A o) 4))))
+(lex.add.entry '("dZiushi" nn (((dZ i u) 4) ((s h i) 4))))
+(lex.add.entry '("k siAnchhA" nn (((k s i A n) 1) ((ch h A) 2))))
+(lex.add.entry '("k siAde" nn (((k s i A) 4) ((d e) 2))))
+(lex.add.entry '("zhi" nn (((z h i) 3))))
+(lex.add.entry '("jAnlu" nn (((j A n) 2) ((l u) 4))))
+(lex.add.entry '("gongheguo" nn (((g o n g) 4) ((h e) 2) ((g u o) 2))))
+(lex.add.entry '("dZik siAn" nn (((dZ i) 2) ((k s i A n) 4))))
+(lex.add.entry '("chhengniAn" nn (((ch h e n g) 2) ((n i A n) 2))))
+(lex.add.entry '("nAnbu" nn (((n A n) 2) ((b u) 4))))
+(lex.add.entry '("liAn" nn (((l i A n) 3))))
+(lex.add.entry '("dZunzi" nn (((dZ u n) 1) ((z i) 3))))
+(lex.add.entry '("dZiu" nn (((dZ i u) 3))))
+(lex.add.entry '("dAshipA" nn (((d A) 3) ((s h i) 1) ((p A) 4))))
+(lex.add.entry '("dAndAn" nn (((d A n) 4) ((d A n) 4))))
+(lex.add.entry '("zhAjAo" nn (((z h A) 4) ((j A o) 4))))
+(lex.add.entry '("luok siAoshAn" nn (((l u o) 2) ((k s i A o) 1) ((s h A n) 1))))
+(lex.add.entry '("chAi" nn (((ch A i) 4))))
+(lex.add.entry '("suAnpAn" nn (((s u A n) 4) ((p A n) 2))))
+(lex.add.entry '("Anhui" nn (((A n) 1) ((h u i) 1))))
+(lex.add.entry '("Anji" nn (((A n) 1) ((j i) 4))))
+(lex.add.entry '("zuohAo" nn (((z u o) 4) ((h A o) 3))))
+(lex.add.entry '("chhAi" nn (((ch h A i) 2))))
+(lex.add.entry '("QMiAn" nn (((QM i A n) 1))))
+(lex.add.entry '("lAidZiAng" nn (((l A i) 2) ((dZ i A n g) 3))))
+(lex.add.entry '("Aipo" nn (((A i) 3) ((p o) 2))))
+(lex.add.entry '("jingju" nn (((j i n g) 1) ((j u) 3))))
+(lex.add.entry '("tuoniAo" nn (((t u o) 2) ((n i A o) 3))))
+(lex.add.entry '("dedZishi" nn (((d e) 0) ((dZ i) 2) ((s h i) 4))))
+(lex.add.entry '("guAn" nn (((g u A n) 3))))
+(lex.add.entry '("zuotiAn" nn (((z u o) 4) ((t i A n) 2))))
+(lex.add.entry '("renwen" nn (((r e n) 2) ((w e n) 2))))
+(lex.add.entry '("dZiegou" nn (((dZ i e) 2) ((g o u) 4))))
+(lex.add.entry '("budZue" nn (((b u) 4) ((dZ u e) 2))))
+(lex.add.entry '("dZik siAn" nn (((dZ i) 2) ((k s i A n) 4))))
+(lex.add.entry '("QMu" nn (((QM u) 2))))
+(lex.add.entry '("lishi" nn (((l i) 4) ((s h i) 3))))
+(lex.add.entry '("k siAng" nn (((k s i A n g) 1))))
+(lex.add.entry '("guAng" nn (((g u A n g) 3))))
+(lex.add.entry '("chhAngdZinglu" nn (((ch h A n g) 2) ((dZ i n g) 3) ((l u) 4))))
+(lex.add.entry '("hAochheng" nn (((h A o) 4) ((ch h e n g) 1))))
+(lex.add.entry '("bude" nn (((b u) 4) ((d e) 2))))
+(lex.add.entry '("k suedAi" nn (((k s u e) 2) ((d A i) 3))))
+(lex.add.entry '("minzuk siAng" nn (((m i n) 2) ((z u) 2) ((k s i A n g) 1))))
+(lex.add.entry '("jou" nn (((j o u) 3))))
+(lex.add.entry '("chhAisAng" nn (((ch h A i) 2) ((s A n g) 1))))
+(lex.add.entry '("mAo" nn (((m A o) 4))))
+(lex.add.entry '("dZuk sing" nn (((dZ u) 3) ((k s i n g) 2))))
+(lex.add.entry '("bieren" nn (((b i e) 2) ((r e n) 2))))
+(lex.add.entry '("jidu" nn (((j i) 1) ((d u) 4))))
+(lex.add.entry '("dZiAzu" nn (((dZ i A) 1) ((z u) 2))))
+(lex.add.entry '("zongbu" nn (((z o n g) 3) ((b u) 4))))
+(lex.add.entry '("hAishi" nn (((h A i) 2) ((s h i) 4))))
+(lex.add.entry '("k siAn" nn (((k s i A n) 4))))
+(lex.add.entry '("zhouzhi" nn (((z h o u) 1) ((z h i) 4))))
+(lex.add.entry '("zhuifeng" nn (((z h u i) 1) ((f e n g) 1))))
+(lex.add.entry '("dZiA" nn (((dZ i A) 1))))
+(lex.add.entry '("dZiAngk si" nn (((dZ i A n g) 1) ((k s i) 1))))
+(lex.add.entry '("QMiAn" nn (((QM i A n) 2))))
+(lex.add.entry '("shengQMiAn" nn (((s h e n g) 1) ((QM i A n) 2))))
+(lex.add.entry '("jAngchhipo" nn (((j A n g) 2) ((ch h i) 4) ((p o) 2))))
+(lex.add.entry '("kAng" nn (((k A n g) 2))))
+(lex.add.entry '("k suehAo" nn (((k s u e) 2) ((h A o) 3))))
+(lex.add.entry '("luomA" nn (((l u o) 2) ((m A) 3))))
+(lex.add.entry '("ling" nn (((l i n g) 4))))
+(lex.add.entry '("ju" nn (((j u) 3))))
+(lex.add.entry '("mAifen" nn (((m A i) 3) ((f e n) 3))))
+(lex.add.entry '("dZiAotong" nn (((dZ i A o) 1) ((t o n g) 1))))
+(lex.add.entry '("k siAdi" nn (((k s i A) 4) ((d i) 3))))
+(lex.add.entry '("bAo" nn (((b A o) 3))))
+(lex.add.entry '("zhongdiAn" nn (((z h o n g) 4) ((d i A n) 3))))
+(lex.add.entry '("mou" nn (((m o u) 2))))
+(lex.add.entry '("song" nn (((s o n g) 4))))
+(lex.add.entry '("bAnchhuAng" nn (((b A n) 1) ((ch h u A n g) 2))))
+(lex.add.entry '("zhizhong" nn (((z h i) 1) ((z h o n g) 1))))
+(lex.add.entry '("dAo" nn (((d A o) 4))))
+(lex.add.entry '("Aizi" nn (((A i) 3) ((z i) 0))))
+(lex.add.entry '("chhuAn" nn (((ch h u A n) 1))))
+(lex.add.entry '("pigu" nn (((p i) 4) ((g u) 0))))
+(lex.add.entry '("zhiji" nn (((z h i) 1) ((j i) 1))))
+(lex.add.entry '("zhou" nn (((z h o u) 1))))
+(lex.add.entry '("zhik siA" nn (((z h i) 1) ((k s i A) 4))))
+(lex.add.entry '("zAi" nn (((z A i) 4))))
+(lex.add.entry '("huA" nn (((h u A) 1))))
+(lex.add.entry '("k siAng" nn (((k s i A n g) 1))))
+(lex.add.entry '("jedZi" nn (((j e) 3) ((dZ i) 1))))
+(lex.add.entry '("QMu" nn (((QM u) 3))))
+(lex.add.entry '("dongli" nn (((d o n g) 4) ((l i) 3))))
+(lex.add.entry '("QMu" nn (((QM u) 4))))
+(lex.add.entry '("dZik sing" nn (((dZ i) 4) ((k s i n g) 4))))
+(lex.add.entry '("shishu" nn (((s h i) 2) ((s h u) 4))))
+(lex.add.entry '("gAohuA" nn (((g A o) 4) ((h u A) 4))))
+(lex.add.entry '("bAidAo" nn (((b A i) 4) ((d A o) 4))))
+(lex.add.entry '("k siAn" nn (((k s i A n) 1))))
+(lex.add.entry '("k singzhi" nn (((k s i n g) 4) ((z h i) 4))))
+(lex.add.entry '("niAndZi" nn (((n i A n) 2) ((dZ i) 4))))
+(lex.add.entry '("lAihuA" nn (((l A i) 2) ((h u A) 4))))
+(lex.add.entry '("niAo" nn (((n i A o) 3))))
+(lex.add.entry '("ju" nn (((j u) 2))))
+(lex.add.entry '("tuo" nn (((t u o) 2))))
+(lex.add.entry '("lu" nn (((l u) 4))))
+(lex.add.entry '("gong" nn (((g o n g) 3))))
+(lex.add.entry '("jidZiAo" nn (((j i) 1) ((dZ i A o) 3))))
+(lex.add.entry '("tAishou" nn (((t A i) 4) ((s h o u) 3))))
+(lex.add.entry '("k sisAohui" nn (((k s i) 4) ((s A o) 3) ((h u i) 4))))
+(lex.add.entry '("huAnghuAguiny:" nn (((h u A n g) 2) ((h u A) 1) ((g u i) 1) ((n y:) 3))))
+(lex.add.entry '("dou" nn (((d o u) 1))))
+(lex.add.entry '("hAijou" nn (((h A i) 2) ((j o u) 3))))
+(lex.add.entry '("shidZie" nn (((s h i) 4) ((dZ i e) 4))))
+(lex.add.entry '("dZiAojou" nn (((dZ i A o) 3) ((j o u) 3))))
+(lex.add.entry '("joujimo" nn (((j o u) 4) ((j i) 1) ((m o) 1))))
+(lex.add.entry '("mAoer" nn (((m A o) 1) ((e r) 0))))
+(lex.add.entry '("mi" nn (((m i) 1))))
+(lex.add.entry '("liAng" nn (((l i A n g) 4))))
+(lex.add.entry '("hAnguo" nn (((h A n) 2) ((g u o) 2))))
+(lex.add.entry '("QMingjuAnQMu" nn (((QM i n g) 1) ((j u A n) 2) ((QM u) 1))))
+(lex.add.entry '("shoudu" nn (((s h o u) 3) ((d u) 1))))
+(lex.add.entry '("zhongwen" nn (((z h o n g) 1) ((w e n) 2))))
+(lex.add.entry '("chAng" nn (((ch A n g) 2))))
+(lex.add.entry '("suosuo" nn (((s u o) 3) ((s u o) 3))))
+(lex.add.entry '("chhAi" nn (((ch h A i) 1))))
+(lex.add.entry '("wuzi" nn (((w u) 1) ((z i) 3))))
+(lex.add.entry '("jouk siAngwAn" nn (((j o u) 3) ((k s i A n g) 1) ((w A n) 3))))
+(lex.add.entry '("miAnse" nn (((m i A n) 4) ((s e) 4))))
+(lex.add.entry '("zuopin" nn (((z u o) 4) ((p i n) 3))))
+(lex.add.entry '("hAi" nn (((h A i) 2))))
+(lex.add.entry '("zhAo" nn (((z h A o) 4))))
+(lex.add.entry '("dZiAomen" nn (((dZ i A o) 4) ((m e n) 2))))
+(lex.add.entry '("dAodi" nn (((d A o) 4) ((d i) 3))))
+(lex.add.entry '("QMingshui" nn (((QM i n g) 1) ((s h u i) 3))))
+(lex.add.entry '("shentidZiAnkAng" nn (((s h e n) 1) ((t i) 3) ((dZ i A n) 4) ((k A n g) 1))))
+(lex.add.entry '("doufu" nn (((d o u) 4) ((f u) 0))))
+(lex.add.entry '("tudipo" nn (((t u) 3) ((d i) 4) ((p o) 2))))
+(lex.add.entry '("dAgui" nn (((d A) 3) ((g u i) 3))))
+(lex.add.entry '("hengzhuozhi" nn (((h e n g) 2) ((z h u o) 2) ((z h i) 2))))
+(lex.add.entry '("k siongdZin" nn (((k s i o n g) 2) ((dZ i n) 4))))
+(lex.add.entry '("piQMi" nn (((p i) 2) ((QM i) 4))))
+(lex.add.entry '("houlAi" nn (((h o u) 4) ((l A i) 2))))
+(lex.add.entry '("pengdAo" nn (((p e n g) 4) ((d A o) 4))))
+(lex.add.entry '("zuidA" nn (((z u i) 4) ((d A) 4))))
+(lex.add.entry '("difAng" nn (((d i) 4) ((f A n g) 1))))
+(lex.add.entry '("tAngchhAo" nn (((t A n g) 2) ((ch h A o) 2))))
+(lex.add.entry '("dAi" nn (((d A i) 4))))
+(lex.add.entry '("dZing" nn (((dZ i n g) 3))))
+(lex.add.entry '("dAshi" nn (((d A) 4) ((s h i) 4))))
+(lex.add.entry '("guilei" nn (((g u i) 1) ((l e i) 1))))
+(lex.add.entry '("zhengzhi" nn (((z h e n g) 4) ((z h i) 4))))
+(lex.add.entry '("she" nn (((s h e) 2))))
+(lex.add.entry '("jAosu" nn (((j A o) 4) ((s u) 4))))
+(lex.add.entry '("jing" nn (((j i n g) 1))))
+(lex.add.entry '("kek sue" nn (((k e) 1) ((k s u e) 2))))
+(lex.add.entry '("k siAtou" nn (((k s i A) 4) ((t o u) 0))))
+(lex.add.entry '("k sundAo" nn (((k s u n) 2) ((d A o) 4))))
+(lex.add.entry '("nAntAng" nn (((n A n) 2) ((t A n g) 2))))
+(lex.add.entry '("dZiAji" nn (((dZ i A) 4) ((j i) 1))))
+(lex.add.entry '("dZuren" nn (((dZ u) 3) ((r e n) 2))))
+(lex.add.entry '("buru" nn (((b u) 4) ((r u) 2))))
+(lex.add.entry '("sAntAng" nn (((s A n) 4) ((t A n g) 2))))
+(lex.add.entry '("guihuA" nn (((g u i) 1) ((h u A) 4))))
+(lex.add.entry '("k siAng" nn (((k s i A n g) 3))))
+(lex.add.entry '("dZingshAng" nn (((dZ i n g) 3) ((s h A n g) 4))))
+(lex.add.entry '("jueguAngguAng" nn (((j u e) 4) ((g u A n g) 1) ((g u A n g) 1))))
+(lex.add.entry '("bitou" nn (((b i) 3) ((t o u) 2))))
+(lex.add.entry '("kAochhAng" nn (((k A o) 3) ((ch h A n g) 3))))
+(lex.add.entry '("shAngsheng" nn (((s h A n g) 4) ((s h e n g) 1))))
+(lex.add.entry '("lubiAn" nn (((l u) 4) ((b i A n) 1))))
+(lex.add.entry '("k sun" nn (((k s u n) 2))))
+(lex.add.entry '("muchhAi" nn (((m u) 4) ((ch h A i) 2))))
+(lex.add.entry '("shouzu" nn (((s h o u) 3) ((z u) 2))))
+(lex.add.entry '("buzhengshi" nn (((b u) 4) ((z h e n g) 4) ((s h i) 3))))
+(lex.add.entry '("chhili" nn (((ch h i) 1) ((l i) 1))))
+(lex.add.entry '("mudAnhuA" nn (((m u) 3) ((d A n) 1) ((h u A) 1))))
+(lex.add.entry '("jAsi" nn (((j A) 1) ((s i) 3))))
+(lex.add.entry '("k si" nn (((k s i) 4))))
+(lex.add.entry '("bugou" nn (((b u) 4) ((g o u) 4))))
+(lex.add.entry '("wu" nn (((w u) 1))))
+(lex.add.entry '("dAo" nn (((d A o) 4))))
+(lex.add.entry '("guoQMu" nn (((g u o) 4) ((QM u) 4))))
+(lex.add.entry '("dudu" nn (((d u) 1) ((d u) 1))))
+(lex.add.entry '("zhuk siAn" nn (((z h u) 1) ((k s i A n) 2))))
+(lex.add.entry '("kAng" nn (((k A n g) 1))))
+(lex.add.entry '("liAng" nn (((l i A n g) 3))))
+(lex.add.entry '("bu" nn (((b u) 4))))
+(lex.add.entry '("zhi" nn (((z h i) 3))))
+(lex.add.entry '("bimo" nn (((b i) 3) ((m o) 4))))
+(lex.add.entry '("si" nn (((s i) 4))))
+(lex.add.entry '("rou" nn (((r o u) 4))))
+(lex.add.entry '("mAi" nn (((m A i) 4))))
+(lex.add.entry '("simulAn" nn (((s i) 3) ((m u) 4) ((l A n) 4))))
+(lex.add.entry '("popo" nn (((p o) 2) ((p o) 0))))
+(lex.add.entry '("hAohAn" nn (((h A o) 3) ((h A n) 4))))
+(lex.add.entry '("luozi" nn (((l u o) 2) ((z i) 3))))
+(lex.add.entry '("longgong" nn (((l o n g) 3) ((g o n g) 4))))
+(lex.add.entry '("mAibi" nn (((m A i) 3) ((b i) 3))))
+(lex.add.entry '("mA" nn (((m A) 1))))
+(lex.add.entry '("QMiAo" nn (((QM i A o) 2))))
+(lex.add.entry '("duAnshidZiAn" nn (((d u A n) 4) ((s h i) 2) ((dZ i A n) 1))))
+(lex.add.entry '("ting" nn (((t i n g) 2))))
+(lex.add.entry '("jiben" nn (((j i) 1) ((b e n) 3))))
+(lex.add.entry '("guo" nn (((g u o) 2))))
+(lex.add.entry '("QMiAnQMiAn" nn (((QM i A n) 1) ((QM i A n) 1))))
+(lex.add.entry '("k siAoQMi" nn (((k s i A o) 3) ((QM i) 4))))
+(lex.add.entry '("kAnhu" nn (((k A n) 4) ((h u) 4))))
+(lex.add.entry '("dAngdZiA" nn (((d A n g) 1) ((dZ i A) 1))))
+(lex.add.entry '("huAhuA" nn (((h u A) 1) ((h u A) 1))))
+(lex.add.entry '("jigen" nn (((j i) 1) ((g e n) 1))))
+(lex.add.entry '("kAnk si" nn (((k A n) 4) ((k s i) 4))))
+(lex.add.entry '("buzhiQMiAn" nn (((b u) 4) ((z h i) 2) ((QM i A n) 2))))
+(lex.add.entry '("QMingzhong" nn (((QM i n g) 1) ((z h o n g) 4))))
+(lex.add.entry '("luAn" nn (((l u A n) 4))))
+(lex.add.entry '("dengzhAn" nn (((d e n g) 1) ((z h A n) 3))))
+(lex.add.entry '("bA" nn (((b A) 3))))
+(lex.add.entry '("hou" nn (((h o u) 4))))
+(lex.add.entry '("k siAng" nn (((k s i A n g) 4))))
+(lex.add.entry '("shAngdiAo" nn (((s h A n g) 4) ((d i A o) 4))))
+(lex.add.entry '("chhong" nn (((ch h o n g) 1))))
+(lex.add.entry '("sAnshi" nn (((s A n) 1) ((s h i) 2))))
+(lex.add.entry '("nAnguA" nn (((n A n) 2) ((g u A) 1))))
+(lex.add.entry '("feiguo" nn (((f e i) 1) ((g u o) 4))))
+(lex.add.entry '("jizhi" nn (((j i) 1) ((z h i) 1))))
+(lex.add.entry '("hAihun" nn (((h A i) 3) ((h u n) 1))))
+(lex.add.entry '("dZiQMi" nn (((dZ i) 2) ((QM i) 2))))
+(lex.add.entry '("longQMuAn" nn (((l o n g) 2) ((QM u A n) 2))))
+(lex.add.entry '("sunje" nn (((s u n) 3) ((j e) 3))))
+(lex.add.entry '("QMiAfAn" nn (((QM i A) 4) ((f A n) 4))))
+(lex.add.entry '("le" nn (((l e) 4))))
+(lex.add.entry '("lishik suedZiA" nn (((l i) 4) ((s h i) 3) ((k s u e) 2) ((dZ i A) 1))))
+(lex.add.entry '("titi" nn (((t i) 1) ((t i) 1))))
+(lex.add.entry '("liAnheguo" nn (((l i A n) 2) ((h e) 2) ((g u o) 2))))
+(lex.add.entry '("suimo" nn (((s u i) 2) ((m o) 4))))
+(lex.add.entry '("wei" nn (((w e i) 4))))
+(lex.add.entry '("tA" nn (((t A) 1))))
+(lex.add.entry '("shu" nn (((s h u) 1))))
+(lex.add.entry '("duoduo" nn (((d u o) 1) ((d u o) 1))))
+(lex.add.entry '("shengzhAng" nn (((s h e n g) 1) ((z h A n g) 3))))
+(lex.add.entry '("kuguA" nn (((k u) 3) ((g u A) 1))))
+(lex.add.entry '("hongjAn" nn (((h o n g) 2) ((j A n) 3))))
+(lex.add.entry '("dZiAo" nn (((dZ i A o) 3))))
+(lex.add.entry '("jueguAng" nn (((j u e) 4) ((g u A n g) 1))))
+(lex.add.entry '("pendAli" nn (((p e n) 2) ((d A) 4) ((l i) 1))))
+(lex.add.entry '("zhAndAo" nn (((z h A n) 1) ((d A o) 4))))
+(lex.add.entry '("bAi" nn (((b A i) 2))))
+(lex.add.entry '("suichhAo" nn (((s u i) 2) ((ch h A o) 2))))
+(lex.add.entry '("fengju" nn (((f e n g) 1) ((j u) 3))))
+(lex.add.entry '("ji" nn (((j i) 1))))
+(lex.add.entry '("jongk sue" nn (((j o n g) 4) ((k s u e) 2))))
+(lex.add.entry '("dongdZingdu" nn (((d o n g) 1) ((dZ i n g) 1) ((d u) 1))))
+(lex.add.entry '("wAnAn" nn (((w A n) 4) ((A n) 1))))
+(lex.add.entry '("biAngui" nn (((b i A n) 1) ((g u i) 3))))
+(lex.add.entry '("ebusi" nn (((e) 4) ((b u) 4) ((s i) 3))))
+(lex.add.entry '("shen" nn (((s h e n) 1))))
+(lex.add.entry '("pojAng" nn (((p o) 2) ((j A n g) 2))))
+(lex.add.entry '("dZilu" nn (((dZ i) 1) ((l u) 4))))
+(lex.add.entry '("bAndZiA" nn (((b A n) 1) ((dZ i A) 1))))
+(lex.add.entry '("dZiAngnAn" nn (((dZ i A n g) 1) ((n A n) 2))))
+(lex.add.entry '("niujue" nn (((n i u) 3) ((j u e) 1))))
+(lex.add.entry '("zhi" nn (((z h i) 1))))
+(lex.add.entry '("zhujou" nn (((z h u) 1) ((j o u) 2))))
+(lex.add.entry '("tAoQMin" nn (((t A o) 3) ((QM i n) 1))))
+(lex.add.entry '("dZingshui" nn (((dZ i n g) 3) ((s h u i) 3))))
+(lex.add.entry '("lAizuo" nn (((l A i) 2) ((z u o) 4))))
+(lex.add.entry '("mAomi" nn (((m A o) 1) ((m i) 1))))
+(lex.add.entry '("mAn" nn (((m A n) 4))))
+(lex.add.entry '("hAnren" nn (((h A n) 4) ((r e n) 2))))
+(lex.add.entry '("shilAijunlAi" nn (((s h i) 2) ((l A i) 2) ((j u n) 4) ((l A i) 2))))
+(lex.add.entry '("zhonghuArenmingongheguo" nn (((z h o n) 1) ((g h u A) 2) ((r e n) 2) ((m i n) 2) ((g o n g) 4) ((h e) 2) ((g u o) 2))))
+(lex.add.entry '("shAdZi" nn (((s h A) 1) ((dZ i) 1))))
+(lex.add.entry '("nAodAo" nn (((n A o) 4) ((d A o) 4))))
+(lex.add.entry '("nAnchheng" nn (((n A n) 2) ((ch h e n g) 2))))
+(lex.add.entry '("sAndAo" nn (((s A n) 1) ((d A o) 4))))
+(lex.add.entry '("zhedZiAng" nn (((z h e) 4) ((dZ i A n g) 1))))
+(lex.add.entry '("QMingchhu" nn (((QM i n g) 1) ((ch h u) 3))))
+(lex.add.entry '("kAoQMiAng" nn (((k A o) 4) ((QM i A n g) 2))))
+(lex.add.entry '("renji" nn (((r e n) 2) ((j i) 4))))
+(lex.add.entry '("zhu" nn (((z h u) 1))))
+(lex.add.entry '("chhuo" nn (((ch h u o) 1))))
+(lex.add.entry '("chhuAnbuQMiong" nn (((ch h u A n) 1) ((b u) 4) ((QM i o n g) 2))))
+(lex.add.entry '("shen" nn (((s h e n) 2))))
+(lex.add.entry '("QMi" nn (((QM i) 2))))
+(lex.add.entry '("zhuo" nn (((z h u o) 1))))
+(lex.add.entry '("bujAoming" nn (((b u) 4) ((j A o) 4) ((m i n g) 4))))
+(lex.add.entry '("diAnzi" nn (((d i A n) 1) ((z i) 0))))
+(lex.add.entry '("hAn" nn (((h A n) 4))))
+(lex.add.entry '("duozhong" nn (((d u o) 1) ((z h o n g) 3))))
+(lex.add.entry '("chhAo" nn (((ch h A o) 2))))
+(lex.add.entry '("k singsheng" nn (((k s i n g) 2) ((s h e n g) 3))))
+(lex.add.entry '("lingdAoren" nn (((l i n g) 3) ((d A o) 3) ((r e n) 2))))
+(lex.add.entry '("Aiguo" nn (((A i) 4) ((g u o) 2))))
+(lex.add.entry '("dZink siAn" nn (((dZ i n) 4) ((k s i A n) 2))))
+(lex.add.entry '("chhuAngli" nn (((ch h u A n g) 4) ((l i) 4))))
+(lex.add.entry '("bi" nn (((b i) 4))))
+(lex.add.entry '("dZiAnzhi" nn (((dZ i A n) 4) ((z h i) 4))))
+(lex.add.entry '("gAnguAn" nn (((g A n) 3) ((g u A n) 1))))
+(lex.add.entry '("k sinniAng" nn (((k s i n) 1) ((n i A n g) 2))))
+(lex.add.entry '("sijuAn" nn (((s i) 4) ((j u A n) 4))))
+(lex.add.entry '("QMi" nn (((QM i) 2))))
+(lex.add.entry '("tiAnse" nn (((t i A n) 1) ((s e) 4))))
+(lex.add.entry '("shi" nn (((s h i) 4))))
+(lex.add.entry '("chhengk suAn" nn (((ch h e n g) 2) ((k s u A n) 1))))
+(lex.add.entry '("chhAngge" nn (((ch h A n g) 4) ((g e) 1))))
+(lex.add.entry '("bAijAng" nn (((b A i) 3) ((j A n g) 4))))
+(lex.add.entry '("k sifu" nn (((k s i) 2) ((f u) 4))))
+(lex.add.entry '("zhAngshA" nn (((z h A n g) 3) ((s h A) 1))))
+(lex.add.entry '("dAmenkou" nn (((d A) 4) ((m e n) 2) ((k o u) 3))))
+(lex.add.entry '("QMiAnke" nn (((QM i A n) 1) ((k e) 4))))
+(lex.add.entry '("buQMiong" nn (((b u) 4) ((QM i o n g) 2))))
+(lex.add.entry '("zhentou" nn (((z h e n) 3) ((t o u) 0))))
+(lex.add.entry '("zuo" nn (((z u o) 4))))
+(lex.add.entry '("bubi" nn (((b u) 3) ((b i) 4))))
+(lex.add.entry '("toulengfAn" nn (((t o u) 1) ((l e n g) 3) ((f A n) 4))))
+(lex.add.entry '("guAnfAngjujAn" nn (((g u A n) 1) ((f A n g) 1) ((j u) 3) ((j A n) 2))))
+(lex.add.entry '("hehe" nn (((h e) 1) ((h e) 1))))
+(lex.add.entry '("jiQMiAn" nn (((j i) 1) ((QM i A n) 1))))
+(lex.add.entry '("niubie" nn (((n i u) 2) ((b i e) 2))))
+(lex.add.entry '("bing" nn (((b i n g) 4))))
+(lex.add.entry '("k sue" nn (((k s u e) 2))))
+(lex.add.entry '("k siguo" nn (((k s i) 3) ((g u o) 1))))
+(lex.add.entry '("kongdZiAn" nn (((k o n g) 1) ((dZ i A n) 1))))
+(lex.add.entry '("lAijuAn" nn (((l A i) 2) ((j u A n) 2))))
+(lex.add.entry '("zhudong" nn (((z h u) 3) ((d o n g) 1))))
+(lex.add.entry '("dApenshui" nn (((d A) 3) ((p e n) 2) ((s h u i) 3))))
+(lex.add.entry '("dui" nn (((d u i) 4))))
+(lex.add.entry '("bAdZie" nn (((b A) 1) ((dZ i e) 2))))
+(lex.add.entry '("k si" nn (((k s i) 3))))
+(lex.add.entry '("chhAngchhAng" nn (((ch h A n g) 3) ((ch h A n g) 3))))
+(lex.add.entry '("poniAng" nn (((p o) 2) ((n i A n g) 2))))
+(lex.add.entry '("wenhuA" nn (((w e n) 2) ((h u A) 4))))
+(lex.add.entry '("mAimA" nn (((m A i) 3) ((m A) 3))))
+(lex.add.entry '("jAnlijAn" nn (((j A n) 4) ((l i) 1) ((j A n) 4))))
+(lex.add.entry '("hAnchhAo" nn (((h A n) 4) ((ch h A o) 2))))
+(lex.add.entry '("chidu" nn (((ch i) 2) ((d u) 1))))
+(lex.add.entry '("bAo" nn (((b A o) 1))))
+(lex.add.entry '("linru" nn (((l i n) 2) ((r u) 3))))
+(lex.add.entry '("chhAngdZiAng" nn (((ch h A n g) 2) ((dZ i A n g) 1))))
+(lex.add.entry '("ming" nn (((m i n g) 4))))
+(lex.add.entry '("chhuguAn" nn (((ch h u) 2) ((g u A n) 1))))
+(lex.add.entry '("guishu" nn (((g u i) 1) ((s h u) 3))))
+(lex.add.entry '("chui" nn (((ch u i) 1))))
+(lex.add.entry '("lingshihAo" nn (((l i n g) 4) ((s h i) 4) ((h A o) 3))))
+(lex.add.entry '("libAi" nn (((l i) 3) ((b A i) 2))))
+(lex.add.entry '("chAifeng" nn (((ch A i) 2) ((f e n g) 2))))
+(lex.add.entry '("pA" nn (((p A) 2))))
+(lex.add.entry '("k sinzhouQMu" nn (((k s i n) 4) ((z h o u) 1) ((QM u) 1))))
+(lex.add.entry '("bAzhi" nn (((b A) 1) ((z h i) 1))))
+(lex.add.entry '("gAnbu" nn (((g A n) 4) ((b u) 4))))
+(lex.add.entry '("pAi" nn (((p A i) 4))))
+(lex.add.entry '("zhuzhu" nn (((z h u) 1) ((z h u) 1))))
+(lex.add.entry '("beibi" nn (((b e i) 3) ((b i) 4))))
+(lex.add.entry '("QMi" nn (((QM i) 2))))
+(lex.add.entry '("gAnzhou" nn (((g A n) 4) ((z h o u) 1))))
+(lex.add.entry '("dZiAo" nn (((dZ i A o) 4))))
+(lex.add.entry '("juzhAng" nn (((j u) 4) ((z h A n g) 1))))
+(lex.add.entry '("fAQMi" nn (((f A) 1) ((QM i) 4))))
+(lex.add.entry '("gou" nn (((g o u) 3))))
+(lex.add.entry '("jujAn" nn (((j u) 3) ((j A n) 2))))
+(lex.add.entry '("fei" nn (((f e i) 1))))
+(lex.add.entry '("wu" nn (((w u) 1))))
+(lex.add.entry '("bowuguAn" nn (((b o) 2) ((w u) 4) ((g u A n) 3))))
+(lex.add.entry '("sAnren" nn (((s A n) 1) ((r e n) 2))))
+(lex.add.entry '("niAn" nn (((n i A n) 2))))
+(lex.add.entry '("mo" nn (((m o) 1))))
+(lex.add.entry '("QMiAnshi" nn (((QM i A n) 1) ((s h i) 4))))
+(lex.add.entry '("chhi" nn (((ch h i) 1))))
+(lex.add.entry '("de" nn (((d e) 0))))
+(lex.add.entry '("bugAn" nn (((b u) 4) ((g A n) 3))))
+(lex.add.entry '("QMing" nn (((QM i n g) 1))))
+(lex.add.entry '("jAlu" nn (((j A) 1) ((l u) 4))))
+(lex.add.entry '("dZiAnguAn" nn (((dZ i A n) 4) ((g u A n) 1))))
+(lex.add.entry '("fuzhou" nn (((f u) 3) ((z h o u) 1))))
+(lex.add.entry '("chhAng" nn (((ch h A n g) 2))))
+(lex.add.entry '("dAngshi" nn (((d A n g) 1) ((s h i) 2))))
+(lex.add.entry '("junsuAn" nn (((j u n) 4) ((s u A n) 4))))
+(lex.add.entry '("hu" nn (((h u) 4))))
+(lex.add.entry '("jeli" nn (((j e) 4) ((l i) 3))))
+(lex.add.entry '("gAi" nn (((g A i) 3))))
+(lex.add.entry '("mAn" nn (((m A n) 2))))
+(lex.add.entry '("guAzi" nn (((g u A) 1) ((z i) 3))))
+(lex.add.entry '("dZili" nn (((dZ i) 2) ((l i) 3))))
+(lex.add.entry '("shishAng" nn (((s h i) 4) ((s h A n g) 4))))
+(lex.add.entry '("zi" nn (((z i) 3))))
+(lex.add.entry '("liu" nn (((l i u) 2))))
+(lex.add.entry '("mAizhu" nn (((m A i) 2) ((z h u) 1))))
+(lex.add.entry '("zhou" nn (((z h o u) 1))))
+(lex.add.entry '("huo" nn (((h u o) 3))))
+(lex.add.entry '("zuizAo" nn (((z u i) 4) ((z A o) 3))))
+(lex.add.entry '("guolAi" nn (((g u o) 4) ((l A i) 2))))
+(lex.add.entry '("QMizhi" nn (((QM i) 1) ((z h i) 1))))
+(lex.add.entry '("diniAn" nn (((d i) 4) ((n i A n) 2))))
+(lex.add.entry '("QMiAngun" nn (((QM i A n) 1) ((g u n) 3))))
+(lex.add.entry '("lAn" nn (((l A n) 3))))
+(lex.add.entry '("bAbAi" nn (((b A) 1) ((b A i) 3))))
+(lex.add.entry '("houdZiAo" nn (((h o u) 4) ((dZ i A o) 3))))
+(lex.add.entry '("kongzhi" nn (((k o n g) 4) ((z h i) 4))))
+(lex.add.entry '("wei" nn (((w e i) 4))))
+(lex.add.entry '("ge" nn (((g e) 4))))
+(lex.add.entry '("dZizhouQMu" nn (((dZ i) 2) ((z h o u) 1) ((QM u) 1))))
+(lex.add.entry '("de" nn (((d e) 1))))
+(lex.add.entry '("wo" nn (((w o) 1))))
+(lex.add.entry '("kAnchun" nn (((k A n) 4) ((ch u n) 1))))
+(lex.add.entry '("dou" nn (((d o u) 1))))
+(lex.add.entry '("dAwAng" nn (((d A) 4) ((w A n g) 2))))
+(lex.add.entry '("jingpiAn" nn (((j i n g) 3) ((p i A n) 4))))
+(lex.add.entry '("renbiren" nn (((r e n) 2) ((b i) 3) ((r e n) 2))))
+(lex.add.entry '("bAodAo" nn (((b A o) 4) ((d A o) 4))))
+(lex.add.entry '("huguAng" nn (((h u) 2) ((g u A n g) 3))))
+(lex.add.entry '("sizhi" nn (((s i) 4) ((z h i) 1))))
+(lex.add.entry '("zhizi" nn (((z h i) 2) ((z i) 3))))
+(lex.add.entry '("hongke" nn (((h o n g) 2) ((k e) 2))))
+(lex.add.entry '("huAntAng" nn (((h u A n) 4) ((t A n g) 2))))
+(lex.add.entry '("e" nn (((e) 4))))
+(lex.add.entry '("guoshi" nn (((g u o) 4) ((s h i) 4))))
+(lex.add.entry '("song" nn (((s o n g) 4))))
+(lex.add.entry '("gui" nn (((g u i) 4))))
+(lex.add.entry '("zhongk sin" nn (((z h o n g) 1) ((k s i n) 1))))
+(lex.add.entry '("chhumen" nn (((ch h u) 1) ((m e n) 2))))
+(lex.add.entry '("shAngli" nn (((s h A n g) 4) ((l i) 4))))
+(lex.add.entry '("wAihAng" nn (((w A i) 4) ((h A n g) 2))))
+(lex.add.entry '("weidAo" nn (((w e i) 4) ((d A o) 4))))
+(lex.add.entry '("bei" nn (((b e i) 3))))
+(lex.add.entry '("mengshi" nn (((m e n g) 3) ((s h i) 1))))
+(lex.add.entry '("diwAng" nn (((d i) 4) ((w A n g) 2))))
+(lex.add.entry '("nAndZizhou" nn (((n A n) 2) ((dZ i) 2) ((z h o u) 1))))
+(lex.add.entry '("pAipAi" nn (((p A i) 2) ((p A i) 2))))
+(lex.add.entry '("wAnwAn" nn (((w A n) 4) ((w A n) 4))))
+(lex.add.entry '("buzhAo" nn (((b u) 4) ((z h A o) 2))))
+(lex.add.entry '("zhAndou" nn (((z h A n) 4) ((d o u) 4))))
+(lex.add.entry '("k sigeng" nn (((k s i) 1) ((g e n g) 1))))
+(lex.add.entry '("ke" nn (((k e) 2))))
+(lex.add.entry '("leigong" nn (((l e i) 2) ((g o n g) 1))))
+(lex.add.entry '("diAndiAn" nn (((d i A n) 3) ((d i A n) 3))))
+(lex.add.entry '("suojou" nn (((s u o) 3) ((j o u) 3))))
+(lex.add.entry '("chAi" nn (((ch A i) 2))))
+(lex.add.entry '("nAn" nn (((n A n) 2))))
+(lex.add.entry '("shidZiAn" nn (((s h i) 2) ((dZ i A n) 1))))
+(lex.add.entry '("fenbu" nn (((f e n) 1) ((b u) 4))))
+(lex.add.entry '("sAn" nn (((s A n) 4))))
+(lex.add.entry '("pingde" nn (((p i n g) 2) ((d e) 2))))
+(lex.add.entry '("jouAo" nn (((j o u) 4) ((A o) 4))))
+(lex.add.entry '("dZing" nn (((dZ i n g) 4))))
+(lex.add.entry '("k siAngou" nn (((k s i A n) 2) ((g o u) 3))))
+(lex.add.entry '("QMiAnghui" nn (((QM i A n g) 2) ((h u i) 4))))
+(lex.add.entry '("bili" nn (((b i) 3) ((l i) 4))))
+(lex.add.entry '("dAo" nn (((d A o) 1))))
+(lex.add.entry '("nong" nn (((n o n g) 2))))
+(lex.add.entry '("ge" nn (((g e) 4))))
+(lex.add.entry '("dZiAgong" nn (((dZ i A) 1) ((g o n g) 1))))
+(lex.add.entry '("joulishu" nn (((j o u) 3) ((l i) 3) ((s h u) 4))))
+(lex.add.entry '("guAngk sin" nn (((g u A n g) 3) ((k s i n) 4))))
+(lex.add.entry '("douli" nn (((d o u) 3) ((l i) 4))))
+(lex.add.entry '("lAobAn" nn (((l A o) 3) ((b A n) 3))))
+(lex.add.entry '("ge" nn (((g e) 1))))
+(lex.add.entry '("k siAng" nn (((k s i A n g) 1))))
+(lex.add.entry '("QMinguo" nn (((QM i n) 1) ((g u o) 4))))
+(lex.add.entry '("zhijou" nn (((z h i) 3) ((j o u) 3))))
+(lex.add.entry '("chhA" nn (((ch h A) 2))))
+(lex.add.entry '("huomAi" nn (((h u o) 2) ((m A i) 2))))
+(lex.add.entry '("jAn" nn (((j A n) 2))))
+(lex.add.entry '("dZiben" nn (((dZ i) 1) ((b e n) 3))))
+(lex.add.entry '("guA" nn (((g u A) 1))))
+(lex.add.entry '("kAimen" nn (((k A i) 1) ((m e n) 2))))
+(lex.add.entry '("ri" nn (((r i) 4))))
+(lex.add.entry '("dZiAnchheng" nn (((dZ i A n) 4) ((ch h e n g) 2))))
+(lex.add.entry '("wohuA" nn (((w o) 3) ((h u A) 4))))
+(lex.add.entry '("guo" nn (((g u o) 1))))
+(lex.add.entry '("nongmin" nn (((n o n g) 2) ((m i n) 2))))
+(lex.add.entry '("guolu" nn (((g u o) 4) ((l u) 4))))
+(lex.add.entry '("burenzhAng" nn (((b u) 4) ((r e n) 4) ((z h A n g) 4))))
+(lex.add.entry '("jiwAn" nn (((j i) 1) ((w A n) 3))))
+(lex.add.entry '("diAn" nn (((d i A n) 4))))
+(lex.add.entry '("shizhuAngzhou" nn (((s h i) 2) ((z h u A n g) 1) ((z h o u) 1))))
+(lex.add.entry '("k siAdAn" nn (((k s i A) 4) ((d A n) 4))))
+(lex.add.entry '("dAtong" nn (((d A) 4) ((t o n g) 1))))
+(lex.add.entry '("tongde" nn (((t o n g) 2) ((d e) 2))))
+(lex.add.entry '("mengmengdongdong" nn (((m e n g) 3) ((m e n g) 3) ((d o n g) 3) ((d o n g) 3))))
+(lex.add.entry '("jije" nn (((j i) 1) ((j e) 4))))
+(lex.add.entry '("loutAng" nn (((l o u) 4) ((t A n g) 2))))
+(lex.add.entry '("heshAng" nn (((h e) 2) ((s h A n g) 4))))
+(lex.add.entry '("lAnk si" nn (((l A n) 4) ((k s i) 2))))
+(lex.add.entry '("lAli" nn (((l A) 4) ((l i) 4))))
+(lex.add.entry '("hong" nn (((h o n g) 1))))
+(lex.add.entry '("weibA" nn (((w e i) 3) ((b A) 1))))
+(lex.add.entry '("bei" nn (((b e i) 4))))
+(lex.add.entry '("guguA" nn (((g u) 1) ((g u A) 3))))
+(lex.add.entry '("pen" nn (((p e n) 2))))
+(lex.add.entry '("dZiAo" nn (((dZ i A o) 3))))
+(lex.add.entry '("wu" nn (((w u) 1))))
+(lex.add.entry '("k siny:" nn (((k s i) 4) ((n y:) 3))))
+(lex.add.entry '("buhui" nn (((b u) 4) ((h u i) 4))))
+(lex.add.entry '("luobo" nn (((l u o) 2) ((b o) 0))))
+(lex.add.entry '("pingk siAng" nn (((p i n g) 2) ((k s i A n g) 1))))
+(lex.add.entry '("Ai" nn (((A i) 3))))
+(lex.add.entry '("fAle" nn (((f A) 1) ((l e) 0))))
+(lex.add.entry '("tihu" nn (((t i) 2) ((h u) 2))))
+(lex.add.entry '("shu" nn (((s h u) 1))))
+(lex.add.entry '("hAok siAng" nn (((h A o) 3) ((k s i A n g) 4))))
+(lex.add.entry '("jAze" nn (((j A) 2) ((z e) 2))))
+(lex.add.entry '("li" nn (((l i) 2))))
+(lex.add.entry '("feily:bin" nn (((f e i) 1) ((l y:) 4) ((b i n) 1))))
+(lex.add.entry '("shishAngQMi" nn (((s h i) 2) ((s h A n g) 4) ((QM i) 1))))
+(lex.add.entry '("shetou" nn (((s h e) 2) ((t o u) 0))))
+(lex.add.entry '("k sipi" nn (((k s i) 1) ((p i) 2))))
+(lex.add.entry '("bAngke" nn (((b A n g) 4) ((k e) 2))))
+(lex.add.entry '("je" nn (((j e) 4))))
+(lex.add.entry '("tiAndA" nn (((t i A n) 1) ((d A) 4))))
+(lex.add.entry '("chunzAi" nn (((ch u n) 2) ((z A i) 4))))
+(lex.add.entry '("jidA" nn (((j i) 1) ((d A) 4))))
+(lex.add.entry '("shoujisA" nn (((s h o u) 3) ((j i) 1) ((s A) 1))))
+(lex.add.entry '("huAniAo" nn (((h u A) 1) ((n i A o) 3))))
+(lex.add.entry '("jitou" nn (((j i) 1) ((t o u) 2))))
+(lex.add.entry '("QMuejAk siAo" nn (((QM u e) 1) ((j A) 2) ((k s i A o) 4))))
+(lex.add.entry '("dongtou" nn (((d o n g) 1) ((t o u) 2))))
+(lex.add.entry '("dZidAli" nn (((dZ i) 3) ((d A) 4) ((l i) 1))))
+(lex.add.entry '("QMu" nn (((QM u) 1))))
+(lex.add.entry '("dZizhi" nn (((dZ i) 3) ((z h i) 1))))
+(lex.add.entry '("dAn" nn (((d A n) 4))))
+(lex.add.entry '("zu" nn (((z u) 2))))
+(lex.add.entry '("shAnQMu" nn (((s h A n) 1) ((QM u) 1))))
+(lex.add.entry '("touchhAi" nn (((t o u) 1) ((ch h A i) 2))))
+(lex.add.entry '("chhuming" nn (((ch h u) 1) ((m i n g) 2))))
+(lex.add.entry '("dZiAo" nn (((dZ i A o) 4))))
+(lex.add.entry '("huAi" nn (((h u A i) 2))))
+(lex.add.entry '("chhidushi" nn (((ch h i) 1) ((d u) 2) ((s h i) 2))))
+(lex.add.entry '("QMitou" nn (((QM i) 3) ((t o u) 2))))
+(lex.add.entry '("bozi" nn (((b o) 1) ((z i) 0))))
+(lex.add.entry '("long" nn (((l o n g) 3))))
+(lex.add.entry '("wAngdZi" nn (((w A n g) 4) ((dZ i) 4))))
+(lex.add.entry '("jutiAn" nn (((j u) 3) ((t i A n) 1))))
+(lex.add.entry '("jishou" nn (((j i) 1) ((s h o u) 3))))
+(lex.add.entry '("niuchhe" nn (((n i u) 2) ((ch h e) 1))))
+(lex.add.entry '("bAozi" nn (((b A o) 1) ((z i) 0))))
+(lex.add.entry '("dZin" nn (((dZ i n) 1))))
+(lex.add.entry '("guik si" nn (((g u i) 4) ((k s i) 1))))
+(lex.add.entry '("shizhe" nn (((s h i) 3) ((z h e) 3))))
+(lex.add.entry '("k siAshou" nn (((k s i A) 4) ((s h o u) 3))))
+(lex.add.entry '("lAn" nn (((l A n) 4))))
+(lex.add.entry '("gouhui" nn (((g o u) 3) ((h u i) 4))))
+(lex.add.entry '("zhAnggongQMu" nn (((z h A n g) 1) ((g o n g) 4) ((QM u) 1))))
+(lex.add.entry '("k siAnpi" nn (((k s i A n) 2) ((p i) 2))))
+(lex.add.entry '("bushi" nn (((b u) 4) ((s h i) 4))))
+(lex.add.entry '("dengdeng" nn (((d e n g) 3) ((d e n g) 3))))
+(lex.add.entry '("mAnshAn" nn (((m A n) 3) ((s h A n) 1))))
+(lex.add.entry '("k siAndZishi" nn (((k s i A n) 4) ((dZ i) 2) ((s h i) 4))))
+(lex.add.entry '("shihuA" nn (((s h i) 4) ((h u A) 4))))
+(lex.add.entry '("diAn" nn (((d i A n) 3))))
+(lex.add.entry '("QMiAngui" nn (((QM i A n) 1) ((g u i) 4))))
+(lex.add.entry '("shengsi" nn (((s h e n g) 1) ((s i) 3))))
+(lex.add.entry '("tAipingtiAnguo" nn (((t A i) 4) ((p i n g) 2) ((t i A n) 1) ((g u o) 2))))
+(lex.add.entry '("shuitong" nn (((s h u i) 3) ((t o n g) 3))))
+(lex.add.entry '("miAndZi" nn (((m i A n) 4) ((dZ i) 1))))
+(lex.add.entry '("juAndZing" nn (((j u A n) 2) ((dZ i n g) 1))))
+(lex.add.entry '("si" nn (((s i) 3))))
+(lex.add.entry '("gun" nn (((g u n) 3))))
+(lex.add.entry '("jubujing" nn (((j u) 3) ((b u) 4) ((j i n g) 2))))
+(lex.add.entry '("jishu" nn (((j i) 4) ((s h u) 4))))
+(lex.add.entry '("zuQMun" nn (((z u) 2) ((QM u n) 2))))
+(lex.add.entry '("chhengluo" nn (((ch h e n g) 2) ((l u o) 2))))
+(lex.add.entry '("dZiedAo" nn (((dZ i e) 1) ((d A o) 4))))
+(lex.add.entry '("rendZiA" nn (((r e n) 2) ((dZ i A) 1))))
+(lex.add.entry '("dZie" nn (((dZ i e) 1))))
+(lex.add.entry '("shumAojA" nn (((s h u) 4) ((m A o) 4) ((j A) 1))))
+(lex.add.entry '("juehuQMu" nn (((j u e) 4) ((h u) 2) ((QM u) 1))))
+(lex.add.entry '("bujing" nn (((b u) 4) ((j i n g) 4))))
+(lex.add.entry '("nAnhAi" nn (((n A n) 2) ((h A i) 3))))
+(lex.add.entry '("QMiezi" nn (((QM i e) 2) ((z i) 0))))
+(lex.add.entry '("sidZu" nn (((s i) 4) ((dZ u) 4))))
+(lex.add.entry '("shou" nn (((s h o u) 1))))
+(lex.add.entry '("fAk sing" nn (((f A) 1) ((k s i n g) 2))))
+(lex.add.entry '("guAnhuAi" nn (((g u A n) 4) ((h u A i) 4))))
+(lex.add.entry '("luk sing" nn (((l u) 4) ((k s i n g) 2))))
+(lex.add.entry '("guodZiAdiAn" nn (((g u o) 1) ((dZ i A) 1) ((d i A n) 4))))
+(lex.add.entry '("tiAngAn" nn (((t i A n) 1) ((g A n) 1))))
+(lex.add.entry '("pAo" nn (((p A o) 3))))
+(lex.add.entry '("feng" nn (((f e n g) 1))))
+(lex.add.entry '("zongpu" nn (((z o n g) 1) ((p u) 3))))
+(lex.add.entry '("dZiQMiren" nn (((dZ i) 1) ((QM i) 4) ((r e n) 2))))
+(lex.add.entry '("hAmA" nn (((h A) 2) ((m A) 2))))
+(lex.add.entry '("deguo" nn (((d e) 2) ((g u o) 2))))
+(lex.add.entry '("dZiuzhi" nn (((dZ i u) 3) ((z h i) 1))))
+(lex.add.entry '("zhu" nn (((z h u) 3))))
+(lex.add.entry '("si" nn (((s i) 1))))
+(lex.add.entry '("jiniAn" nn (((j i) 1) ((n i A n) 2))))
+(lex.add.entry '("dZiAnshi" nn (((dZ i) 2) ((A n) 1) ((s h i) 4))))
+(lex.add.entry '("fuQMi" nn (((f u) 1) ((QM i) 1))))
+(lex.add.entry '("wujuAn" nn (((w u) 4) ((j u A n) 2))))
+(lex.add.entry '("benshu" nn (((b e n) 3) ((s h u) 1))))
+(lex.add.entry '("chhishui" nn (((ch h i) 1) ((s h u i) 3))))
+(lex.add.entry '("bAo" nn (((b A o) 1))))
+(lex.add.entry '("fu" nn (((f u) 3))))
+(lex.add.entry '("miAnhong" nn (((m i A n) 4) ((h o n g) 2))))
+(lex.add.entry '("piAn" nn (((p i A n) 4))))
+(lex.add.entry '("mAren" nn (((m A) 4) ((r e n) 2))))
+(lex.add.entry '("lAizi" nn (((l A i) 4) ((z i) 0))))
+(lex.add.entry '("hAn" nn (((h A n) 2))))
+(lex.add.entry '("k siAode" nn (((k s i A o) 3) ((d e) 2))))
+(lex.add.entry '("zhuAntou" nn (((z h u A n) 3) ((t o u) 2))))
+(lex.add.entry '("shAnhAidZing" nn (((s h A n) 1) ((h A i) 3) ((dZ i n g) 1))))
+(lex.add.entry '("guAnzhi" nn (((g u A n) 1) ((z h i) 2))))
+(lex.add.entry '("shAzhu" nn (((s h A) 1) ((z h u) 1))))
+(lex.add.entry '("lilAi" nn (((l i) 2) ((l A i) 2))))
+(lex.add.entry '("dAlu" nn (((d A) 4) ((l u) 4))))
+(lex.add.entry '("lengleng" nn (((l e n g) 3) ((l e n g) 3))))
+(lex.add.entry '("guodZiA" nn (((g u o) 2) ((dZ i A) 1))))
+(lex.add.entry '("jAn" nn (((j A n) 1))))
+(lex.add.entry '("duopA" nn (((d u o) 1) ((p A) 4))))
+(lex.add.entry '("keji" nn (((k e) 3) ((j i) 3))))
+(lex.add.entry '("hAn" nn (((h A n) 2))))
+(lex.add.entry '("QMiAoguiQMiAo" nn (((QM i A o) 2) ((g u i) 1) ((QM i A o) 2))))
+(lex.add.entry '("zhongzi" nn (((z h o n g) 1) ((z i) 3))))
+(lex.add.entry '("nAnfeng" nn (((n A n) 2) ((f e n g) 1))))
+(lex.add.entry '("buneng" nn (((b u) 4) ((n e n g) 2))))
+(lex.add.entry '("jimin" nn (((j i) 2) ((m i n) 2))))
+(lex.add.entry '("tongluo" nn (((t o n g) 2) ((l u o) 2))))
+(lex.add.entry '("shuidiAnzhAn" nn (((s h u i) 3) ((d i A n) 4) ((z h A n) 4))))
+(lex.add.entry '("k si" nn (((k s i) 4))))
+(lex.add.entry '("kedZu" nn (((k e) 1) ((dZ u) 3))))
+(lex.add.entry '("guAngze" nn (((g u A n g) 1) ((z e) 2))))
+(lex.add.entry '("zuoren" nn (((z u o) 4) ((r e n) 2))))
+(lex.add.entry '("shuik siAn" nn (((s h u i) 3) ((k s i A n) 1))))
+(lex.add.entry '("shibiAn" nn (((s h i) 4) ((b i A n) 4))))
+(lex.add.entry '("shAngchhAo" nn (((s h A n g) 1) ((ch h A o) 2))))
+(lex.add.entry '("zhuAnQMiAn" nn (((z h u A n) 4) ((QM i A n) 2))))
+(lex.add.entry '("k siAde" nn (((k s i A) 4) ((d e) 0))))
+(lex.add.entry '("QMiAnchhe" nn (((QM i A n) 1) ((ch h e) 3))))
+(lex.add.entry '("tonggu" nn (((t o n g) 2) ((g u) 3))))
+(lex.add.entry '("lei" nn (((l e i) 4))))
+(lex.add.entry '("dujin" nn (((d u) 2) ((j i n) 1))))
+(lex.add.entry '("diegu" nn (((d i e) 1) ((g u) 3))))
+(lex.add.entry '("chhAng" nn (((ch h A n g) 2))))
+(lex.add.entry '("fen" nn (((f e n) 4))))
+(lex.add.entry '("kA" nn (((k A) 1))))
+(lex.add.entry '("duimiAngu" nn (((d u i) 4) ((m i A n) 4) ((g u) 3))))
+(lex.add.entry '("jidZing" nn (((j i) 1) ((dZ i n g) 4))))
+(lex.add.entry '("dZinniAn" nn (((dZ i n) 1) ((n i A n) 2))))
+(lex.add.entry '("dZiu" nn (((dZ i u) 4))))
+(lex.add.entry '("ruidZin" nn (((r u i) 4) ((dZ i n) 1))))
+(lex.add.entry '("huo" nn (((h u o) 2))))
+(lex.add.entry '("sAnbu" nn (((s A n) 1) ((b u) 4))))
+(lex.add.entry '("zhi" nn (((z h i) 2))))
+(lex.add.entry '("fengshou" nn (((f e n g) 1) ((s h o u) 1))))
+(lex.add.entry '("songshi" nn (((s o n g) 4) ((s h i) 4))))
+(lex.add.entry '("bupA" nn (((b u) 4) ((p A) 4))))
+(lex.add.entry '("dAngmiAnluo" nn (((d A n g) 1) ((m i A n) 4) ((l u o) 2))))
+(lex.add.entry '("ny:" nn (((n y:) 3))))
+(lex.add.entry '("jichhun" nn (((j i) 2) ((ch h u n) 1))))
+(lex.add.entry '("bubibi" nn (((b u) 3) ((b i) 4) ((b i) 4))))
+(lex.add.entry '("douzi" nn (((d o u) 4) ((z i) 0))))
+(lex.add.entry '("fengshu" nn (((f e n g) 1) ((s h u) 4))))
+(lex.add.entry '("dZu" nn (((dZ u) 3))))
+(lex.add.entry '("jAng" nn (((j A n g) 3))))
+(lex.add.entry '("jidui" nn (((j i) 1) ((d u i) 4))))
+(lex.add.entry '("tu" nn (((t u) 2))))
+(lex.add.entry '("nAnchhAo" nn (((n A n) 2) ((ch h A o) 2))))
+(lex.add.entry '("chhAng" nn (((ch h A n g) 3))))
+(lex.add.entry '("hAochhi" nn (((h A o) 4) ((ch h i) 1))))
+(lex.add.entry '("bAikeQMuAnshu" nn (((b A i) 3) ((k e) 1) ((QM u A n) 2) ((s h u) 1))))
+(lex.add.entry '("dAdZiAo" nn (((d A) 3) ((dZ i A o) 3))))
+(lex.add.entry '("dAn" nn (((d A n) 4))))
+(lex.add.entry '("zongzhishAn" nn (((z o n g) 1) ((z h i) 4) ((s h A n) 1))))
+(lex.add.entry '("dAibing" nn (((d A i) 4) ((b i n g) 1))))
+(lex.add.entry '("tuAntuAnzhuAn" nn (((t u A n) 2) ((t u A n) 2) ((z h u A n) 4))))
+(lex.add.entry '("bAihuA" nn (((b A i) 2) ((h u A) 4))))
+(lex.add.entry '("dZiAnchhAng" nn (((dZ i A n) 4) ((ch h A n g) 1))))
+(lex.add.entry '("biti" nn (((b i) 2) ((t i) 4))))
+(lex.add.entry '("k siA" nn (((k s i A) 1))))
+(lex.add.entry '("dZigong" nn (((dZ i) 1) ((g o n g) 1))))
+(lex.add.entry '("jilAn" nn (((j i) 1) ((l A n) 3))))
+(lex.add.entry '("sheng" nn (((s h e n g) 3))))
+(lex.add.entry '("hAi" nn (((h A i) 2))))
+(lex.add.entry '("songshAn" nn (((s o n g) 1) ((s h A n) 1))))
+(lex.add.entry '("wuQMiong" nn (((w u) 2) ((QM i o n g) 2))))
+(lex.add.entry '("Agong" nn (((A) 1) ((g o n g) 1))))
+(lex.add.entry '("zuozuo" nn (((z u o) 4) ((z u o) 4))))
+(lex.add.entry '("zhen" nn (((z h e n) 4))))
+(lex.add.entry '("shizhi" nn (((s h i) 2) ((z h i) 1))))
+(lex.add.entry '("wei" nn (((w e i) 4))))
+(lex.add.entry '("chhong" nn (((ch h o n g) 1))))
+(lex.add.entry '("dAnwei" nn (((d A n) 1) ((w e i) 4))))
+(lex.add.entry '("deng" nn (((d e n g) 3))))
+(lex.add.entry '("biAndong" nn (((b i A n) 4) ((d o n g) 4))))
+(lex.add.entry '("shengdijAge" nn (((s h e n g) 4) ((d i) 4) ((j A) 2) ((g e) 1))))
+(lex.add.entry '("zidZi" nn (((z i) 4) ((dZ i) 3))))
+(lex.add.entry '("e" nn (((e) 2))))
+(lex.add.entry '("dongbi" nn (((d o n g) 1) ((b i) 4))))
+(lex.add.entry '("guAnk siA" nn (((g u A n) 4) ((k s i A) 4))))
+(lex.add.entry '("buhuAnzhong" nn (((b u) 4) ((h u A n) 4) ((z h o n g) 3))))
+(lex.add.entry '("biAnhuA" nn (((b i A n) 4) ((h u A) 4))))
+(lex.add.entry '("wuzhi" nn (((w u) 4) ((z h i) 2))))
+(lex.add.entry '("zidZiAn" nn (((z i) 4) ((dZ i A n) 3))))
+(lex.add.entry '("ny:QMu" nn (((n y:) 3) ((QM u) 4))))
+(lex.add.entry '("hAnchheng" nn (((h A n) 4) ((ch h e n g) 2))))
+(lex.add.entry '("shushAng" nn (((s h u) 4) ((s h A n g) 4))))
+(lex.add.entry '("dZiAng" nn (((dZ i A n g) 1))))
+(lex.add.entry '("weizhu" nn (((w e i) 4) ((z h u) 1))))
+(lex.add.entry '("tou" nn (((t o u) 2))))
+(lex.add.entry '("dZiudZiAng" nn (((dZ i u) 3) ((dZ i A n g) 1))))
+(lex.add.entry '("tiAohuA" nn (((t i A o) 1) ((h u A) 1))))
+(lex.add.entry '("gek sing" nn (((g e) 4) ((k s i n g) 2))))
+(lex.add.entry '("k siong" nn (((k s i o n g) 1))))
+(lex.add.entry '("dAode" nn (((d A o) 4) ((d e) 2))))
+(lex.add.entry '("biAndA" nn (((b i A n) 1) ((d A) 3))))
+(lex.add.entry '("suAnshu" nn (((s u A n) 4) ((s h u) 4))))
+(lex.add.entry '("tiAoguo" nn (((t i A o) 4) ((g u o) 4))))
+(lex.add.entry '("ninggAng" nn (((n i n g) 2) ((g A n g) 1))))
+(lex.add.entry '("shiniAo" nn (((s h i) 3) ((n i A o) 4))))
+(lex.add.entry '("wAnbAi" nn (((w A n) 4) ((b A i) 4))))
+(lex.add.entry '("zuo" nn (((z u o) 4))))
+(lex.add.entry '("dongshAn" nn (((d o n g) 1) ((s h A n) 1))))
+(lex.add.entry '("ku" nn (((k u) 1))))
+(lex.add.entry '("niujAng" nn (((n i u) 2) ((j A n g) 4))))
+(lex.add.entry '("mAnbAi" nn (((m A n) 3) ((b A i) 3))))
+(lex.add.entry '("zhouQMibiAo" nn (((z h o u) 1) ((QM i) 2) ((b i A o) 3))))
+(lex.add.entry '("chhou" nn (((ch h o u) 3))))
+(lex.add.entry '("mei" nn (((m e i) 2))))
+(lex.add.entry '("dZinmen" nn (((dZ i n) 4) ((m e n) 2))))
+(lex.add.entry '("weizhu" nn (((w e i) 2) ((z h u) 3))))
+(lex.add.entry '("jongk siu" nn (((j o n g) 3) ((k s i u) 1))))
+(lex.add.entry '("jingguo" nn (((j i n g) 1) ((g u o) 2))))
+(lex.add.entry '("dZi" nn (((dZ i) 2))))
+(lex.add.entry '("tezheng" nn (((t e) 4) ((z h e n g) 1))))
+(lex.add.entry '("kongzi" nn (((k o n g) 3) ((z i) 3))))
+(lex.add.entry '("shounAn" nn (((s h o u) 3) ((n A n) 2))))
+(lex.add.entry '("zhuzhAng" nn (((z h u) 3) ((z h A n g) 1))))
+(lex.add.entry '("penk siAng" nn (((p e n) 4) ((k s i A n g) 1))))
+(lex.add.entry '("houzi" nn (((h o u) 2) ((z i) 0))))
+(lex.add.entry '("huAngniu" nn (((h u A n g) 2) ((n i u) 2))))
+(lex.add.entry '("jousun" nn (((j o u) 3) ((s u n) 3))))
+(lex.add.entry '("shi" nn (((s h i) 3))))
+(lex.add.entry '("bAiniAn" nn (((b A i) 4) ((n i A n) 2))))
+(lex.add.entry '("jigong" nn (((j i) 1) ((g o n g) 1))))
+(lex.add.entry '("shi" nn (((s h i) 1))))
+(lex.add.entry '("nAndZing" nn (((n A n) 2) ((dZ i n g) 1))))
+(lex.add.entry '("zhuoshAng" nn (((z h u o) 1) ((s h A n g) 4))))
+(lex.add.entry '("dZiAozAi" nn (((dZ i A o) 4) ((z A i) 3))))
+(lex.add.entry '("feng" nn (((f e n g) 4))))
+(lex.add.entry '("k si" nn (((k s i) 1))))
+(lex.add.entry '("gejou" nn (((g e) 4) ((j o u) 3))))
+(lex.add.entry '("k siAnzAo" nn (((k s i A n) 4) ((z A o) 4))))
+(lex.add.entry '("chhAibi" nn (((ch h A i) 1) ((b i) 4))))
+(lex.add.entry '("jilu" nn (((j i) 1) ((l u) 2))))
+(lex.add.entry '("zhonghuAminguozhengfu" nn (((z h o n g) 1) ((h u A) 2) ((m i n) 2) ((g u o) 2) ((z h e n g) 4) ((f u) 3))))
+(lex.add.entry '("hAozhong" nn (((h A o) 3) ((z h o n g) 3))))
+(lex.add.entry '("gongk siAn" nn (((g o n g) 4) ((k s i A n) 4))))
+(lex.add.entry '("dZiuzuo" nn (((dZ i u) 3) ((z u o) 4))))
+(lex.add.entry '("shuleQMiAn" nn (((s h u) 1) ((l e) 0) ((QM i A n) 2))))
+(lex.add.entry '("fuliAng" nn (((f u) 2) ((l i A n g) 2))))
+(lex.add.entry '("mu" nn (((m u) 3))))
+(lex.add.entry '("jAli" nn (((j A) 2) ((l i) 1))))
+(lex.add.entry '("QMiAn" nn (((QM i A n) 2))))
+(lex.add.entry '("buzu" nn (((b u) 4) ((z u) 2))))
+(lex.add.entry '("dZiAngsu" nn (((dZ i A n g) 1) ((s u) 1))))
+(lex.add.entry '("huAk sie" nn (((h u A) 1) ((k s i e) 2))))
+(lex.add.entry '("disi" nn (((d i) 4) ((s i) 4))))
+(lex.add.entry '("dengdZiA" nn (((d e n g) 3) ((dZ i A) 4))))
+(lex.add.entry '("mAi" nn (((m A i) 4))))
+(lex.add.entry '("nAo" nn (((n A o) 3))))
+(lex.add.entry '("zAo" nn (((z A o) 3))))
+(lex.add.entry '("hui" nn (((h u i) 1))))
+(lex.add.entry '("huAngshi" nn (((h u A n g) 2) ((s h i) 4))))
+(lex.add.entry '("dAsAo" nn (((d A) 4) ((s A o) 3))))
+(lex.add.entry '("chhAoer" nn (((ch h A o) 2) ((e r) 0))))
+(lex.add.entry '("honghuA" nn (((h o n g) 2) ((h u A) 1))))
+(lex.add.entry '("shiwu" nn (((s h i) 2) ((w u) 3))))
+(lex.add.entry '("dAbiAn" nn (((d A) 3) ((b i A n) 1))))
+(lex.add.entry '("zhoufu" nn (((z h o u) 1) ((f u) 3))))
+(lex.add.entry '("sheli" nn (((s h e) 4) ((l i) 4))))
+(lex.add.entry '("pAi" nn (((p A i) 2))))
+(lex.add.entry '("chhouk siAng" nn (((ch h o u) 1) ((k s i A n g) 4))))
+(lex.add.entry '("shou" nn (((s h o u) 3))))
+(lex.add.entry '("tongQMiAn" nn (((t o n g) 2) ((QM i A n) 2))))
+(lex.add.entry '("du" nn (((d u) 1))))
+(lex.add.entry '("zhenjAn" nn (((z h e n) 1) ((j A n) 2))))
+(lex.add.entry '("kulong" nn (((k u) 1) ((l o n g) 2))))
+(lex.add.entry '("QMi" nn (((QM i) 4))))
+(lex.add.entry '("shidZi" nn (((s h i) 2) ((dZ i) 4))))
+(lex.add.entry '("chAo" nn (((ch A o) 3))))
+(lex.add.entry '("jAn" nn (((j A n) 2))))
+(lex.add.entry '("zouli" nn (((z o u) 3) ((l i) 1))))
+(lex.add.entry '("zhimiAn" nn (((z h i) 2) ((m i A n) 4))))
+(lex.add.entry '("dAlAi" nn (((d A) 3) ((l A i) 2))))
+(lex.add.entry '("liuzhi" nn (((l i u) 4) ((z h i) 1))))
+(lex.add.entry '("nAiliAngk siAn" nn (((n A i) 4) ((l i A n g) 2) ((k s i A n) 4))))
+(lex.add.entry '("ze" nn (((z e) 2))))
+(lex.add.entry '("hA" nn (((h A) 1))))
+(lex.add.entry '("gengtiAn" nn (((g e n g) 1) ((t i A n) 2))))
+(lex.add.entry '("chhA" nn (((ch h A) 1))))
+(lex.add.entry '("nAiliAngshi" nn (((n A i) 4) ((l i A n g) 2) ((s h i) 4))))
+(lex.add.entry '("k sintiAn" nn (((k s i n) 1) ((t i A n) 1))))
+(lex.add.entry '("bujing" nn (((b u) 4) ((j i n g) 2))))
+(lex.add.entry '("deAn" nn (((d e) 2) ((A n) 1))))
+(lex.add.entry '("gong" nn (((g o n g) 4))))
+(lex.add.entry '("poshunAo" nn (((p o) 2) ((s h u) 1) ((n A o) 3))))
+(lex.add.entry '("mAlAi" nn (((m A) 2) ((l A i) 2))))
+(lex.add.entry '("pAnzi" nn (((p A n) 2) ((z i) 0))))
+(lex.add.entry '("dZiAn" nn (((dZ i A n) 4))))
+(lex.add.entry '("shuk sue" nn (((s h u) 4) ((k s u e) 2))))
+(lex.add.entry '("suAn" nn (((s u A n) 4))))
+(lex.add.entry '("gAo" nn (((g A o) 1))))
+(lex.add.entry '("bimAolu" nn (((b i) 4) ((m A o) 4) ((l u) 4))))
+(lex.add.entry '("dulijundong" nn (((d u) 2) ((l i) 4) ((j u n) 4) ((d o n g) 4))))
+(lex.add.entry '("di" nn (((d i) 4))))
+(lex.add.entry '("donghAn" nn (((d o n g) 1) ((h A n) 4))))
+(lex.add.entry '("dedAo" nn (((d e) 2) ((d A o) 4))))
+(lex.add.entry '("jou" nn (((j o u) 2))))
+(lex.add.entry '("guzhAng" nn (((g u) 1) ((z h A n g) 4))))
+(lex.add.entry '("shuzi" nn (((s h u) 4) ((z i) 4))))
+(lex.add.entry '("QMiAnshAng" nn (((QM i A n) 1) ((s h A n g) 4))))
+(lex.add.entry '("bi" nn (((b i) 4))))
+(lex.add.entry '("en" nn (((e n) 1))))
+(lex.add.entry '("sAnzhi" nn (((s A n) 1) ((z h i) 1))))
+(lex.add.entry '("jibAn" nn (((j i) 1) ((b A n) 4))))
+(lex.add.entry '("chhAngzhAng" nn (((ch h A n g) 3) ((z h A n g) 4))))
+(lex.add.entry '("mAizuo" nn (((m A i) 4) ((z u o) 4))))
+(lex.add.entry '("zhongguo" nn (((z h o n g) 1) ((g u o) 2))))
+(lex.add.entry '("biAndAn" nn (((b i A n) 3) ((d A n) 0))))
+(lex.add.entry '("zhi" nn (((z h i) 4))))
+(lex.add.entry '("li" nn (((l i) 3))))
+(lex.add.entry '("ji" nn (((j i) 3))))
+(lex.add.entry '("k siAnchheng" nn (((k s i A n) 4) ((ch h e n g) 2))))
+(lex.add.entry '("guoluke" nn (((g u o) 4) ((l u) 4) ((k e) 4))))
+(lex.add.entry '("luo" nn (((l u o) 2))))
+(lex.add.entry '("ge" nn (((g e) 1))))
+(lex.add.entry '("tebieQMu" nn (((t e) 4) ((b i e) 2) ((QM u) 1))))
+(lex.add.entry '("mAlAi" nn (((m A) 3) ((l A i) 2))))
+(lex.add.entry '("dAolAi" nn (((d A o) 1) ((l A i) 2))))
+(lex.add.entry '("gungun" nn (((g u n) 3) ((g u n) 3))))
+(lex.add.entry '("gege" nn (((g e) 1) ((g e) 1))))
+(lex.add.entry '("lou" nn (((l o u) 4))))
+(lex.add.entry '("shengji" nn (((s h e n g) 1) ((j i) 4))))
+(lex.add.entry '("chhu" nn (((ch h u) 1))))
+(lex.add.entry '("jongfA" nn (((j o n g) 4) ((f A) 3))))
+(lex.add.entry '("wujue" nn (((w u) 3) ((j u e) 4))))
+(lex.add.entry '("ren" nn (((r e n) 2))))
+(lex.add.entry '("sheng" nn (((s h e n g) 1))))
+(lex.add.entry '("zhu" nn (((z h u) 4))))
+(lex.add.entry '("dAoshi" nn (((d A o) 4) ((s h i) 0))))
+(lex.add.entry '("zi" nn (((z i) 4))))
+(lex.add.entry '("e" nn (((e) 1))))
+(lex.add.entry '("hAngzhou" nn (((h A n g) 2) ((z h o u) 1))))
+(lex.add.entry '("lAodi" nn (((l A o) 3) ((d i) 4))))
+(lex.add.entry '("lAoshu" nn (((l A o) 3) ((s h u) 3))))
+(lex.add.entry '("zhengzhidZiA" nn (((z h e n g) 4) ((z h i) 4) ((dZ i A) 1))))
+(lex.add.entry '("jizhi" nn (((j i) 1) ((z h i) 3))))
+(lex.add.entry '("QMijidZun" nn (((QM i) 3) ((j i) 4) ((dZ u n) 1))))
+(lex.add.entry '("k sunshe" nn (((k s u n) 2) ((s h e) 2))))
+(lex.add.entry '("touzhi" nn (((t o u) 2) ((z h i) 1))))
+(lex.add.entry '("guodZi" nn (((g u o) 2) ((dZ i) 4))))
+(lex.add.entry '("jAng" nn (((j A n g) 2))))
+(lex.add.entry '("chhunzheng" nn (((ch h u n) 1) ((z h e n g) 1))))
+(lex.add.entry '("susong" nn (((s u) 4) ((s o n g) 1))))
+(lex.add.entry '("mink si" nn (((m i n) 2) ((k s i) 4))))
+(lex.add.entry '("gunQMi" nn (((g u n) 3) ((QM i) 3))))
+(lex.add.entry '("wAn" nn (((w A n) 3))))
+(lex.add.entry '("chhouniAosAo" nn (((ch h o u) 4) ((n i A o) 4) ((s A o) 1))))
+(lex.add.entry '("dAo" nn (((d A o) 4))))
+(lex.add.entry '("biAn" nn (((b i A n) 1))))
+(lex.add.entry '("huAng" nn (((h u A n g) 2))))
+(lex.add.entry '("buzhAozi" nn (((b u) 4) ((z h A o) 2) ((z i) 0))))
+(lex.add.entry '("liAngchhAo" nn (((l i A n g) 2) ((ch h A o) 2))))
+(lex.add.entry '("gAoshi" nn (((g A o) 1) ((s h i) 4))))
+(lex.add.entry '("liAngtiAo" nn (((l i A n g) 3) ((t i A o) 2))))
+(lex.add.entry '("jing" nn (((j i n g) 4))))
+(lex.add.entry '("nuo" nn (((n u o) 4))))
+(lex.add.entry '("wuk siAn" nn (((w u) 2) ((k s i A n) 4))))
+(lex.add.entry '("jAjou" nn (((j A) 1) ((j o u) 3))))
+(lex.add.entry '("diedAo" nn (((d i e) 2) ((d A o) 3))))
+(lex.add.entry '("k siAode" nn (((k s i A o) 3) ((d e) 2))))
+(lex.add.entry '("fAming" nn (((f A) 1) ((m i n g) 2))))
+(lex.add.entry '("shichhAng" nn (((s h i) 2) ((ch h A n g) 2))))
+(lex.add.entry '("zhAngdA" nn (((z h A n g) 3) ((d A) 4))))
+(lex.add.entry '("wAnli" nn (((w A n) 1) ((l i) 1))))
+(lex.add.entry '("mAimAi" nn (((m A i) 3) ((m A i) 4))))
+(lex.add.entry '("tongdAo" nn (((t o n g) 2) ((d A o) 4))))
+(lex.add.entry '("gezhi" nn (((g e) 4) ((z h i) 1))))
+(lex.add.entry '("hAn" nn (((h A n) 3))))
+(lex.add.entry '("shi" nn (((s h i) 4))))
+(lex.add.entry '("wAnzAi" nn (((w A n) 4) ((z A i) 3))))
+(lex.add.entry '("tiAo" nn (((t i A o) 1))))
+(lex.add.entry '("guAndAo" nn (((g u A n) 3) ((d A o) 4))))
+(lex.add.entry '("jinjue" nn (((j i n) 1) ((j u e) 4))))
+(lex.add.entry '("guAngdong" nn (((g u A n g) 3) ((d o n g) 1))))
+(lex.add.entry '("zichhou" nn (((z i) 4) ((ch h o u) 3))))
+(lex.add.entry '("dengdAo" nn (((d e n g) 3) ((d A o) 4))))
+(lex.add.entry '("buzhu" nn (((b u) 4) ((z h u) 4))))
+(lex.add.entry '("dAidulAi" nn (((d A i) 4) ((d u) 4) ((l A i) 2))))
+(lex.add.entry '("dAfenQMi" nn (((d A) 2) ((f e n) 1) ((QM i) 2))))
+(lex.add.entry '("jAng" nn (((j A n g) 4))))
+(lex.add.entry '("liAnggen" nn (((l i A n g) 3) ((g e n) 1))))
+(lex.add.entry '("gAogAo" nn (((g A o) 3) ((g A o) 3))))
+(lex.add.entry '("dApizhuAn" nn (((d A) 3) ((p i) 4) ((z h u A n) 3))))
+(lex.add.entry '("guAi" nn (((g u A i) 3))))
+(lex.add.entry '("dAn" nn (((d A n) 1))))
+(lex.add.entry '("niu" nn (((n i u) 2))))
+(lex.add.entry '("chhidechhu" nn (((ch h i) 1) ((d e) 2) ((ch h u) 1))))
+(lex.add.entry '("fAngjAn" nn (((f A n g) 1) ((j A n) 2))))
+(lex.add.entry '("fAn" nn (((f A n) 4))))
+(lex.add.entry '("tongmAi" nn (((t o n g) 2) ((m A i) 2))))
+(lex.add.entry '("chhen" nn (((ch h e n) 2))))
+(lex.add.entry '("ding" nn (((d i n g) 3))))
+(lex.add.entry '("zuAndAo" nn (((z u A n) 1) ((d A o) 4))))
+(lex.add.entry '("mAo" nn (((m A o) 3))))
+(lex.add.entry '("delAi" nn (((d e) 2) ((l A i) 2))))
+(lex.add.entry '("ningdou" nn (((n i n g) 2) ((d o u) 1))))
+(lex.add.entry '("wAnshi" nn (((w A n) 4) ((s h i) 4))))
+(lex.add.entry '("shishAng" nn (((s h i) 2) ((s h A n g) 4))))
+(lex.add.entry '("momo" nn (((m o) 1) ((m o) 1))))
+(lex.add.entry '("zichi" nn (((z i) 4) ((ch i) 2))))
+(lex.add.entry '("lei" nn (((l e i) 0))))
+(lex.add.entry '("shuje" nn (((s h u) 4) ((j e) 4))))
+(lex.add.entry '("lA" nn (((l A) 4))))
+(lex.add.entry '("zhek sue" nn (((z h e) 2) ((k s u e) 2))))
+(lex.add.entry '("k siAnguo" nn (((k s i A n) 4) ((g u o) 1))))
+(lex.add.entry '("dZiA" nn (((dZ i A) 4))))
+(lex.add.entry '("QMiAng" nn (((QM i A n g) 2))))
+(lex.add.entry '("luo" nn (((l u o) 1))))
+(lex.add.entry '("gAo" nn (((g A o) 4))))
+(lex.add.entry '("dZiAn" nn (((dZ i) 2) ((A n) 1))))
+(lex.add.entry '("dZiAozuo" nn (((dZ i A o) 4) ((z u o) 4))))
+(lex.add.entry '("buliAo" nn (((b u) 4) ((l i A o) 3))))
+(lex.add.entry '("dongjAgeguo" nn (((d o n g) 1) ((j A) 4) ((g e) 4) ((g u o) 2))))
+(lex.add.entry '("k sie" nn (((k s i e) 3))))
+(lex.add.entry '("jidZu" nn (((j i) 1) ((dZ u) 4))))
+(lex.add.entry '("zuojimo" nn (((z u o) 3) ((j i) 1) ((m o) 1))))
+(lex.add.entry '("tiAnguAng" nn (((t i A n) 1) ((g u A n g) 1))))
+(lex.add.entry '("jin" nn (((j i n) 1))))
+(lex.add.entry '("chAijuAn" nn (((ch A i) 4) ((j u A n) 2))))
+(lex.add.entry '("kengtou" nn (((k e n g) 1) ((t o u) 2))))
+(lex.add.entry '("jing" nn (((j i n g) 2))))
+(lex.add.entry '("wo" nn (((w o) 3))))
+(lex.add.entry '("dZiAo" nn (((dZ i A o) 4))))
+(lex.add.entry '("sheng" nn (((s h e n g) 1))))
+(lex.add.entry '("zuodZiAnjou" nn (((z u o) 3) ((dZ i A n) 3) ((j o u) 4))))
+(lex.add.entry '("k sinren" nn (((k s i n) 1) ((r e n) 2))))
+(lex.add.entry '("tou" nn (((t o u) 2))))
+(lex.add.entry '("dimi" nn (((d i) 1) ((m i) 3))))
+(lex.add.entry '("tie" nn (((t i e) 3))))
+(lex.add.entry '("chhunbuchhun" nn (((ch h u n) 3) ((b u) 4) ((ch h u n) 3))))
+(lex.add.entry '("zijAn" nn (((z i) 3) ((j A n) 4))))
+(lex.add.entry '("dZu" nn (((dZ u) 1))))
+(lex.add.entry '("beiQMu" nn (((b e i) 3) ((QM u) 1))))
+(lex.add.entry '("shenbiAn" nn (((s h e n) 1) ((b i A n) 1))))
+(lex.add.entry '("mAjou" nn (((m A) 2) ((j o u) 2))))
+(lex.add.entry '("longgu" nn (((l o n g) 2) ((g u) 3))))
+(lex.add.entry '("k sik si" nn (((k s i) 1) ((k s i) 1))))
+(lex.add.entry '("zhongdZiAn" nn (((z h o n g) 1) ((dZ i A n) 1))))
+(lex.add.entry '("k siAlAi" nn (((k s i A) 4) ((l A i) 2))))
+(lex.add.entry '("duAnli" nn (((d u A n) 1) ((l i) 1))))
+(lex.add.entry '("ku" nn (((k u) 3))))
+(lex.add.entry '("fenshu" nn (((f e n) 1) ((s h u) 4))))
+(lex.add.entry '("shAnsi" nn (((s h A n) 1) ((s i) 4))))
+(lex.add.entry '("joujAng" nn (((j o u) 3) ((j A n g) 4))))
+(lex.add.entry '("gAiniAn" nn (((g A i) 4) ((n i A n) 4))))
+(lex.add.entry '("zhiliAng" nn (((z h i) 4) ((l i A n g) 4))))
+(lex.add.entry '("bAnben" nn (((b A n) 3) ((b e n) 3))))
+(lex.add.entry '("zhuAn" nn (((z h u A n) 4))))
+(lex.add.entry '("benshi" nn (((b e n) 3) ((s h i) 4))))
+(lex.add.entry '("jeti" nn (((j e) 2) ((t i) 1))))
+(lex.add.entry '("soufAn" nn (((s o u) 1) ((f A n) 4))))
+(lex.add.entry '("k siAng" nn (((k s i A n g) 1))))
+(lex.add.entry '("jA" nn (((j A) 2))))
+(lex.add.entry '("bAoli" nn (((b A o) 1) ((l i) 1))))
+(lex.add.entry '("k sishou" nn (((k s i) 1) ((s h o u) 3))))
+(lex.add.entry '("budouchhe" nn (((b u) 4) ((d o u) 1) ((ch h e) 1))))
+(lex.add.entry '("tA" nn (((t A) 4))))
+(lex.add.entry '("fAngfA" nn (((f A n g) 1) ((f A) 3))))
+(lex.add.entry '("zirAn" nn (((z i) 4) ((r A n) 2))))
+(lex.add.entry '("dAsi" nn (((d A) 3) ((s i) 3))))
+(lex.add.entry '("shufAdZiA" nn (((s h u) 1) ((f A) 3) ((dZ i A) 1))))
+(lex.add.entry '("lAozei" nn (((l A o) 3) ((z e i) 2))))
+(lex.add.entry '("bAn" nn (((b A n) 4))))
+(lex.add.entry '("gudAi" nn (((g u) 3) ((d A i) 4))))
+(lex.add.entry '("zhouQMi" nn (((z h o u) 1) ((QM i) 2))))
+(lex.add.entry '("pAngzi" nn (((p A n g) 4) ((z i) 0))))
+(lex.add.entry '("k siAnju" nn (((k s i A n) 2) ((j u) 2))))
+(lex.add.entry '("dAduosuo" nn (((d A) 3) ((d u o) 1) ((s u o) 1))))
+(lex.add.entry '("tAng" nn (((t A n g) 2))))
+(lex.add.entry '("beiguA" nn (((b e i) 3) ((g u A) 1))))
+(lex.add.entry '("pojAnghu" nn (((p o) 2) ((j A n g) 2) ((h u) 2))))
+(lex.add.entry '("hukou" nn (((h u) 2) ((k o u) 3))))
+(lex.add.entry '("bujAo" nn (((b u) 4) ((j A o) 4))))
+(lex.add.entry '("fAntAn" nn (((f A n) 1) ((t A n) 2))))
+(lex.add.entry '("dZichhAng" nn (((dZ i) 1) ((ch h A n g) 3))))
+(lex.add.entry '("k suezhe" nn (((k s u e) 2) ((z h e) 3))))
+(lex.add.entry '("dik siA" nn (((d i) 3) ((k s i A) 0))))
+(lex.add.entry '("nA" nn (((n A) 2))))
+(lex.add.entry '("fenchheng" nn (((f e n) 1) ((ch h e n g) 2))))
+(lex.add.entry '("lAopo" nn (((l A o) 3) ((p o) 2))))
+(lex.add.entry '("chAnkAo" nn (((ch A n) 1) ((k A o) 3))))
+(lex.add.entry '("joumiAn" nn (((j o u) 2) ((m i A n) 4))))
+(lex.add.entry '("dizi" nn (((d i) 1) ((z i) 0))))
+(lex.add.entry '("huAzi" nn (((h u A) 1) ((z i) 0))))
+(lex.add.entry '("hubei" nn (((h u) 2) ((b e i) 3))))
+(lex.add.entry '("chhengbulituo" nn (((ch h e n g) 4) ((b u) 4) ((l i) 2) ((t u o) 2))))
+(lex.add.entry '("bAshAn" nn (((b A) 1) ((s h A n) 1))))
+(lex.add.entry '("jou" nn (((j o u) 2))))
+(lex.add.entry '("huAk sue" nn (((h u A) 4) ((k s u e) 2))))
+(lex.add.entry '("jizhi" nn (((j i) 1) ((z h i) 1))))
+(lex.add.entry '("chhAok siAn" nn (((ch h A o) 2) ((k s i A n) 3))))
+(lex.add.entry '("k siAngQMiAn" nn (((k s i A n g) 4) ((QM i A n) 2))))
+(lex.add.entry '("zhijAo" nn (((z h i) 3) ((j A o) 4))))
+(lex.add.entry '("zuoji" nn (((z u o) 4) ((j i) 1))))
+(lex.add.entry '("keshui" nn (((k e) 1) ((s h u i) 4))))
+(lex.add.entry '("guAng" nn (((g u A n g) 1))))
+(lex.add.entry '("wei" nn (((w e i) 4))))
+(lex.add.entry '("hunAn" nn (((h u) 2) ((n A n) 2))))
+(lex.add.entry '("k singzheng" nn (((k s i n g) 2) ((z h e n g) 4))))
+(lex.add.entry '("dingzi" nn (((d i n g) 1) ((z i) 0))))
+(lex.add.entry '("jihui" nn (((j i) 1) ((h u i) 2))))
+(lex.add.entry '("luk si" nn (((l u) 2) ((k s i) 1))))
+(lex.add.entry '("dZiduo" nn (((dZ i) 3) ((d u o) 1))))
+(lex.add.entry '("gouchhun" nn (((g o u) 3) ((ch h u n) 3))))
+(lex.add.entry '("luAn" nn (((l u A n) 3))))
+(lex.add.entry '("nAnfAng" nn (((n A n) 2) ((f A n g) 1))))
+(lex.add.entry '("sui" nn (((s u i) 4))))
+(lex.add.entry '("rudZiA" nn (((r u) 2) ((dZ i A) 1))))
+(lex.add.entry '("shi" nn (((s h i) 4))))
+(lex.add.entry '("gongjuAn" nn (((g o n g) 4) ((j u A n) 4))))
+(lex.add.entry '("chhAinAnbi" nn (((ch h A i) 1) ((n A n) 2) ((b i) 4))))
+(lex.add.entry '("de" nn (((d e) 2))))
+(lex.add.entry '("dAohouguo" nn (((d A o) 4) ((h o u) 4) ((g u o) 1))))
+(lex.add.entry '("juAn" nn (((j u A n) 2))))
+(lex.add.entry '("ti" nn (((t i) 1))))
+(lex.add.entry '("gAo" nn (((g A o) 4))))
+(lex.add.entry '("nuo" nn (((n u o) 4))))
+(lex.add.entry '("shezhi" nn (((s h e) 4) ((z h i) 4))))
+(lex.add.entry '("riben" nn (((r i) 4) ((b e n) 3))))
+(lex.add.entry '("shiren" nn (((s h i) 1) ((r e n) 2))))
+(lex.add.entry '("bAojA" nn (((b A o) 4) ((j A) 2))))
+(lex.add.entry '("k siAn" nn (((k s i A n) 1))))
+(lex.add.entry '("dZun" nn (((dZ u n) 1))))
+(lex.add.entry '("mingri" nn (((m i n g) 2) ((r i) 4))))
+(lex.add.entry '("QMisiren" nn (((QM i) 4) ((s i) 3) ((r e n) 2))))
+(lex.add.entry '("joushi" nn (((j o u) 3) ((s h i) 4))))
+(lex.add.entry '("tuo" nn (((t u o) 1))))
+(lex.add.entry '("lingtu" nn (((l i n g) 3) ((t u) 3))))
+(lex.add.entry '("kekun" nn (((k e) 1) ((k u n) 4))))
+(lex.add.entry '("jirennAn" nn (((j i) 1) ((r e n) 2) ((n A n) 2))))
+(lex.add.entry '("dZipo" nn (((dZ i) 1) ((p o) 2))))
+(lex.add.entry '("dZie" nn (((dZ i e) 3))))
+(lex.add.entry '("jouren" nn (((j o u) 3) ((r e n) 2))))
+(lex.add.entry '("luogu" nn (((l u o) 2) ((g u) 3))))
+(lex.add.entry '("dZiAny:" nn (((dZ i A) 4) ((n y:) 3))))
+(lex.add.entry '("geng" nn (((g e n g) 1))))
+(lex.add.entry '("bAchun" nn (((b A) 1) ((ch u n) 4))))
+(lex.add.entry '("k sibi" nn (((k s i) 1) ((b i) 4))))
+(lex.add.entry '("bu" nn (((b u) 4))))
+(lex.add.entry '("k sitou" nn (((k s i) 1) ((t o u) 2))))
+(lex.add.entry '("dili" nn (((d i) 4) ((l i) 3))))
+(lex.add.entry '("dZiedAo" nn (((dZ i e) 1) ((d A o) 4))))
+(lex.add.entry '("chhudZiA" nn (((ch h u) 1) ((dZ i A) 4))))
+(lex.add.entry '("Apo" nn (((A) 1) ((p o) 2))))
+(lex.add.entry '("renwu" nn (((r e n) 2) ((w u) 4))))
+(lex.add.entry '("jimAi" nn (((j i) 1) ((m A i) 2))))
+(lex.add.entry '("kengtoudZing" nn (((k e n g) 1) ((t o u) 2) ((dZ i n g) 3))))
+(lex.add.entry '("k siAng" nn (((k s i A n g) 4))))
+(lex.add.entry '("chA" nn (((ch A) 1))))
+(lex.add.entry '("ge" nn (((g e) 4))))
+(lex.add.entry '("shizu" nn (((s h i) 3) ((z u) 3))))
+(lex.add.entry '("feizhou" nn (((f e i) 1) ((z h o u) 1))))
+(lex.add.entry '("biAoshi" nn (((b i A o) 3) ((s h i) 4))))
+(lex.add.entry '("zhuly:" nn (((z h u) 1) ((l y:) 4))))
+(lex.add.entry '("zhengdAng" nn (((z h e n g) 4) ((d A n g) 3))))
+(lex.add.entry '("niAng" nn (((n i A n g) 2))))
+(lex.add.entry '("duo" nn (((d u o) 1))))
+(lex.add.entry '("diAnjingshi" nn (((d i A n) 4) ((j i n g) 3) ((s h i) 3))))
+(lex.add.entry '("dZiA" nn (((dZ i A) 3))))
+(lex.add.entry '("mAi" nn (((m A i) 3))))
+(lex.add.entry '("wAngmAngchuAnhAn" nn (((w A n g) 2) ((m A n g) 3) ((ch u A n) 4) ((h A n) 4))))
+(lex.add.entry '("wA" nn (((w A) 0))))
+(lex.add.entry '("dZingdZidAo" nn (((dZ i n g) 1) ((dZ i) 1) ((d A o) 4))))
+(lex.add.entry '("diAndZiu" nn (((d i A n) 3) ((dZ i u) 3))))
+(lex.add.entry '("litou" nn (((l i) 3) ((t o u) 0))))
+(lex.add.entry '("mok siAng" nn (((m o) 4) ((k s i A n g) 4))))
+(lex.add.entry '("luomAdiguo" nn (((l u o) 2) ((m A) 3) ((d i) 4) ((g u o) 2))))
+(lex.add.entry '("zhongzi" nn (((z h o n g) 3) ((z i) 3))))
+(lex.add.entry '("si" nn (((s i) 4))))
+(lex.add.entry '("dAlAnzhAng" nn (((d A) 3) ((l A n) 4) ((z h A n g) 4))))
+(lex.add.entry '("linchhuAn" nn (((l i n) 2) ((ch h u A n) 1))))
+(lex.add.entry '("luo" nn (((l u o) 4))))
+(lex.add.entry '("ly:zong" nn (((l y:) 4) ((z o n g) 1))))
+(lex.add.entry '("shibi" nn (((s h i) 4) ((b i) 4))))
+(lex.add.entry '("zuoshenli" nn (((z u o) 4) ((s h e n) 2) ((l i) 1))))
+(lex.add.entry '("ditu" nn (((d i) 4) ((t u) 2))))
+(lex.add.entry '("k siA" nn (((k s i A) 4))))
+(lex.add.entry '("jAo" nn (((j A o) 2))))
+(lex.add.entry '("zhiwu" nn (((z h i) 2) ((w u) 4))))
+(lex.add.entry '("dZieshAo" nn (((dZ i e) 4) ((s h A o) 4))))
+(lex.add.entry '("luoju" nn (((l u o) 4) ((j u) 3))))
+(lex.add.entry '("dZie" nn (((dZ i e) 4))))
+(lex.add.entry '("jAng" nn (((j A n g) 4))))
+(lex.add.entry '("tAihu" nn (((t A i) 4) ((h u) 2))))
+(lex.add.entry '("gu" nn (((g u) 3))))
+(lex.add.entry '("bushi" nn (((b u) 4) ((s h i) 2))))
+(lex.add.entry '("zhi" nn (((z h i) 1))))
+(lex.add.entry '("bAohu" nn (((b A o) 3) ((h u) 4))))
+(lex.add.entry '("chun" nn (((ch u n) 1))))
+(lex.add.entry '("zoubAn" nn (((z o u) 3) ((b A n) 3))))
+(lex.add.entry '("dA" nn (((d A) 3))))
+(lex.add.entry '("joutiAn" nn (((j o u) 2) ((t i A n) 2))))
+(lex.add.entry '("guA" nn (((g u A) 1))))
+(lex.add.entry '("wuerwuny:" nn (((w u) 2) ((e r) 0) ((w u) 2) ((n y:) 3))))
+(lex.add.entry '("heigou" nn (((h e i) 1) ((g o u) 3))))
+(lex.add.entry '("nAnchhAngQMiji" nn (((n A n) 2) ((ch h A n g) 1) ((QM i) 3) ((j i) 4))))
+(lex.add.entry '("k si" nn (((k s i) 4))))
+(lex.add.entry '("bAndZin" nn (((b A n) 4) ((dZ i n) 1))))
+(lex.add.entry '("zuishAng" nn (((z u i) 3) ((s h A n g) 4))))
+(lex.add.entry '("songchhAo" nn (((s o n g) 4) ((ch h A o) 2))))
+(lex.add.entry '("jAnhui" nn (((j A n) 4) ((h u i) 4))))
+(lex.add.entry '("liu" nn (((l i u) 2))))
+(lex.add.entry '("chhengli" nn (((ch h e n g) 2) ((l i) 3))))
+(lex.add.entry '("tAo" nn (((t A o) 3))))
+(lex.add.entry '("zuozhe" nn (((z u o) 4) ((z h e) 3))))
+(lex.add.entry '("juAnchhAo" nn (((j u A n) 2) ((ch h A o) 2))))
+(lex.add.entry '("hong" nn (((h o n g) 2))))
+(lex.add.entry '("jisheng" nn (((j i) 1) ((s h e n g) 1))))
+(lex.add.entry '("dongwu" nn (((d o n g) 1) ((w u) 2))))
+(lex.add.entry '("zunwei" nn (((z u n) 1) ((w e i) 4))))
+(lex.add.entry '("zhong" nn (((z h o n g) 3))))
+(lex.add.entry '("de" nn (((d e) 0))))
+(lex.add.entry '("shehui" nn (((s h e) 4) ((h u i) 4))))
+(lex.add.entry '("wenwo" nn (((w e n) 4) ((w o) 3))))
+(lex.add.entry '("zhiguAn" nn (((z h i) 2) ((g u A n) 1))))
+(lex.add.entry '("diAnjing" nn (((d i A n) 4) ((j i n g) 3))))
+(lex.add.entry '("nAnchhAng" nn (((n A n) 2) ((ch h A n g) 1))))
+(lex.add.entry '("zuohuochhe" nn (((z u o) 4) ((h u o) 3) ((ch h e) 1))))
+(lex.add.entry '("zuodejuAn" nn (((z u o) 4) ((d e) 2) ((j u A n) 2))))
+(lex.add.entry '("ni" nn (((n i) 3))))
+(lex.add.entry '("miAnpen" nn (((m i A n) 4) ((p e n) 2))))
+(lex.add.entry '("chi" nn (((ch i) 4))))
+(lex.add.entry '("dZuebo" nn (((dZ u e) 2) ((b o) 1))))
+(lex.add.entry '("diAnhuo" nn (((d i A n) 3) ((h u o) 3))))
+(lex.add.entry '("niAngshi" nn (((n i A n g) 2) ((s h i) 4))))
+(lex.add.entry '("gui" nn (((g u i) 1))))
+(lex.add.entry '("Ai" nn (((A i) 4))))
+(lex.add.entry '("wAng" nn (((w A n g) 3))))
+(lex.add.entry '("jimen" nn (((j i) 1) ((m e n) 2))))
+(lex.add.entry '("dZingdezhen" nn (((dZ i n g) 3) ((d e) 2) ((z h e n) 4))))
+(lex.add.entry '("zhentong" nn (((z h e n) 4) ((t o n g) 2))))
+(lex.add.entry '("riri" nn (((r i) 4) ((r i) 4))))
+(lex.add.entry '("zhongje" nn (((z h o n g) 1) ((j e) 3))))
+(lex.add.entry '("jidZiAn" nn (((j i) 1) ((dZ i A n) 4))))
+(lex.add.entry '("pA" nn (((p A) 4))))
+(lex.add.entry '("biedZiA" nn (((b i e) 2) ((dZ i A) 1))))
+(lex.add.entry '("lAn" nn (((l A n) 4))))
+(lex.add.entry '("du" nn (((d u) 4))))
+(lex.add.entry '("k suAnze" nn (((k s u A n) 3) ((z e) 2))))
+(lex.add.entry '("QMiong" nn (((QM i o n g) 2))))
+(lex.add.entry '("luling" nn (((l u) 2) ((l i n g) 2))))
+(lex.add.entry '("mingchhAo" nn (((m i n g) 2) ((ch h A o) 2))))
+(lex.add.entry '("wAngunju" nn (((w A n) 4) ((g u n) 3) ((j u) 2))))
+(lex.add.entry '("shu" nn (((s h u) 4))))
+(lex.add.entry '("shAowu" nn (((s h A o) 4) ((w u) 3))))
+(lex.add.entry '("chhA" nn (((ch h A) 2))))
+(lex.add.entry '("jou" nn (((j o u) 4))))
+(lex.add.entry '("die" nn (((d i e) 1))))
+(lex.add.entry '("jede" nn (((j e) 2) ((d e) 0))))
+(lex.add.entry '("duimiAngu" nn (((d u i) 4) ((m i A n) 4) ((g u) 3))))
+(lex.add.entry '("zheng" nn (((z h e n g) 4))))
+(lex.add.entry '("erdZin" nn (((e r) 2) ((dZ i n) 1))))
+(lex.add.entry '("kAihuA" nn (((k A i) 1) ((h u A) 1))))
+(lex.add.entry '("dZi" nn (((dZ i) 2))))

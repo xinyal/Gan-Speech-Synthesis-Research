@@ -1,0 +1,59 @@
+﻿( data_00006 "tsɔŋ1kuɛ1 χau3 iu3miaŋ2 ko2 fa2ka1  sɿ1ɲin2  tsu1ka1  çü1fa3ka1  χau2tsʰaŋ1 tsɔŋ1kuɛ1 uɛn2fa2 ko2 kuɛ1tɕ2 si3tsa3" )
+( data_00006 "中國 好 有名 嗰 畫家 、 詩人 、 作家 、 書法家 號稱 「 中國 文化 嗰 國際 使者 」" )
+
+( data_00001 "lin2tsʰuan1 uei2tʰau2 kɔŋ1ɕɿ1 ko2 tɔŋ1 tɛu2  ə2tɕin1 sɿ2 fu3tsɛu1 ko2 sɿ4χa1tɕʰü1  i3 χon2ɲin2 uei2tü3" )
+( data_00001 "臨川 位到 江西 嗰 東頭 ， 而今 係 撫州 嗰 市轄區 以 漢人 為主" )
+
+( data_00045 "fa2χɔ4 sɿ2 i1mɛn2 ŋiɛn1tɕiu1 u4tɿ1 ko2 χiŋ2tɿ1  tü3tsʰaŋ2  tɕiɛ1kʰɛu2 kɛn1 piɛn2fa2 ko2 kʰo1χo4" )
+( data_00045 "化學 係 一門 研究 物質 嗰 性質 、 組成 、 結構 跟 變化 嗰 科學" )
+
+( data_00060 "taŋ3 kɔŋ3tɕɿ3 ko1?sɿ4 χɛu4  li1tsʰau2li1tʰai4 ko2 tʰi2uaŋ2 tu1 i1 tɕʰiaŋ2 li1 tsui1fɔŋ1 kɔŋ3tɕɿ3" )
+( data_00060 "等 孔子 過世 後 ， 歷朝歷代 嗰 帝王 都 一徑 俚 追封 孔子" )
+
+( data_00082 "iu3li3χü4 sɿ2 tɕʰuan2pu4 ko3ŋi3 iɔŋ4 liɔŋ3ta1 tsaŋ3χü4 ko2 pi3li4 piau3sɿ2 tɛ1 tsʰaŋ2 ko2 sɛ4χü4   tɕi1 sɿ2 fɛn1χü4" ) 
+( data_00082 "有理數 係 全部 可以 用 兩隻 整數 嗰 比例 表示 得 正 嗰 實數 ， 即 係 分數" )
+
+( data_00622 "pʰɛn2 tsʰaŋ2 sɿ2 suei2tsʰa2 tɕiu3gɔŋ1 tɕün4 ko2 i1ta1 χiɛn4 tɕiɛ2 tsau3ŋi3 sɿ2 tɕiau2 tsʰai2saŋ1 " )
+( data_00622 "湓 城 係 隋朝 九江 郡 嗰 一隻 縣 佢 早已 係 叫 「 柴桑 」" )
+
+( data_00921 "ko2 pu4 tʰiɛn4iaŋ3 tɛ1tʰau2 man1 tuo1 ko2 χau3pʰiaŋ2  sɿ2 iŋ1kuɛ1 tʰiɛn4iaŋ3 sɿ3 sɔŋ4 tsʰuei2 mai4tsʰuo4 ko2 fa1χiaŋ2 iaŋ3piɛn2" )
+( data_00921 "箇 部 電影 得到 蠻 多 嗰 好評 ， 係 英國 電影史 上 最 賣座 嗰 發行 影片" )
+
+( data_00933 "tɕiɛ2 i1saŋ1 ko2 tʰai4pu4fɛn4 sɿ2kan1 tu1 uo4 tɛ1 ŋɛ2luo2sɿ1 tʰɔŋ2 tɛ1 tɛ1kuɛ1" )
+( data_00933 "佢 一生 嗰 大部份 時間 都 活 嘚 俄羅斯 同 嘚 德國" )
+
+( data_00305 "ɲan2tsʰɔŋ1 fa4 sɿ2 gon2 ŋü3 ko2 i1ta1 fɔŋ1ŋan2  ua4 tɕiɛ2 ko2 ɲin2 i1 ua4 tɕü2 tʰau2 ɲan2tsʰaŋ1" )
+( data_00305 "南昌 話 係 贛 語 嗰 一隻 方言 ， 話 佢 嗰 人 依 话 居 到 南昌" )
+
+( data_01062 "ɲu2ga1 tsɛ1χo4 sɛ2tɕi1 tsʰaŋ2tsɿ4  tau4tɛ1  sa4fei4  tau2 tɔŋ1ŋia2kɛ1kuɛ1 dɿ1tsɔŋ1 χau3 iu3 ŋin3χɔŋ3li4" )
+( data_01062 "儒家 哲學 涉及 政治 、 道德 、 社會 ， 到 東亞各國 之中 好 有 影響力" )
+
+( ganfolk73 "ɲiaŋ2sɿ2 lu1piɛn1 tsʰau3，pu1sɿ4 lau3pʰo2 hau3" )
+( ganfolk73 "娘似 路邊 草，不是 老婆 好，" )
+
+( ganfolk133 "maŋ3maŋ3tɔŋ3tɔŋ3   tan1tan1 suei3tɔŋ3   tiɛ1 pu1 i1tɛu2  χai2 pu1 χiau3tɛ1  tɕʰiaŋ1tsʰɔŋ4" )
+( ganfolk133 "懵懵懂懂 ， 担担 水桶 ， 跌 吥 一头 ， 还 不 晓得 轻重" )
+
+( ganfolk238 "sa4tʰɛu2 ti3χa4 ŋɛ1sɿ3 ɲin2" )
+( ganfolk238 "舌頭 底下 壓死 人" )
+
+( ganfolk201 "luo4 pu1 li ü3loi2 sɔŋ4san3 ta3sɿ3 ko3 loi2kɔŋ3 kɛu3 ka2" )
+( ganfolk201 "落 吥 哩 雨來 送傘 ， 打死 狗 來講 狗價" )
+
+( ganfolk195 "san1sɛ4 uan3sɔŋ4 ko2 tsau2 tɕʰiɛn2 ɲin2 kau3kau3 li" )
+( ganfolk195 "三十 晚上 嗰 灶 前 - - - - 人 搞搞 哩" )
+
+( ganfolk241 "tɕʰia1 ɲin2ka1 ko2 tɕʰiu4 tɕʰia1tɛ1tü1 hon4  pʰiɛ4ɲin2 ko2 tɕʰia1 tɕʰɿ4tɕi3 ko2 tɕʰiu4 tɕʰia1tɛ1tü1 ŋan3lei4" )
+( ganfolk241 "吃 人家 嗰 就 吃得出 汗 ， 別人 嗰 吃 自己 嗰 就 吃得出 眼淚" )
+
+( ganfolk250 "tɛu4fu1 tsan1tʰao2 fei1  tɕʰuei1 iu4 tɕʰuei1 pu1tɛ1  ta3 iu4 ta3 pu1tɛ1" )
+( ganfolk250 "豆腐 粘到 灰 ， 吹 又 吹 不得 ， 打 又 打 不得" )
+
+( ganfolk22 "ɲi4 ko2 tɔŋ1kuɛ1  ɕi1kuɛ1 iu3 tɕ3tʰai4li1 " )
+( ganfolk22 "你 嗰 冬瓜 西瓜 有 幾大哩 ？" )
+
+( ganfolk230 "sɛ4iɔŋ4 mau4 i1iɔŋ4" )
+( ganfolk230 "十樣 冇 一樣" )
+
+( ganfolk308 "ɕü4 sɔŋ4 ko2 tiao1 tsai3 tu1 uei4 χɔŋ3 tɛ1 χa4loi2" )
+( ganfolk308 "樹上 嗰 雕 仔 都 會 哄 得 下來" )

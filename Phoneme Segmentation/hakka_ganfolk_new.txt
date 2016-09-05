@@ -1,0 +1,336 @@
+/ 1/ ./ 	/ yenli1yen/ ，/ than3/ kin5sien/ 
+/ 2/ ./ 	/ than3/ to/ gwok3ka5tiam/ 
+/ 3/ ./ 	/ ta2phun3sui2/ ，/ se2/ go2/ mien/ 
+/ 4/ ./ 	/ sam5chak/ pau5chii2/ chu2/ yu3mien/ 
+/ 
+/ 5/ ./ 	/ ngam2ngam2/ ngam2ngam2/ fi5/ ！/ 
+/ 6/ ./ 	/ cheu2li1/ yu3thien3/ cheu2baan2/ pa3/ 
+/ 
+/ 7/ ./ 	/ chhu5yit/ 、/  / siip8ng2/ 
+/ 8/ ./ 	/ meuyi3/ 、/ lo2syu2/ 
+/ 9/ ./ 	/ chonto/ thungleoi5/ ，/ dou1/ ！/ 
+/ 
+/ 10/ ./ 	/ kolu/ koluhak/ 
+/ 
+/ 11/ ./ 	/ ngi3phet8/ theu5/ bat1/ ngai3/ go2/ tung5koa5/ si5koa5/ 
+/ 12/ ./ 	/ ngi3/ go2/ tung5koa5/ si5koa5/ yu3/ ki2thaili1/ ？/ 
+/ 13/ ./ 	/ ngai3/ go2/ tung5koa5/ si5koa5/ yu3pi5chan2/ thaili1/ 
+/ 
+/ 14/ ./ 	/ ngi3phet8/ theu5/ bat1/ ngai3/ go2/ tung5koa5/ si5koa5/ 
+/ 15/ ./ 	/ ngi3/ go2/ tung5koa5/ si5koa5/ yu3/ ki2thaili1/ ？/ 
+/ 16/ ./ 	/ ngai3/ go2/ tung5koa5/ si5koa5/ yu3hiong5van2/ thaili1/ 
+/ 
+/ 17/ ./ 	/ ngi3phet8/ theu5/ bat1/ ngai3/ go2/ tung5koa5/ si5koa5/ 
+/ 18/ ./ 	/ ngi3/ go2/ tung5koa5/ si5koa5/ yu3/ ki2thaili1/ ？/ 
+/ 19/ ./ 	/ ngai3/ go2/ tung5koa5/ si5koa5/ yu3ci4/ phun3thaili1/ 
+/ 20/ ./ 	/ kolu/ koluhak/ hak/ 
+/ 21/ ./ 	/ ngi3phet8/ theu5/ bat1/ ngai3/ go2/ tung5koa5/ si5koa5/ 
+/ 22/ ./ 	/ ngi3/ go2/ tung5koa5/ si5koa5/ yu3/ ki2thaili1/ ？/ 
+/ 23/ ./ 	/ ngai3/ go2/ tung5koa5/ si5koa5/ yu3chiu2/ phun3thaili1/ 
+/ 
+/ 
+/ 24/ ./ 	/ ma3zoek3/ mi2/ ，/ sak8song/ kei4/ ，/ ngiong3/ cho/ fa5hai3/ ng2hi/ kui5/ 。/ 
+/ 25/ ./ 	/ putyeu5/ ngiong3/ tit/ fa5hai3/ chhok8/ ，/ chakyeu5/ ya3tit/ fa5khieu/ chho5/ ；/ 
+/ 26/ ./ 	/ yit/ chho5chho5/ to/ liung3kut/ thu/ ，/ ta2khoi5/ khieumun3/ khon/ sin5ngiong3/ ；/ 
+/ 27/ ./ 	/ sin5ngiong3/ putyung/ khon/ ，/ kiokyu3/ patchhun/ pan/ 。/ 
+/ 
+/ 28/ ./ 	/ ma3zoek3/ mi2/ ，/ sak8song/ kun2/ ，/ giu3/ ngai3/ ko5ko5/ hi/ mai5fun2/ ；/ 
+/ 29/ ./ 	/ mai5to/ fun2loi3/ putfi/ chha3/ ，/ giu3/ ngai3/ ko5ko5/ hi/ mai5/ ma3/ ；/ 
+/ 30/ ./ 	/ mai5to/ ma3loi3/ putfi/ chhiak/ ，/ giu3/ ngai3/ ko5ko5/ hi/ mai5pit/ ；/ 
+/ 31/ ./ 	/ mai5to/ pitloi3/ putfi/ sia2/ ，/ giu3/ ngai3/ ko5ko5/ hi/ mai5ma5/ ；/ 
+/ 32/ ./ 	/ mai5/ to/ ma5loi3/ putfi/ khi3/ ，/ giu3/ ngai3/ ko5ko5/ hi/ mai5/ lai3/ ；/ 
+/ 33/ ./ 	/ mai5to/ lai3loi3/ putfi/ caau3/ ，/ giu3/ ngai3/ ko5ko5/ hi/ mai5/ to5/ ；/ 
+/ 34/ ./ 	/ mai5to/ to5loi3/ vangzoek3chhiit8/ zoek3/ ，/ zoek3/ to/ chhiigei2/ tit/ kiok/ 。/ 
+/ 
+/ 35/ ./ 	/ ma3zoek3/ mi5/ ，/ yeu3/ fung5su/ ，/ 
+/ 36/ ./ 	/ yeu3yayeu3putthung5/ ，/ yen3lu/ ham/ a5kung5/ ，/ 
+/ 37/ ./ 	/ a5kung5/ munngai3/ chha3/ ，/ siip8ma2/ chha3/ ？/ sien5chha3/ ；/ 
+/ 38/ ./ 	/ siip8/ go2/ sien5/ ？/ sui2sien5/ ；/ 
+/ 39/ ./ 	/ siip8/ go2/ sui2/ ？/ ngiu3chha5/ chiang2sui2/ ；/ 
+/ 40/ ./ 	/ siip8/ go2/ ngiu3/ ？/ kang5thien3/ ngiu3/ ；/ 
+/ 41/ ./ 	/ siip8/ go2/ kang5/ ？/ no6mi2/ kau2/ hi5gang1/ ；/ 
+/ 42/ ./ 	/ siip8/ go2/ no6/ ？/ fung3hok/ no6/ ；/ 
+/ 43/ ./ 	/ siip8/ go2/ fung3/ ？/ koa5chii2/ fung3/ ；/ 
+/ 44/ ./ 	/ siip8/ go2/ koa5/ ？/ nam3koa5/ petkoa5/ 。/ 
+/ 45/ ./ 	/ yit/ kun2kun2/ to/ kiu4pi2ha/ 。/ 
+/ 46/ ./ 	/ ya3thet/ yitkiok/ ，/ zai2/ thet/ yitkiok/ ，/ 
+/ 47/ ./ 	/ yit/ thetthet/ song/ vukkok/ 。/ 
+/ 48/ ./ 	/ vukkok/ put/ chon2theu3/ ，/ nang/ siipien/ vong3ngiu3/ ；/ 
+/ 49/ ./ 	/ vong3ngiu3/ putteu5chha5/ ，/ nang/ siipien/ fu2koa5/ ；/ 
+/ 50/ ./ 	/ fu2koa5/ putchhok8chii2/ ，/ nang/ siipien/ ke2chii2/ ；/ 
+/ 51/ ./ 	/ ke2chii2/ putchhok8/ pa2/ ，/ nangsiihau/ kofa/ ；/ 
+/ 52/ ./ 	/ kofa/ mo/ yu3/ lu/ ，/ nangsiihau/ song/ su/ ；/ 
+/ 53/ ./ 	/ pu2wo1/ ya/ pha/ kieu2/ ，/ 
+/ 54/ ./ 	/ tam5hi2/ lo4zai2/ kun2hi2/ cheu2/ 。/ 
+/ 
+/ 55/ ./ 	/ ma3zoek3/ mi2/ ，/ sak8songcai1/ ，/ ngiong3/ cho/ fa5hai3/ sung/ kayi5/ 。/ 
+/ 56/ ./ 	/ putyeu5/ ngiong3/ go2/ fa5hai3/ chhok8/ ，/ chakyeu5/ ya3/ go2/ fa5khieu/ chho5/ ，/ 
+/ 57/ ./ 	/ yit/ chho5chho5/ to/ chhiung3su/ thin3/ ，/ ta2khoi5/ fa5khieu/ khon/ sin5ngin3/ ，/ 
+/ 58/ ./ 	/ sin5ngin3/ putyung/ khon/ ，/ kiokyu3/ patchhun/ pan/ ，/ 
+/ 59/ ./ 	/ sin5ngin3/ putyung/ ciu4/ ，/ phai3phai3/ chhong3chhong3/ yu3ngin3/ meu3/ 。/ 
+/ 
+/ 60/ ./ 	/ ngam2ngam2/ chu5chu5/ ，/ khoi5mun3/ sia2su5/ 。/ 
+/ 61/ ./ 	/ mongki/ pitmet8/ ，/ chok/ to/ lo2chhet8/ 。/ 
+/ 62/ ./ 	/ lo2chhet8/ theu5chheu3/ ，/ chok/ to/ fat8mai3/ 。/ 
+/ 63/ ./ 	/ mai3chu5/ mai3/ kieu2/ ，/ yitmai3/ chhiu/ cheu2/ 。/ 
+/ 
+/ 64/ ./ 	/ tang2/ kong5/ tang2/ kong5/ ，/ ngiu3/ hek3sui2/ yong5/ 。/ 
+/ 65/ ./ 	/ pangan1/ ma3yu3/ ，/ cheu/ to/ thien5kong5/ 。/ 
+/ 66/ ./ 	/ to/ le2/ vukzai2/ ，/ apsi2/ le2/ ngaa4/ zai2/ 。/ 
+/ 67/ ./ 	/ wu1/ …/ kaak3/ 
+/ 
+/ 68/ ./ 	/ thu2thikung5/ ，/ thu2thipo4/ 
+/ 69/ ./ 	/ hek3/ ngai3/ chai5fan/ po2/ ngai3/ vo3/ 。/ 
+/ 70/ ./ 	/ kim5ngien3/ po2/ ngai3/ chhien5chhien5/ tam5/ ，/ 
+/ 71/ ./ 	/ mang3ngien3/ po2/ ngai3/ vanvan/ lo4/ 。/ 
+/ 
+/ 72/ ./ 	/ kie5kung5/ mi5pa5/ chhong3/ ，/ lo2po4/ chhin5ko/ ngiong3/ ，/ 
+/ 73/ ./ 	/ ngiong3ci5/ lupien5/ chho2/ ，/ putsii/ lo2po4/ hau/ ，/ 
+/ 74/ ./ 	/ ngiong3/ yeu5chhien3/ ，/ su2yitsat/ ，/ lo2po4/ yeu5chhien3/ tim5/ chii2/ ha/ ，/ 
+/ 75/ ./ 	/ yu3chhien3/ put/ pa2/ tha5/ ，/ fathi/ ka/ phet8ka5/ ，/ 
+/ 76/ ./ 	/ seu5fan/ chu2zuk1/ mo3ngin3kon2/ ，/ mo3yi3mo3ng2/ cho/ ko5koa2/ 。/ 
+/ 
+/ 77/ ./ 	/ ngiet8kong5kong5/ ，/ cheu2/ ho3fong1/ ，/ ho3fong1/ pung3to/ :/ 
+/ 78/ ./ 	/ chu5haam4/ chheu3/ ，/ kieu2/ seu5fo2/ ，/ meumi2/ zing1fan/ hi/ ho1ho1/ ，/ 
+/ 79/ ./ 	/ heu3chii2/ tam5sui2/ chiang2song/ chho5/ ，/ yitthiau3/ vu5sa3/ siin5pien5/ ko/ ，/ 
+/ 80/ ./ 	/ haktet/ heu3chii2/ ta2do1so1/ 。/ 
+/ 
+/ 81/ ./ 	/ ngiet8kong5kong5/ ，/ mienphun3/ tong/ ，/ chia2chia2/ chhutka/ ngai3/ kong5/ siong5/ 。/ 
+/ 82/ ./ 	/ chia2chia2/ huk1/ ，/ ngai3/ ya/ huk1/ ，/ chia2chia2/ hek3fan/ ngai3/ hek3/ zuk1/ 。/ 
+/ 83/ ./ 	/ chia2chia2/ fa/ ngai3/ koai5koai5/ po2/ ，/ ngai3fa/ chia2chia2/ ka/ go2/ thai2chii2/ ngo2/ 。/ 
+/ 
+/ 84/ ./ 	/ yong3ci3po4/ ，/ fi5ko/ ho3/ ，/ 
+/ 85/ ./ 	/ ta2lan/ gong1/ ，/ vichu5/ maa1/ 。/ 
+/ 86/ ./ 	/ chu5maa1/ vi/ tet/ ngiu3ngiong2/ thai/ ，/ khien5/ to/ fu2ho3/ sang3leoi5/ mai/ ；/ 
+/ 87/ ./ 	/ mai/ ya/ putchhiit8chhien3/ ，/ khien5chha2/ hi/ kui5/ kongien3/ 。/ 
+/ 88/ ./ 	/ ngiong3/ puthek3/ ，/ ya3/ puthek3/ ，/ khien5song/ piak/ ；/ 
+/ 89/ ./ 	/ piakmolu/ ，/ khien5song/ su/ ；/ 
+/ 90/ ./ 	/ sumoaa1/ ，/ tiet/ chhai/ po4po4/ sii2/ gaau3/ ha/ ；/ 
+/ 91/ ./ 	/ cho2yitmia5/ ，/ yuyitmia5/ ，/ mia5/ to/ sam5ki5/ phunhiong5/ fa5/ ；/ 
+/ 92/ ./ 	/ thaing2/ loi3/ ，/ tai/ yitki5/ ；/ 
+/ 93/ ./ 	/ seng2/ loi3/ ，/ tai/ yitki5/ ；/ 
+/ 94/ ./ 	/ han3yu3/ yitki5/ chhap/ chhai/ thaimun3heu2/ ，/ 
+/ 95/ ./ 	/ fa5/ fa5niau5/ zai2/ loi3chok/ caau4/ ；/ 
+/ 96/ ./ 	/ caau4yi3/ choktetyen3/ ya/ chhong3/ ，/ ta2lo4/ ta2ku2/ chiap/ sin5ngiong3/ ；/ 
+/ 97/ ./ 	/ sin5ngiong3/ ai2/ ，/ ka/ pong4haai5/ ；/ 
+/ 98/ ./ 	/ pong4haai5/ patchak/ kiok/ ，/ ka/ pong5hok/ ；/ 
+/ 99/ ./ 	/ pong5hok/ yitthiau3/ phung/ ，/ ka/ chhai3phung/ ；/ 
+/ 100/ ./ 	/ chhai3phung/ su2chiuk/ man/ ，/ ka/ chakngaan6/ ；/ 
+/ 101/ ./ 	/ ngaan6fi/ fi5/ ，/ ka/ ya5kie5/ ；/ 
+/ 102/ ./ 	/ ya5kie5/ man5san5/ cheu2/ ，/ ka/ chak/ kieu2/ ；/ 
+/ 103/ ./ 	/ kieu2fi/ hou4/ ，/ ka/ chak/ meu/ ，/ 
+/ 104/ ./ 	/ meuyi3/ thiauko/ chhiong3/ ，/ chok/ to/ lo2syu2/ tit/ ngiong3/ ；/ 
+/ 105/ ./ 	/ lo2syu2/ hi/ chhim3ngiong3/ ，/ chhim3to/ liong2kin5/ fa5fa5/ chhong3/ 。/ 
+/ 106/ ./ 	/ lo2syu2/ lo2syu2/ loi3/ huk1ngiong3/ ，/ yitya/ nauto/ thien5thai/ liong/ 。/ 
+/ 107/ ./ 	/ ngiet8kong5/ ya3ya3/ ，/ po2fu/ ngaa4/ ngaa4/ 。/ 
+/ 108/ ./ 	/ ngaa4/ ngaa4/ chhong3thai/ ，/ sang5yi/ mai5mai/ 。/ 
+/ 109/ ./ 	/ mai5mai/ chhonchhien3/ ，/ mai5kie5/ mai5/ ngiuk/ kongien3/ 。/ 
+/ 110/ ./ 	/ kongien3/ kotet/ hau/ ，/ ceoi2/ go2/ thaisou2/ 。/ 
+/ 111/ ./ 	/ thaisou2/ fi/ tongka5/ ，/ sesou2fi/ thiau5fa5/ 。/ 
+/ 112/ ./ 	/ ngitli5/ thiau5/ go2/ thon3thon3chon2/ ，/ yaleoi5/ thiau5/ go2/ maau5daan1fa5/ 。/ 
+/ 113/ ./ 	/ maau5daan1fa5/ ha/ yittui/ ngo4/ ，/ koloi3/ kohi/ khon/ a5po4/ ，/ 
+/ 
+/ 114/ ./ 	/ a5po4/ put/ chhaika5/ ，/ 
+/ 115/ ./ 	/ liong2/ go2/ ha3/ ji4/ to/ van2/ chha3/ ，/ 
+/ 116/ ./ 	/ to/ van2/ siip8li1/ chha3/ ，/ to/ van2/ zi1ma3/ theuchii2/ chha3/ ，/ 
+/ 117/ ./ 	/ ngai3/ go2/ zi1ma3/ phang/ khoi5fa5/ ，/ ngi3/ zi1ma3/ chhiu/ chhai/ haap3/ 
+/ 118/ ./ 	/ su5le2chhien3/ ，/ putnginchong/ 
+/ 119/ ./ 	/ chho5fo2chha5/ ，/ to/ kiu2kong5/ 
+/ 120/ ./ 	/ kiu2kong5/ fatle2/ fo2/ ，/ haktet/ vong5/ mau3sii5li5/ do2/ 
+/ 121/ ./ 	/ mau3sii5li5/ yitthiau3/ sa3/ ，/ haktit/ vong5/ susong/ pha3/ 
+/ 122/ ./ 	/ susong/ yitchak/ van2/ ，/ kot/ putle2/ phangchii2/ go2/ lon2/ 
+/ 
+/ 123/ ./ 	/ chhak/ tung5piak/ ，/ pu2/ si5piak/ 。/ 
+/ 124/ ./ 	/ chhaknam3piak/ ，/ pu2/ petpiak/ ，/ chhakpiak/ pu2piakpiak/ pu2piak/ 
+/ 125/ ./ 	/ vu5/ yitchhien5/ ，/ ma3/ patpak/ ，/ pak8/ kie5po4/ hadaan6/ putla/ hek3/ 。/ 
+/ 126/ ./ 	/ pak8piakkoa/ pak8fa/ ，/ han3sii/ fapak8/ ci5piak/ ，/ han3sii/ piakpak8/ ci5fa/ 。/ 
+/ 127/ ./ 	/ hek3/ ngiuk/ phang/ fun/ ，/ ta2laan6/ but3chii2/ yu3/ fun/ 
+/ 128/ ./ 	/ yit/ chukgou1/ ta2to/ yitson3/ ngin3/ 
+/ 129/ ./ 	/ dong1mienlo4/ ，/ deoi3mienku2/ 
+/ 130/ ./ 	/ sii2/ kipjin6/ va5hang5/ tau4/ 
+/ 131/ ./ 	/ laan5ngin3/ sii2ngiau/ to5/ 
+/ 132/ ./ 	/ yen5hei3/ gok1/ sii/ din1chii2/ ，/ khonhei3/ gok1/ sii/ ceon2chii2/ 
+/ 133/ ./ 	/ mung2mung2tung2tung2/ ，/ daam1daam1/ sui2thung2/ ，/ tiet/ bat1/ yittau4/ ，/ waan4/ put/ hiu2tet/ hing1chhung3/ 
+/ 134/ ./ 	/ haam4jyu4/ zai2jin1/ faan6/ ，/ wo1/ tu5/ vi/ koat/ laan6/ 
+/ 135/ ./ 	/ yu3joeng6/ phang/ joeng6/ khon/ siisong/ 
+/ 136/ ./ 	/ chhun5/ khonchhun5/ ，/ wu6/ khonwu6/ ，/ khiun3zung3/ khon/ kon5phu/ 
+/ 137/ ./ 	/ ta2tit3/ phang/ joeng6/ ，/ bin1/ ta2bin1/ siong/ 。/ 
+/ 138/ ./ 	/ kau2/ chiu2chok/ theufu2/ ，/ chhung5/ puttet/ lo2si1fu6/ 
+/ 139/ ./ 	/ tou2can1/ kang2/ ，/ put/ phit/ fung1yi2/ 
+/ 140/ ./ 	/ o5/ sii2/ put/ chhutyen/ hang5tau4/ 
+/ 141/ ./ 	/ hek3li1/ ng2ngiet8/ zung2/ ，/ chhoi3/ pa2/ pulaam4sung/ 
+/ 142/ ./ 	/ hek3/ chiu2liong/ siin5gaai3/ 
+/ 143/ ./ 	/ ta2si1pha/ mang5si1/ 
+/ 144/ ./ 	/ ngaa4zak1/ seoi3/ pan/ ，/ fan5taan4/ ta2kon/ 
+/ 145/ ./ 	/ ta2tit3/ wun6tong4/ ，/ kokyu3/ kokhang3/ 
+/ 146/ ./ 	/ yitchak/ lo4puk/ yitchak/ wo1/ 
+/ 147/ ./ 	/ ya/ chohau/ ，/ ya/ cho/ cau2/ 
+/ 148/ ./ 	/ va5/ futlung3/ cam4sa3/ ta2/ 
+/ 149/ ./ 	/ zyu1yu3/ caau2chhoi/ ，/ kokyu3so2oi3/ 。/ 
+/ 150/ ./ 	/ laat3lei6/ po4sii5nou5/ －/ －/ phang/ gei3sin/ 
+/ 151/ ./ 	/ kieu2/ hek3/ zung2chii2/ －/ －/ phang/ kie2/ 。/ 
+/ 152/ ./ 	/ chhiit8/ chukkon2/ to/ theuchii2/ 
+/ 153/ ./ 	/ kieu2/ tu2li5/ yitkin5/ coeng4/ 
+/ 154/ ./ 	/ na5/ chukgou1/ coek3/ thien5/ 
+/ 155/ ./ 	/ chokthien3/ putwun6zung2/ ，/  / leoi6tet/ pa3/ kiung2/ kiung2/ 
+/ 156/ ./ 	/ yitngien3/ chokthien3/ ，/ loeng5ngien3/ hek3faan6/ 
+/ 157/ ./ 	/ chhun3chang5/ ngit/ ，/ hachang5/ sii3/ 。/ 
+/ 158/ ./ 	/ chhoiyen3/ chhoiyen3/ ，/ ngitngit/ yeu5/ yen3/ 。/ 
+/ 159/ ./ 	/ theu3tho/ cho2/ ，/ ngitho/ hau/ ，/ sam5tho/ soima5/ paau2/ 
+/ 160/ ./ 	/ hauchung/ chhut/ haumeu3/ 
+/ 161/ ./ 	/ yong5hau/ yitpan/ vo3/ 
+/ 162/ ./ 	/ mung2mung2tung2tung2/ ，/ chhin5mang3/ chimchung/ 
+/ 163/ ./ 	/ lui3kung5/ sien5/ chhongko5/ ，/ yu3yi2/ ya/ put/ to5/ 
+/ 164/ ./ 	/ fo2seu5yun3/ ，/ mang3ngit/ sai/ si2/ ngin3/ 
+/ 165/ ./ 	/ ngisi/ patngiet8/ lon/ chhon5yi5/ 
+/ 166/ ./ 	/ goeng1/ han3sii/ lo2/ go2/ laat6/ 
+/ 167/ ./ 	/ choisong/ phang/ mo5/ ，/ phanseputlou4/ 
+/ 168/ ./ 	/ ngin3pi2ngin3/ ，/ hisi2ngin3/ 
+/ 169/ ./ 	/ hek3chiu2/ putpha/ mienfung3/ 
+/ 170/ ./ 	/ ngam2chiu2/ putsong3/ ，/ hek3/ chhoi/ thaivong3/ 
+/ 171/ ./ 	/ munhak/ satkie5/ ，/ to4chii2/ chokjap1/ 
+/ 172/ ./ 	/ vong3fa5kui5ng2/ fung3fa5/ zai2/ ，/ ku5chhong5/ pan/ go2/ zai2/ 
+/ 173/ ./ 	/ chhong3song/ sii/ fu5chhi5/ ，/ chhong3ha/ sii/ kiun5chii2/ 
+/ 174/ ./ 	/ pun2se/ ya/ phang/ ，/ phi3hi/ yangau/ 。/ 
+/ 175/ ./ 	/ hek3/ tet/ cho/ puttet/ ，/ tietto/ li1hi2/ puttet/ 
+/ 176/ ./ 	/ litmi2/ sang3lo3/ ，/ litsui2sang3ho3/ 
+/ 177/ ./ 	/ chhon5putkhiung3/ ，/ hek3/ putkhiung3/ ，/ tho2fai2/ li1/ lo2po4/ yitsii/ khiung3/ 
+/ 178/ ./ 	/ hek3kong5/ yungkong5/ ，/ siin5thi2khienkhong5/ 
+/ 179/ ./ 	/ chheupak/ kui2/ 
+/ 180/ ./ 	/ hek3thuk8siit8/ 
+/ 181/ ./ 	/ koanta2/ koanhak/  / kau2fun/ sui2/ 
+/ 182/ ./ 	/ ngoili5/ ngoihang3/ ，/ hek3/ pau5chii2/ leutong4/ 
+/ 183/ ./ 	/ hap6soi/ pung3to/ chiim2theu3/ 
+/ 184/ ./ 	/ chofai2/ sang5yi/ chhiu/ yitfi3/ ，/ tho2fai2/ lo2po4/ chhiu/ yitsang5/ sii/ 
+/ 185/ ./ 	/ ya/ chongin3/ ，/ ya/ chokui2/ 
+/ 186/ ./ 	/ yitchak/ thungcong4/ puttet/ liong2chak/ lo2fu2/ 
+/ 187/ ./ 	/ ngi3/ cho/ tet/ chhu5yit/ ，/ ngai3/ chhiu/ cho/ tet/ siip8ng2/ 
+/ 188/ ./ 	/ hiong5ha/ lo4ku2/ hiong5ha/ ta2/ 
+/ 189/ ./ 	/ phang/ yu3/ phang/ yam3/ 
+/ 190/ ./ 	/ chu2tung5/ puten/ hakputsong/ 
+/ 191/ ./ 	/ ai2chii2/ ai2/ ，/ yittu2/ koai2/ 
+/ 192/ ./ 	/ ai2po4/ ai2/ ，/ yittu2/ zai2/ 
+/ 193/ ./ 	/ chha2/ si5phi3/ 
+/ 194/ ./ 	/ pei3ku2/ songtiau/ sonphan3/ 
+/ 195/ ./ 	/ sam5siip8/ van5song/ go2/ cho/ chhien3/ -/ -/ -/ -/ ngin3/ kau2kau2/ li1/ 
+/ 196/ ./ 	/ lo2fu2/ chia/ chu5theu3/ －/ －/ yu3/ chia/ phang/ han3/ 
+/ 197/ ./ 	/ phang/ ngiu3/ na5/ ma5loi3/ tong/ 
+/ 198/ ./ 	/ ya/ siong2/ ngiu3phet8/ coek3/ ，/ ya/ pha/ ngiu3/ ta2kiok/ 
+/ 199/ ./ 	/ kho/ de1de1/ fi/ lo2/ ，/ khochhiong3/ chhiong3fi/ to/ 
+/ 200/ ./ 	/ chhien5khui2/ vanpai/ yitlu3/ hiong5/ ，/ putyi3/ sang5chhien3/ yitvan2/ thong5/ 
+/ 201/ ./ 	/ lap/ bat1/ li1/ yi2loi3/ sungsaan3/ ，/ ta2si2/ kieu2/ loi3kong2/ kieu2ka/ 
+/ 202/ ./ 	/ cho2kien2yu/ kien2/ ，/ kien2to/ yitchak/ leu/ ten5chan2/ 
+/ 203/ ./ 	/ lo3baak6/ chu2zuk1/ 
+/ 204/ ./ 	/ yitngin3nan3/ man5pak/ ngin3yi/ 
+/ 205/ ./ 	/ yu3chhien3/ chhiu/ ki2on5/ fu2/ ，/ phang/ chhien3/ chhiu/ ki2on5/ fu2/ 
+/ 206/ ./ 	/ chhutmun3/ khon/ thien5set/ ，/ chinmun3/ khon/ mienset/ 
+/ 207/ ./ 	/ satchu5/ phang/ hek3/ ya/ yu3/ hek3/ ，/ pan5ka5/ phang/ sun2ya/ yu3sun2/ 
+/ 208/ ./ 	/ theufu2/ phang/ haam4kieu2/ tu5/ hiam3/ 
+/ 209/ ./ 	/ chhien5kun2/ theufu2/ vankun2ng3/ 
+/ 210/ ./ 	/ caau2chhoi/ put/ yunghok8/ ，/ chhiusii/ yeu5khiun3/ se2wo1/ 
+/ 211/ ./ 	/ songchhong3/ go2/ lo3baak6/ ha/ chhong3/ go2/ goeng1/ 
+/ 212/ ./ 	/ ngiu3/ lang5lang5/ kok/ ，/ ngin3/ lang5lang5/ kiok/ 
+/ 213/ ./ 	/ yitya/ koanfai2/ li1/ zai2/ 
+/ 214/ ./ 	/ hok8hau/ ，/ chhien5ngit/ putchiuk/ ，/ hok8daai2/ ，/ yitkung5/ yu3yi3/ 
+/ 215/ ./ 	/ ngaa4li1/ putyeu5/ lan5/ ，/ thaili1/ lo2po4/ chhin/ ngi3/ thiau5/ 
+/ 216/ ./ 	/ fi/ cheu2cheu2/ yi2putyang3/ ，/ fi/ ta2/ ta2kui2/ putyang3/ 
+/ 217/ ./ 	/ ta2kieu2/ santhong3/ 
+/ 218/ ./ 	/ ta2li1/ tang5chii2/ van5li1/ kiok/ 
+/ 219/ ./ 	/ gin3kon5/ mok8/ hiongchhien3/ ，/ hek3faan6/ mok8hiong/ heu/ 
+/ 220/ ./ 	/ hauhek3/ putliu3/ chung/ 
+/ 221/ ./ 	/ hauhon/ to5pha/ chhi5/ 
+/ 222/ ./ 	/ choksong/ kauzai2/ ，/ chiim2pien5/ gou3/ chhi5/ 
+/ 223/ ./ 	/ nen3yeu5/ khiet/ po4ngiong3/ ，/ putyeu5/ siong5kung5/ de1/ 
+/ 224/ ./ 	/ yitngiong2/ go2/ mi2/ kiung2/ chhut/ pakngiong2/ go2/ ngin3/ 
+/ 225/ ./ 	/ kien/ ngin3/ sam5/ pien2tam5/ 
+/ 226/ ./ 	/ chakyu3/ chhui5kung5/ phang/ chhui5/ hek3/ 
+/ 227/ ./ 	/ lui3kung5/ put/ ta2/ khapfan/ ngin3/ 
+/ 228/ ./ 	/ hek3/ yen5/ hiethi/ ，/ lo2baan2/ putkam2/ fongpei3/ 
+/ 229/ ./ 	/ coek3/ mangin3/ ta2/ patchak/ 
+/ 230/ ./ 	/ fo3song/ put/ kip/ thosii/ kip/ 
+/ 231/ ./ 	/ siip8ngiong2/ phang/ yitngiong2/ 
+/ 232/ ./ 	/ chhu5loi3/ poto/ ，/ put/ hiau2tet/ hang5theu3chiang2/ cho/ 
+/ 233/ ./ 	/ kie5yu3/ kie5lu/ ，/ apyu3/ aplu/ ，/ gap3maa4/ molu/ ya/ thiau/ sam5phu/ 
+/ 234/ ./ 	/ chhien3wo1/ yeu2/ toheuwo1/ 
+/ 235/ ./ 	/ khiatnga3seu/ paunga3/ 
+/ 236/ ./ 	/ ha3kung5ngo2/ song/ tai/ to4/ sii2/ ，/ put/ hiau2tet/ sii2/ chhungiausau5/ 
+/ 237/ ./ 	/ ngien3ki/ to5to5/ ，/ phitai3/ soksok/ 
+/ 238/ ./ 	/ lo2fu2/ ya/ yu3/ ta2/ hap6khun/ go2/ sii3kien5/ 
+/ 239/ ./ 	/ sat8theu3/ pi2ha/ apsi2/ ngin3/ 
+/ 240/ ./ 	/ sam5ngin3/ chhiit8mien/ 
+/ 241/ ./ 	/ ton5li1/ ngin3ka5/ go2/ van2/ ，/ chhiuyeu5/ su/ ngin3ka5/ go2/ kon2/ 
+/ 242/ ./ 	/ hek3/ ngin3ka5/ go2/ chhiu/ hek3tetchhut/ hon/ ，/ phet8ngin3/ go2/ hek3/ chhiigei2/ go2/ chhiu/ hek3tetchhut/ ngien2lai6/ 
+/ 243/ ./ 	/ seu2hi/ kui5let8/ 
+/ 244/ ./ 	/ chhiu/ hauchhiong/ sii/ chia/ li1/ ki3/ go2/ mi2/ ，/ han3/ li1/ ki3/ go2/ hong1/ yitngiong2/ 
+/ 245/ ./ 	/ pei3ku2/ songsang5/ li1/ chhiuk/ 
+/ 246/ ./ 	/ tung5kien2/ lo3baak6/ si5/ kien2/ goeng1/ 
+/ 247/ ./ 	/ sui2/ ta2lan/ mukchheu3/ ，/ ta2hi/ ya/ ta2loi3/ ，/ yeu5/ siong2/ hi/ ya/ siong2loi3/ 
+/ 248/ ./ 	/ tietku2/ hiensii/ 
+/ 249/ ./ 	/ paingien3/ paito/ chhu5/ chhitpat/ ，/ khui2/ topi2/ ha/ phang/ ngin3/ tap/ 
+/ 250/ ./ 	/ hung1/ tet/ ok3/ puttet/ 
+/ 251/ ./ 	/ ngion5/ go2/ pha/ ngang/ go2/ ，/ ngang/ go2/ pha/ putyeu5miang/ go2/ 
+/ 252/ ./ 	/ theufu2/ zim1to/ foi5/ ，/ chhoi5/ ya/ chhoi5/ puttet/ ，/ ta2/ ya/ ta2/ puttet/ 
+/ 253/ ./ 	/ ham/ tet/ lung5/ ，/ hottet/ san/ 
+/ 254/ ./ 	/ ko/ fachii2/ kien2to/ yitki/ fa/ ，/ thien5kong5/ fa/ to/ ya/ 
+/ 255/ ./ 	/ ta2lam2zoeng6/ 
+/ 256/ ./ 	/ kien2to/ li1/ gaau3/ 
+/ 257/ ./ 	/ ko5/ put/ chhiong/ go2/ tung5koa5/ ，/ ai2/ put/ chhiong/ go2/ petkoa5/ 
+/ 258/ ./ 	/ ngin3yu3/ patchiet/ chho2/ ，/ put/ hiau2tet/ na2chiet/ hau/ 
+/ 259/ ./ 	/ ceon2putceon2/ ，/ koai5putkoai5/ 
+/ 260/ ./ 	/ yitngien3/ siki/ ，/ chung2son/ fa/ to/ yitki/ 
+/ 261/ ./ 	/ hiencho/ hienwo1/ ，/ ngam2fo2/ chhiu/ chhok8/ 
+/ 262/ ./ 	/ hek3sii2/ tu5/ yeu5/ chham5sa5/ 
+/ 263/ ./ 	/ ngo2hok/ chai/ thai/ ya/ sii/ chhai/ teu2lap1/ ha/ 
+/ 264/ ./ 	/ haudaai2/ putsiit/ ，/ chhangsaan3/ tailap1/ 
+/ 265/ ./ 	/ sang5si2/ yitthiau3/ miang/ 
+/ 266/ ./ 	/ gap3maa4/ phang/ kiang2/ ，/ ngaa4chii2/ phang/ yeu5/ 
+/ 267/ ./ 	/ yu3/ chhiu/ su5/ ，/ phang/ chhiu/ tiu5/ 
+/ 268/ ./ 	/ chhung3/ tet/ song/ chhiuchhung/ ，/ chhung3/ put/ song/ chhiu/ song/ kong2tung5/ 
+/ 269/ ./ 	/ suyap8/ lak6/ tiethaloi3/ tu5/ pha/ ta2/ to/ ngo2hok/ 
+/ 270/ ./ 	/ sang5zai2putchhut/ pan5chhong3/ kiok/ 
+/ 271/ ./ 	/ vong3/ kieu2hek3sii2/ ，/ hetkieu2/ tongchai5/ 
+/ 272/ ./ 	/ vangfavang/ yu3li5/ ，/ chhiit8fa/ chhiit8/ yu3li5/ 
+/ 273/ ./ 	/ choipa5/ sii/ vangsang5/ go2/ 
+/ 274/ ./ 	/ sitsit/ so3so3/ ，/ pipi/ mia5mia5/ 
+/ 275/ ./ 	/ chhiichhu2/ putkau/ 
+/ 276/ ./ 	/ vun2tong/ putpha/ to5/ 
+/ 277/ ./ 	/ lo3/ lo3/ chon2/ 
+/ 278/ ./ 	/ ten2/ tet/ kiu2/ ，/ chhiiyen3/ yu3/ 
+/ 279/ ./ 	/ chhien5se/ vanse/ ，/ hek3/ sii/ thaise/ 
+/ 280/ ./ 	/ lap/ yi2thien5/ hok8/ go2/ 
+/ 281/ ./ 	/ tet/ putchhin/ go2/ yang3/ oa5/ ，/ song/ putchhin/ go2/ tong/ 
+/ 282/ ./ 	/ kung5putli3po4/ ，/ chhiinputli3to4/ 
+/ 283/ ./ 	/ zai2thai/ putyu3/ de1de1/ 
+/ 284/ ./ 	/ chak/ pau5li1/ ngi3/ fa/ lo2po4/ ，/ putnen3/ pau5/ ngi3/ yong5/ zai2/ 
+/ 285/ ./ 	/ theu5lang5fan/ hek3/ 
+/ 286/ ./ 	/ sii3loi3yunloi3/ ，/ tho2/ go2/ lo2po4/ taitu2loi3/ 
+/ 287/ ./ 	/ kien2/ heukiok/ 
+/ 288/ ./ 	/ yitchak/ su2nan3/ chok/ liong2chakng3/ 
+/ 289/ ./ 	/ thaihon5/ sam5ngien3/ ，/ ngoputsi2/ chhu3gun1/ sii5fu6/ 
+/ 290/ ./ 	/ han3/ phang/ yong5/ zai2/ chhiu/ sien5on5miang3/ 
+/ 291/ ./ 	/ ta2pei3chon2/ puttet/ siin5/ 
+/ 292/ ./ 	/ hiam3phi3/ tap/ lim5/ 
+/ 293/ ./ 	/ tongmienlo4/ ，/ tuimienku2/ ，/ yu3se/ fa/ chhin5chhu2/ 
+/ 294/ ./ 	/ yu3/ chhiusii/ yitha/ ，/ mo3/ chhiu/ chhat/ lanzik6/ 
+/ 295/ ./ 	/ sii2/ kipleoi5/ va5hang5/ ，/ loi3putkhip8/ le2/ 
+/ 296/ ./ 	/ hau/ kisin/ putyi3/ lan/ pittheu3/ 
+/ 297/ ./ 	/ yit/ chukgou1/ ta2fan5/ yitson3/ ngin3/ 
+/ 298/ ./ 	/ chhu5sam5/ lapyi2/ siip8sam5/ cing4/ ，/ siip8sam5/ lapyi2/ phang/ luhang3/ 
+/ 299/ ./ 	/ put/ kie5/ vo3/ dau1/ put/ sang5/ kuk/ 
+/ 300/ ./ 	/ pien5ta2/ thung3lo4/ pien5kui2/ giu3/ 
+/ 301/ ./ 	/ chho2/ put/ hek3sii2/ put/ o5/ 
+/ 302/ ./ 	/ chothien3/ put/ fung5su5/ ，/ chhion3kho/ ngiu3/ hek3/ vo3/ 
+/ 303/ ./ 	/ chhitngiet8/ puttet/ patngiet8/ to/ 
+/ 304/ ./ 	/ fung3ngien2/ chu5liuk8/ phichii2/ 
+/ 305/ ./ 	/ pei3ku2/ songtiau/ sonphan3/ 
+/ 306/ ./ 	/ ngin3ceon2/ phang/ yok8yi5/ ，/ kieu2ceon2/ hek3/ baau1/ sam1/ 
+/ 307/ ./ 	/ phang/ zai2/ liu3/ sik1fu/ putchhu/ 
+/ 308/ ./ 	/ si2muklan/ chheu3/ 
+/ 309/ ./ 	/ kiu4kui5kiu4/ ，/ lukui5lu/ 
+/ 310/ ./ 	/ susong/ go2/ tiau5/ zai2/ tu5/ fi/ hung1/ tet/ haloi3/ 
+/ 311/ ./ 	/ chokto/ li1/ chhet8/ yitngiong2/ 
+/ 312/ ./ 	/ ngitchii2/ soksok/ ko/ ，/ thung3chhien3/ mo5/ pan/ go2/ 
+/ 313/ ./ 	/ yitngien3/ yitngien3/ lo2/ ，/ lo2po4/ han3/ phang/ tho2/ 
+/ 314/ ./ 	/ giu3fachii2/ cong4/ puttet/ sau1fan/ 
+/ 315/ ./ 	/ cing4/ ya/ yeu5/ ，/ yi2/ ya/ yeu5/ ，/ zai2/ ya/ yeu5/ ，/ ng2/ ya/ yeu5/ 
+/ 316/ ./ 	/ chheu3/ to5mi2/ to5/ ，/ siikie/ ngitchii2/ kien/ to5/
